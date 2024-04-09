@@ -1,0 +1,10 @@
+@mixin displayPosition($align,$justify){
+    display: flex;
+    align-items: $align;
+    justify-content: $justify;
+}
+
+@mixin align-items($align){
+    display: flex;
+    align-items: $align;
+}

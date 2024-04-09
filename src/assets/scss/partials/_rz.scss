@@ -1,0 +1,64 @@
+html{
+    background-color: #725AEC;
+}
+.rz-shadow {
+    box-shadow: 0px 11px 34px 0px rgba(51.99999999999999, 98.99999999999989, 188, 0.1);
+}
+
+.rz-shadow-md {
+    box-shadow: 0 15px 30px rgba(0, 0, 0, .1)
+}
+.rz-shadow-review{
+    box-shadow: 0 15px 55px rgba(0,0,0,.075);
+}
+.rz-feature-image-circle {
+    background: linear-gradient(#F1EAFF 50%, rgba(255, 255, 255, 0.8) 90%);
+}
+
+.rz-hero-img {
+    animation: wave-ups-down 5s infinite;
+}
+.rz-step{
+    align-items: start !important;
+}
+.rz-step::after {
+    background-color: white !important;
+    width: 43px !important;
+    height: 43px !important;
+    transition: all 0.3s ease !important;
+    border-radius: 50%;
+    font-family: $poppins !important;
+    font-weight: 600 !important;
+    color: #181B31 !important;
+    place-self: inherit !important;
+
+}
+
+.rz-step:hover:after {
+    background-color: #725AEC !important;
+    color: white !important;
+}
+
+.steps-vertical {
+    .step::before {
+        width: 2px !important;
+    }
+    // .step-last::before{
+    //     width:0px !important;
+    // }
+}
+.rz-footer{
+   background-image: linear-gradient(to bottom,#f0edfd,white);
+}
+
+.rz-join-section{
+    background-color: transparent;
+    background-image: linear-gradient(180deg, #EEF7FA 0%, #FFFFFF 100%);
+}
+
+.rz-email-input::placeholder{
+    font-family: $poppins;
+    font-weight: 400;
+    color: #8081AB;
+}
+

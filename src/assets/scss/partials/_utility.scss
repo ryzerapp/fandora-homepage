@@ -1,0 +1,6 @@
+.flex-center{
+    @include displayPosition(center,center);
+}
+.flex-items-center{
+    @include align-items(center)
+}
