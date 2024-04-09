@@ -8,13 +8,13 @@ const menu = [
         href: '/about-us'
     },
     {
-        name: 'Why Ryzer ?',
-        href: '/why-ryzer'
+        name: 'Why Fandora?',
+        href: '/why-fandora'
     },
    
     {
-        name: 'How ryzer works',
-        href: '/how-ryzer-works'
+        name: 'How it works?',
+        href: '/how-fandora-works'
     },
     {
         name: 'Be a partner',

@@ -20,12 +20,12 @@ export default function Home() {
         <Navbar />
         <Hero />
         <ExploreAsset />
-        <Feature />
+        {/* <Feature /> */}
         <Principle />
-        <Community />
+        {/* <Community /> */}
         <WorkFlow home={true}/>
         <Faqs />
-        <Review />
+        {/* <Review /> */}
         <Blog />
         <Join />
         <Footer />

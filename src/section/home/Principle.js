@@ -15,7 +15,7 @@ const Principle = () => {
                                 </div>
                             </div>
                             <h2 className="md:leading-[55px] xs:leading-[45px] leading-[32px]  max-xl:text-center text-[23px] xs:text-[30px] md:text-[40px] poppins-700 text-[#45485F]">Real estate investing. For Real people.</h2>
-                            <p className="poppins-400 my-5 max-xl:text-center tracking-[0.7px] text-base sm:text-lg text-[#627C89]">For the first time, investors around the globe can buy India's best peforming real estate assets through fully-compliant, regulated tokenized ownership. Powered by Polygon blockchain.</p>
+                            <p className="poppins-400 my-5 max-xl:text-center tracking-[0.7px] text-base sm:text-lg text-[#627C89]">Fandora is unlocking the potential in USD 300 Billion+ Content IP Market - and let you not just consume Content, but co-own it</p>
                             <div className="mt-8 flex max-xl:justify-center">
                                 <div>
                                     <div className="flex-items-center  my-5">
@@ -59,13 +59,13 @@ const Principle = () => {
                                 <div className="bg-[white] cursor-pointer rounded-md flex-center  drop-shadow-lg hover:drop-shadow-2xl transition-all sm:hover:scale-110 duration-300 px-6 sm:px-8 py-[1.5rem] md:py-[2.5rem]">
                                     <div>
                                         <div className="flex justify-start items-center">
-                                            <img alt="Affordable & Inclusive" className="w-[68px] h-[68px]" src="/assets/img/svg/svgviewer-output.svg" />
+                                            <img alt="Underlying Revenue Share/IP Share" className="w-[68px] h-[68px]" src="/assets/img/svg/svgviewer-output.svg" />
                                         </div>
                                         <h3 className="mt-5 text-[#222222] poppins-500 text-[16px] sm:text-[18px]  xl:text-[20px]">
-                                            Affordable & Inclusive
+                                        Underlying Revenue Share/IP Share
                                         </h3>
                                         <p className="poppins-400 my-5  tracking-[0.7px] text-base sm:text-lg text-[#627C89]">
-                                            Ryzer's well vetted & verified asset token or share price starts with as low as ₹10,000
+                                        Your fractions on Fandora gives you access to regular, pre-defined percentage of Revenue Share and/or IP share of every project
                                         </p>
                                     </div>
                                 </div>
@@ -74,13 +74,13 @@ const Principle = () => {
                                 <div className="bg-[white] cursor-pointer rounded-md flex-center  drop-shadow-lg hover:drop-shadow-2xl transition-all sm:hover:scale-110 duration-300 px-6 sm:px-8 py-[1.5rem] md:py-[2.5rem]">
                                     <div>
                                         <div className="flex justify-start items-center">
-                                            <img alt="Ownership Protection" className="w-[68px] h-[68px]" src="/assets/img/svg/ownership.svg" />
+                                            <img alt="Careful Curation and Strong Due-Diligence" className="w-[68px] h-[68px]" src="/assets/img/svg/ownership.svg" />
                                         </div>
                                         <h3 className="mt-5 text-[#222222] poppins-500 text-[16px] sm:text-[18px]  xl:text-[20px]">
-                                            Ownership Protection
+                                            Careful Curation and Strong Due-Diligence
                                         </h3>
                                         <p className="poppins-400 my-5  tracking-[0.7px] text-base sm:text-lg text-[#627C89]">
-                                            Our stringent SPV structure & Blockchain data provides a great control to protect investors & asset.
+                                        All projects listed on Fandora have gone through strenuous due diligence - and you can access all key documents on every project, which can help you make the right decision.
                                         </p>
                                     </div>
                                 </div>
@@ -89,13 +89,13 @@ const Principle = () => {
                                 <div className="bg-[white] cursor-pointer rounded-md flex-center  drop-shadow-lg hover:drop-shadow-2xl transition-all sm:hover:scale-110 duration-300 px-6 sm:px-8 py-[1.5rem] md:py-[2.5rem]">
                                     <div>
                                         <div className="flex justify-start items-center">
-                                            <img alt="Look for long-term investment returns" className="w-[68px] h-[68px]" src="/assets/img/svg/return.svg" />
+                                            <img alt="Escrow backed funds flow" className="w-[68px] h-[68px]" src="/assets/img/svg/return.svg" />
                                         </div>
                                         <h3 className="mt-5 text-[#222222] poppins-500 text-[16px] sm:text-[18px]  xl:text-[20px]">
-                                            Look for long-term investment returns
+                                            Escrow backed funds flow
                                         </h3>
                                         <p className="poppins-400 my-5  tracking-[0.7px] text-base sm:text-lg text-[#627C89]">
-                                            Ryzer takes a longterm approach in order to provide greater capital appreciation.
+                                        All projects will have individual escrow accounts - bringing transparency in fund inflow and revenue flow for all investors
                                         </p>
                                     </div>
                                 </div>
@@ -104,13 +104,13 @@ const Principle = () => {
                                 <div className="bg-[white] cursor-pointer rounded-md flex-center  drop-shadow-lg hover:drop-shadow-2xl transition-all sm:hover:scale-110 duration-300 px-6 sm:px-8 py-[1.5rem] md:py-[2.5rem]">
                                     <div>
                                         <div className="flex justify-start items-center">
-                                            <img alt="A-Z Property management" className="w-[68px] h-[68px]" src="/assets/img/svg/management.svg" />
+                                            <img alt="Convinience" className="w-[68px] h-[68px]" src="/assets/img/svg/management.svg" />
                                         </div>
                                         <h3 className="mt-5 text-[#222222] poppins-500 text-[16px] sm:text-[18px]  xl:text-[20px]">
-                                            A-Z Property management
+                                            Convinience
                                         </h3>
                                         <p className="poppins-400 my-5  tracking-[0.7px] text-base sm:text-lg text-[#627C89]">
-                                            Our team of asset management professionals & partners handles it all. Hassle free ownership & returns.
+                                        ou can mark your committment with just 20% of required funds and pay rest later once all commitments close
                                         </p>
                                     </div>
                                 </div>

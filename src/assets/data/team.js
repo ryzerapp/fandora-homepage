@@ -1,96 +1,79 @@
 const coreTeam = [
     {
-        name: 'Mehul.k',
-        profileImage: "/assets/img/png/mehul.png",
-        designation: "Co-Founder & CTO",
-        profileUrl: "https://www.linkedin.com/in/mehul-kalathiya-9226b8145/"
+        name: 'Satish Kataria',
+        profileImage: "/assets/img/png/Satish-Kataria.png",
+        designation: "Co-Founder",
+        profileUrl: "https://www.linkedin.com/in/katariasatish/"
     },
     {
-        name: 'Vishwas',
-        profileImage: "/assets/img/png/vishwas.png",
-        designation: "Co-Founder & CPO",
-        profileUrl: "https://www.linkedin.com/in/vishwas-kashyap/"
+        name: 'Kaushik Das',
+        profileImage: "/assets/img/png/kaushik-das.png",
+        designation: "Co-Founder",
+        profileUrl: "https://www.linkedin.com/in/kaushik-das-639087190/"
     },
     {
-        name: 'Mahesh',
-        profileImage: "/assets/img/png/mahesh.png",
-        designation: "Head Of Assets",
-        profileUrl: "https://www.linkedin.com/in/mahesh-g-14b182172/"
+        name: 'Ram Patnaik',
+        profileImage: "/assets/img/png/ram-patnaik.png",
+        designation: "Co-Founder",
+        profileUrl: "https://www.linkedin.com/in/rampatnaik/"
     },
-    {
-        name: 'Jugapratim',
-        profileImage: "/assets/img/png/JP.png",
-        designation: "Asset Acquisitions (Head)",
-        profileUrl: "https://www.linkedin.com/in/jugapratim-gohain-a5491518/"
-    },
-    {
-        name: 'Sagar Bansal',
-        profileImage: "/assets/img/png/sagar.png",
-        designation: "Head Of Marketing",
-        profileUrl: "https://www.linkedin.com/in/sagarbansal21/"
-    },
-    {
-        name: 'Saurabh Jain',
-        profileImage: "/assets/img/png/saurabh.png",
-        designation: "Head of Investmnets",
-        profileUrl: "https://www.linkedin.com/in/saurabh-jain-ib/"
-    }
 ]
 
-const productTeam=[
+const vancouver=[
     {
-        name: 'Tarun',
-        profileImage: "/assets/img/png/tarun.png",
-        designation: "Head of Development",
-        profileUrl: "https://www.linkedin.com/in/tarun-panchani-a3011b198/"
+        name: 'Priya Nair',
+        profileImage: "/assets/img/png/priya-nair.png",
+        designation: "Marketing",
+        profileUrl: "https://www.linkedin.com/in/pn5/"
     },
     {
-        name:"Parth",
-        profileImage:"/assets/img/jpg/parth.jpeg",
-        designation:"Full-stack Developer",
-        profileUrl:"https://www.linkedin.com/in/riddhish-dobariya-504750246/"
+        name:"Arjinder Singh",
+        profileImage:"/assets/img/png/A singh.png",
+        designation:"Administration Head",
+        profileUrl:""
     },
     {
-        name:"Keval S",
-        profileImage:"/assets/img/png/keval.png",
-        designation:"Full-stack developer",
-        profileUrl:"https://www.linkedin.com/in/keval-sabhani/"
+        name:"Guneet Kaur",
+        profileImage:"/assets/img/png/guneet-kaur.png",
+        designation:"Operations Head",
+        profileUrl:"https://www.linkedin.com/in/guneet-kaur-861562240/"
     },
     {
-        name:"Shubham",
-        profileImage:"/assets/img/png/shubham.png",
-        designation:"UX/UI Designer",
-        profileUrl:"https://www.linkedin.com/in/shubham-kharwade-089a00131/"
+        name:"Rajan George",
+        profileImage:"/assets/img/png/Rajan George.png",
+        designation:"Sales Management",
+        profileUrl:""
     },
     
 ]
-
-const legalTeam=[
+const directors=[
     {
-        name: 'Sanika Kulkarni',
-        profileImage: "/assets/img/jpg/sanika.jpeg",
-        designation: "Legal - Compliances",
-        profileUrl: "https://www.linkedin.com/in/sanika-kulkarni-3a73651a4/"
+        name: 'Sangeet Hemant Kumar',
+        profileImage: "/assets/img/png/kumar.png",
+        designation: "",
+        profileUrl: "https://www.linkedin.com/in/kumarsangeet/"
     },
     {
-        name:"shaswat",
-        profileImage:"/assets/img/png/Shaswat.png",
-        designation:"Legal - Defi & Blockchain",
-        profileUrl:"https://www.linkedin.com/in/shaswatakapat/"
-    },
-    {
-        name:"Apurva Agarwal",
-        profileImage:"/assets/img/png/Apurva.png",
-        designation:"Legal Partner",
-        profileUrl:"https://www.linkedin.com/in/apurvaagarwal/"
-    },
-    {
-        name:"Kishore",
-        profileImage:"/assets/img/png/Kishore.png",
-        designation:"Operations",
-        profileUrl:"https://www.linkedin.com/in/kishore-kumar-settim-1440b556/"
+        name:"Ronak Sheth",
+        profileImage:"/assets/img/png/ronak.png",
+        designation:"",
+        profileUrl:"https://www.linkedin.com/in/shethronak"
     }
 ]
+const legalTeam=[
+    {
+        name: 'Surya Gedela',
+        profileImage: "/assets/img/png/Surya.png",
+        designation: "",
+        profileUrl: "https://www.linkedin.com/in/sureshgedela/"
+    },
+    {
+        name:"Anirudha Kumar",
+        profileImage:"/assets/img/png/aniruddh.png",
+        designation:"",
+        profileUrl:"https://www.linkedin.com/in/kranirudha"
+    },
+]
 
-export { coreTeam ,productTeam ,legalTeam}
+export { coreTeam ,vancouver,directors ,legalTeam}
 

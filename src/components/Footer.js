@@ -1,6 +1,6 @@
 import { footerMenu } from "@/assets/data/menu";
 import Link from "next/link";
-import { FaLinkedin, FaTwitter, FaInstagram, FaFacebook } from "react-icons/fa";
+import { FaLinkedin, FaTwitter, FaInstagram, FaFacebook, FaDiscord, FaMailBulk, FaMailchimp, FaVoicemail, FaEnvelope } from "react-icons/fa";
 const Footer = () => {
   return (
     <footer className="py-0 my-0">
@@ -59,20 +59,10 @@ const Footer = () => {
             <div className="col-md-8 ">
               <div className="max-sm:px-4">
                 <p className="text-[#0000008C] text-[14px] poppins-400">
-                  This site is operated by Ryzer Wealth Corp Pvt.Ltd., which is
-                  not a registered broker-dealer or investment advisor. Ryzer
-                  does not give investment advice, endorsement, analysis or
-                  recommendations with respect to any investments, or
-                  securities. Offers to sell, or the solicitations of offers to
-                  buy, any security can only be made through official offering
-                  documents. Investors should conduct their own due diligence,
-                  not rely on the financial assumptions or estimates displayed
-                  on this website/app, and are encouraged to consult with a
-                  financial advisor attorney or any other professional that can
-                  help understand and assess the risks associated with any
-                  investment opportunity. Ryzer does not guarantee any
-                  investment performance, outcome or return of capital for any
-                  investment opportunity posted on this site.
+                Fandora 1364019 B.C Ltd C/o Empowered Startups 744 W Hastings St #420, Vancouver, BC V6C 1A5, Canada.
+                </p>
+                <p className="text-[#0000008C] mt-4 text-[14px] poppins-400">
+                India entity - Aavejak Advisers Pvt Ltd, Neptune Living Point, Bhandhup West, Mumbai 400078
                 </p>
               </div>
             </div>
@@ -80,20 +70,20 @@ const Footer = () => {
               <div className="flex justify-center md:justify-end items-center">
                 <div className="px-3">
                   <a
-                    href={"https://www.linkedin.com/company/ryzerapp"}
+                    href={"https://www.linkedin.com/company/fandora/"}
                     target="_blank"
                   >
                     <FaLinkedin className="text-[#5f7a9e] transition-all hover:text-gray-600 text-[25px] hover:scale-105" />
                   </a>
                 </div>
                 <div className="px-3">
-                  <a href={"https://twitter.com/Ryzer_app"} target="_blank">
+                  <a href={"https://twitter.com/nftonfandora"} target="_blank">
                     <FaTwitter className="text-[#5f7a9e] transition-all hover:text-gray-600 text-[25px] hover:scale-105" />
                   </a>
                 </div>
                 <div className="px-3">
                   <a
-                    href={"https://www.instagram.com/ryzer_app/"}
+                    href={"https://instagram.com/nftonfandora?igshid=NTc4MTIwNjQ2YQ=="}
                     target="_blank"
                   >
                     <FaInstagram className="text-[#5f7a9e] transition-all hover:text-gray-600 text-[25px] hover:scale-105" />
@@ -101,10 +91,18 @@ const Footer = () => {
                 </div>
                 <div className="px-3">
                   <a
-                    href={"https://www.facebook.com/ryzer.invest"}
+                    href={"https://discord.com/invite/AE8yANAN4n"}
                     target="_blank"
                   >
-                    <FaFacebook className="text-[#5f7a9e] transition-all hover:text-gray-600 text-[25px] hover:scale-105" />
+                    <FaDiscord className="text-[#5f7a9e] transition-all hover:text-gray-600 text-[25px] hover:scale-105" />
+                  </a>
+                </div>
+                <div className="px-3">
+                  <a
+                    href={"reachus@fandora.app"}
+                    target="_blank"
+                  >
+                    <FaEnvelope className="text-[#5f7a9e] transition-all hover:text-gray-600 text-[25px] hover:scale-105" />
                   </a>
                 </div>
               </div>

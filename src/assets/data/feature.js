@@ -1,22 +1,22 @@
 const assets = [
     {
-        name:'Grade A Office spaces',
+        name:'Films',
         icon:'/assets/img/png/Grade-A.png'
     },
     {
-        name:'Developed Land Plots',
+        name:'OTT Series',
         icon:'/assets/img/svg/developement-land.svg'
     },
     {
-        name:'Managed Offices',
+        name:'Sports IP',
         icon:'/assets/img/png/Office.png'
     },
     {
-        name:'Hotels & Suit Rooms',
+        name:'Art',
         icon:'/assets/img/png/Hotel.png'
     },
     {
-        name:'PG & Co-living Spaces',
+        name:'Books',
         icon:'/assets/img/png/PG.png'
     }
 ]

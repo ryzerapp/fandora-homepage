@@ -21,7 +21,7 @@ const Navbar = () => {
                   <img
                     alt="logo"
                     className="w-[130px] max-lg:hidden"
-                    src="/assets/img/png/Ryzer-Logo.png"
+                    src="/assets/img/png/logo.png"
                   />
                   <img
                     alt="logo"
@@ -78,7 +78,7 @@ const Navbar = () => {
             <div className="col-xl-2 flex lg:hidden xl:flex items-center px-0 justify-end col-lg col-4 menu-wrapper">
               <div className="max-xl:hidden">
                 <a
-                  href={"https://chat.whatsapp.com/Bji0kQvGYeg8D9GnR1q08e"}
+                  href={"https://tbo77in098o.typeform.com/to/wn1WiWeC"}
                   target="_blank"
                 >
                   <button className="bg-[black] hover:bg-[#5740C9] transition-all  flex-items-center px-4 xxl:px-5 py-2.5 rounded-md  poppins-500 text-sm text-[white]">

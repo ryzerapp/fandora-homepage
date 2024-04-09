@@ -50,13 +50,12 @@ export default async function Blog() {
           <div className="col-lg-6 max-lg:mt-5 max-lg:justify-center flex">
             <div>
               <p className="text-[#27273A] max-lg:text-center poppins-400 text-[18px]">
-                Learn from an extensive in-depth collection of blogs, and
-                education resources about daily dose of investment insights.
+              We will share blogs soon
               </p>
             </div>
           </div>
         </div>
-        <div className="row max-md:justify-center lg:mt-10">
+        {/* <div className="row max-md:justify-center lg:mt-10">
           {data.length > 0 ? (
             data.slice(0, 3).map((item, index) => {
               return (
@@ -101,7 +100,7 @@ export default async function Blog() {
               </button>
             </Link>
           </div>
-        </div>
+        </div> */}
       </div>
     </section>
   );

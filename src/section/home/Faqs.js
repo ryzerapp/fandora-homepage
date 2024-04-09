@@ -16,43 +16,49 @@ const Faqs = () => {
                         <div className="col-lg-6">
                             <div>
                                 <Accordion transition transitionTimeout={500}>
-                                    <Accordian2 header={'What is Tokenised fractional ownership?'}>
+                                    <Accordian2 header={'What is Tokenised fractional co-ownership?'}>
                                         <div className="pl-8 pr-6">
                                             <p className="poppins-400 tracking-[0.7px] text-[15px]  text-[#627C89]">
-                                                Tokenised Fractional ownership in real estate describes an investment process wherein a number of investors join together to invest & buy a real estate asset so that all of them can benefit from a share of the income  that the asset generates and an appreciation in the value of the property over a period of time.
-
-
+                                            Tokenised Fractional Co-Ownership is an investment process, where the total funding amount required for a project - is broekn down to certain subparts and each part is then invested/co-owned by an investor.
                                             </p>
                                             <p className="poppins-400 mt-7 tracking-[0.7px] text-[15px]  text-[#627C89]">
-                                                And it all runs on blockchain ledger from start to exit of your investment, This would bring outmost transparency & crystal clear audit on all financial activities, rental distributions, share holding & voting rights etc...
+                                            These co-owners then also get entitled to project returns in a prorata basis. With Fandora, these fractional investments are further linked to blockchain powered 'Tokens' - wherein the token establishes your co-ownrship on the underlying asset, and since these are based on digital wallets - you can leverage the 'Tokens' (as per prevailing regulations) by either lending them, fragmenting them, liquidating them instantly on an exchange or a platform, stake them on Defi pools and other emerging benefits.
                                             </p>
                                         </div>
                                     </Accordian2>
-                                    <Accordian2 className='mt-4' header={'What is Ryzer APP?'}>
+                                    <Accordian2 className='mt-4' header={'What is Fandora?'}>
                                         <div className="pl-8 pr-6">
                                             <p className="poppins-400 tracking-[0.7px] text-[15px]  text-[#627C89]">
-                                                Ryzer is a blockchain tokenization investment platform that makes it easy to start investing in real world assets and diversifying your investment portfolio—just like investing in a stocks or mutual funds. With as little as Rs. 5000, first-time investors can begin building their real estate investment portfolio by leveraging the power of blockchain technology which helps select and secure high-growth Open land, residential, commercial, and on-going development assets from the Ryzer platform.
-
-
+                                            FANDORA is Content IP Co-Investment & Tokenisation platform - which bridges curated content IP projects with eligible investors - thus unlocking the potential in USD 300 Billion Content IP Market.
                                             </p>
                                             <p className="poppins-400 mt-7 tracking-[0.7px] text-[15px]  text-[#627C89]">
-                                                Enjoy industry-leading flexibility with shorter time horizons, a great mix of high-growth assets, and stress-free exit capabilities.
+                                            FANDORA enables:
+                                            </p>
+                                            <p className="poppins-400 mt-7 tracking-[0.7px] text-[15px]  text-[#627C89]">
+                                            <ul className="list-disc list-inside">
+                                                <li>Giving access to curated, high growth potential multi-genre content IP projects;</li>
+                                                <li>Transparent investment and project execution;</li>
+                                                <li>Larger freedom and transparency to creators - who now can have better control on their creation as well as monetisation</li>
+                                                <li>Opportunity to not just participate, but even involve in key decisions on particular Content IP</li>
+                                                <li>Becoming part of exclusive community of Content Co-Owners</li>
+                                            </ul>
                                             </p>
                                         </div>
                                     </Accordian2>
-                                    <Accordian2 className='mt-4' header={'Who owns properties listed on your Ryzer?'}>
+                                    <Accordian2 className='mt-4' header={'Who owns projects listed on your Fandora?'}>
                                         <div className="pl-8 pr-6">
                                             <p className="poppins-400 tracking-[0.7px] text-[15px]  text-[#627C89]">
-                                                That's you, Yes you and your share holders hold a property by owning a portion of shares in an holding LLP that was specifically formed.
-
-
+                                            FANDORA carefully curates projects - and each roject is lead by respective Project Owner.
                                             </p>
                                             <p className="poppins-400 mt-7 tracking-[0.7px] text-[15px]  text-[#627C89]">
-                                                Ryzer facilitates discovery of investment opportunities and provides you with online accessibility & experience that enable you to invest, manage and exit from your investment in a trusted and transparent environment with designated LLP that was formed when a property listed, Once you invested, you become a shareholder in that LLP by owning a portion of shares.
+                                                Projects are curated basis multiple factors like team credibility, past experiences, monetisation potential, budgets efficacy etc.
+                                            </p>
+                                            <p className="poppins-400 mt-7 tracking-[0.7px] text-[15px]  text-[#627C89]">
+                                            Each listed project has clear & transparent commercial terms - including required budgets, share in project revenues and IP and other deliverables
                                             </p>
                                         </div>
                                     </Accordian2>
-                                    <Accordian2 className='mt-4' header={'What is a security token?'}>
+                                    {/* <Accordian2 className='mt-4' header={'What is a security token?'}>
                                         <div className="pl-8 pr-6">
                                             <p className="poppins-400 tracking-[0.7px] text-[15px]  text-[#627C89]">
                                                 Tokens are digital assets created on a blockchain. Each blockchain has a native coin, for instance, Bitcoin for the Bitcoin blockchain and ether for the Ethereum blockchain. Assets built on existing blockchains are referred to as tokens. In Ryzer's platform use-case, the tokens will represent physical real estate assets and this ownership will be recorded on top of the Ethereum blockchain. All transactions of these tokens will also be recorded in this immutable way.
@@ -61,7 +67,7 @@ const Faqs = () => {
                                             </p>
 
                                         </div>
-                                    </Accordian2>
+                                    </Accordian2> */}
                                 </Accordion>
                             </div>
                         </div>
@@ -71,56 +77,43 @@ const Faqs = () => {
                                     <Accordian2 header={'What kind of returns can I look forward to?'}>
                                         <div className="pl-8 pr-6">
                                             <p className="poppins-400 tracking-[0.7px] text-[15px]  text-[#627C89]">
-                                                Normally annualised returns could vary from 14-20% based on the opportunity. While these returns are not guaranteed, they are more or less predictable. Every opportunity comes with its unique risk return profile and investors are advised to evaluate each one of the them based on their own investment goals and risk-appetite.
-
-
+                                            On an average, Content IP projects are expected to deliver 15-30% IRR over a period of 12-18 months. However, Content IP is a highly risky asset class and kindly exercise your discretion while making any investment decision. Kindly refer to detailed risks & mitigations while taking any call.
                                             </p>
-
                                         </div>
                                     </Accordian2>
-                                    <Accordian2 className='mt-4' header={'How do I make returns by holding asset tokens?'}>
+                                    <Accordian2 className='mt-4' header={'How do I make returns by holding Fandora tokens?'}>
                                         <div className="pl-8 pr-6">
                                             <p className="poppins-400 tracking-[0.7px] text-[15px]  text-[#627C89]">
-                                                You can make returns with Asset tokens in two ways
+                                            Following are the ways that holding FANDORA tokens can help you:
                                             </p>
                                             <div className="pl-5 pt-5">
                                                 <p className="poppins-400 tracking-[0.7px] text-[15px]  text-[#627C89]">
-                                                    1.The sale of the asset you’ve invested in and its monthly rental income.<br />
-                                                    2.When an asset is sold, any appreciation is paid back to investors in addition to their investment principal.
+                                                    1.Acess to generic project returns - as indicated under specific projects.<br />
+                                                    2.Exiting partially or fully after lock in period - exchanging tokens through the platform/exchange.
+                                                    3.Seeking returns through other token mechanics - such as lending, fragmenting, staking, accessing DeFi pools etc.
                                                 </p>
                                             </div>
 
                                         </div>
                                     </Accordian2>
-                                    <Accordian2 className='mt-4' header={'Who is responsible for maintaining the property?'}>
+                                    <Accordian2 className='mt-4' header={'Who is responsible for project execution?'}>
                                         <div className="pl-8 pr-6">
                                             <p className="poppins-400 tracking-[0.7px] text-[15px]  text-[#627C89]">
-                                                For each asset listed on the Ryzer Platform, a Special Purpose Vehicle (SPV) is created in which funds are raised to purchase, own and manage the property. Your investment shall be towards subscription of the shares and compulsorily convertible debentures of the SPV that holds the property and represents your fractional investment.
-
-
+                                            FANDORA would apply its diligence and expertise till the time project gets exited and investors are returned their capital and projected returns - subject to various risks and other industry challenges that the project may be exposed to.
+                                            </p>
+                                        </div>
+                                    </Accordian2>
+                                    <Accordian2 className='mt-4' header={'Why do Content IP requires tokenisation?'}>
+                                        <div className="pl-8 pr-6">
+                                            <p className="poppins-400 tracking-[0.7px] text-[15px]  text-[#627C89]">
+                                            Content IP industy, despite having a large industry size - is very centrally contolled only by few entities - which make the whole structure very lop sided and indeed worse for upcoming creators.
                                             </p>
                                             <p className="poppins-400 mt-7 tracking-[0.7px] text-[15px]  text-[#627C89]">
-                                                Ryzer will provide asset management services to the SPV and undertake accounting, secretarial, reporting, leasing, maintenance and other operational aspects under the asset management services contract with the SPV.
+                                            With tokenisation - not only are we endeavoring to unlock this industry and make the process more participative and democratic - we are also empowering creators to have more freedom in creating what they like as well as have transparency in the content monetisation.
                                             </p>
-                                        </div>
-                                    </Accordian2>
-                                    <Accordian2 className='mt-4' header={'Why does real estate need security tokenisation?'}>
-                                        <div className="pl-8 pr-6">
-                                            <p className="poppins-400 tracking-[0.7px] text-[15px]  text-[#627C89]">
-                                                We at Ryzer believe that all real estate benefits from tokenization for the following reasons:
+                                            <p className="poppins-400 mt-7 tracking-[0.7px] text-[15px]  text-[#627C89]">
+                                            Furthermore - it enables eligible investors and fans to become content co-owners and have more community access to work closely with their favoutite ceators and partake in the creation and content making process.
                                             </p>
-                                            <div className="pl-5 pt-5">
-                                                <p className="poppins-400 tracking-[0.7px] text-[15px]  text-[#627C89]">
-                                                    1. Creates the opportunity for a marketplace to buy, sell, or trade tokens of real estate.<br />
-                                                    2. Reduces/Eliminates intermediaries.<br />
-                                                    3. Increases liquidity of traditionally illiquid assets. <br />
-                                                    4. Increases access to fractional ownership.<br />
-                                                    5. Decentralisation creates trust and security. <br />
-                                                    6. Allows real estate transactions to truly become peer-to-peer. <br />
-                                                    7. Allows investors to diversify their risk.
-                                                </p>
-                                            </div>
-
                                         </div>
                                     </Accordian2>
                                 </Accordion>

@@ -17,9 +17,13 @@ const Hero = () => {
                                     <TypeAnimation
                                         sequence={[
                                             500,
-                                            "what's valuable",
+                                            "FILMS",
                                             1000,
-                                            "what's real"
+                                            "ART",
+                                            1500,
+                                            "SPORTS IP",
+                                            2000,
+                                            "OTT SERIES"
                                         ]}
                                         speed={1}
                                         className="text-[#725AEC] poppins-700"
@@ -27,10 +31,8 @@ const Hero = () => {
                                     />
                                 </div>
                                 <div className="mt-5">
-                                    <p className="text-[#313F58] my-2"><span className="poppins-600 mr-2">Buy shares</span><span className="poppins-400">of properties and earn monthly income</span></p>
-                                    <p className="text-[#313F58] my-2"><span className="poppins-600 mr-2">Low Minimum Ticket</span><span className="poppins-400">It starts with as low as ₹1,00,000</span></p>
-                                    <p className="text-[#313F58] my-2"><span className="poppins-600 mr-2"> 100% Verified Properties</span><span className="poppins-400">with great capital appreciation</span></p>
-                                    <p className="text-[#313F58] my-2"><span className="poppins-600 mr-2">Nothing To Manage</span><span className="poppins-400">Auto rental distribution on time.</span></p>
+                                    <p className="text-[#313F58] my-2 mb-4"><span className="poppins-600 mr-2 text-2xl">DEMOCRATISING CONTENT IP INVESTMENTS</span><br/><span className="poppins-400 italic text-lg">Don't just Consume Content, Co-Own it</span></p>
+                                    <p className="text-[#313F58] my-2"><span className="poppins-400 text-lg">Access Curated Projects across various categories of Content IP</span></p>
                                 </div>
                                 <div className="flex max-sm:justify-center max-sm:flex-col mt-10">
                                     <div className="">

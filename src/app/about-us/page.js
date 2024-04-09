@@ -3,7 +3,7 @@ import Footer from "@/components/Footer";
 import Navbar from "@/components/Navbar";
 import AboutHero from "@/section/about-us/AboutHero";
 import Team from "@/section/about-us/Team";
-import CommingSoon from "@/section/why-ryzer/CommingSoon";
+import CommingSoon from "@/section/why-fandora/CommingSoon";
 
 export const metadata = {
     ...seo.ABOUT_US
