@@ -5,6 +5,6 @@ export default function robots() {
         allow: '/',
         disallow: '/private/',
       },
-      sitemap: 'https://ryzer.app/sitemap.xml',
+      sitemap: 'https://fandora.app/sitemap.xml',
     }
   }

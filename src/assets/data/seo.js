@@ -84,7 +84,7 @@ const seo = {
     openGraph: {
       title: "Fandora - Bringing Content, Brands & Web3 Together",
       description: "Fandora revolutionizes the entertainment industry by introducing India's First democratic Content IP Investment Network. Enthusiasts can now co-own music, movies, sports, and books, shifting from passive consumption to active engagement. Join the Fandora revolution today!",
-      url: "https://ryzer.app",
+      url: "https://fandora.app/",
       siteName: "Fandora - Bringing Content, Brands & Web3 Together",
       images: [
         {
@@ -114,11 +114,11 @@ const seo = {
     openGraph: {
       title: "Fandora - Shared(Fractional) Property Management & Investment Solutions",
       description: "Discover Fandora, your go-to platform for real estate asset management, property investment, and fractional property investing in India. Maximize returns with us!",
-      url: "https://ryzer.app/why-ryzer/",
+      url: "https://fandora.app/why-ryzer/",
       siteName: "Fandora - Bringing Content, Brands & Web3 Together - Fandora is a blockchain fractional asset investment platform",
       images: [
         {
-          url: "https://www.ryzer.app/assets/img/png/invest.png",
+          url: "https://fandora.app/assets/img/png/invest.png",
           width: 800,
           height: 800,
         },
@@ -134,7 +134,7 @@ const seo = {
       creator: "@ryzer_app",
       creatorId: "ryzer_app",
       images: [
-        "https://www.ryzer.app/assets/img/png/invest.png",
+        "https://fandora.app/assets/img/png/invest.png",
       ],
     },
   },
@@ -144,12 +144,12 @@ const seo = {
     openGraph: {
       title: "Fandora: Fractional Property Management & Investment Services in India",
       description: "Elevate your commercial property portfolio with Fandora, one of India's premier property management companies. Explore our expertise in commercial property investment and fractional property management",
-      url: "https://www.ryzer.app/about-us",
+      url: "https://fandora.app/about-us",
       siteName:
         "Fandora - Bringing Content, Brands & Web3 Together - Fandora is a blockchain fractional asset investment platform",
       images: [
         {
-          url: "https://www.ryzer.app/assets/img/jpg/real-estate.jpeg",
+          url: "https://fandora.app/assets/img/jpg/real-estate.jpeg",
           width: 800,
           height: 800,
         },
@@ -165,7 +165,7 @@ const seo = {
       creator: "@ryzer_app",
       creatorId: "ryzer_app",
       images: [
-        "https://www.ryzer.app/assets/img/jpg/real-estate.jpeg",
+        "https://fandora.app/assets/img/jpg/real-estate.jpeg",
       ],
     },
   },
@@ -175,12 +175,12 @@ const seo = {
     openGraph: {
       title: "Unlocking India’s 2024 Fractional Ownership Investment Ideas | Fandora",
       description: "Looking for fractional commercial real estate investment ideas? Keep up with the Latest news and insights on fractional ownership real estate on our blogs.",
-      url: "https://www.ryzer.app/insights",
+      url: "https://fandora.app/insights",
       siteName:
         "Fandora - Bringing Content, Brands & Web3 Together - Fandora is a blockchain fractional asset investment platform",
       images: [
         {
-          url: "https://www.ryzer.app/assets/img/png/Fandora-Logo.png",
+          url: "https://fandora.app/assets/img/png/Fandora-Logo.png",
           width: 800,
           height: 800,
         },
@@ -196,7 +196,7 @@ const seo = {
       creator: "@ryzer_app",
       creatorId: "ryzer_app",
       images: [
-        "https://www.ryzer.app/assets/img/png/Fandora-Logo.png",
+        "https://fandora.app/assets/img/png/Fandora-Logo.png",
       ],
     },
   },
@@ -206,12 +206,12 @@ const seo = {
     openGraph: {
       title: "Fandora FAQ: Answers to Your Queries",
       description: "Find answers to all your questions about Fandora in our FAQ.",
-      url: "https://www.ryzer.app/faq",
+      url: "https://fandora.app/faq",
       siteName:
         "Fandora - Bringing Content, Brands & Web3 Together - Fandora is a blockchain fractional asset investment platform",
       images: [
         {
-          url: "https://www.ryzer.app/assets/img/png/logo.png",
+          url: "https://fandora.app/assets/img/png/logo.png",
           width: 200,
           height: 200,
         },
@@ -227,7 +227,7 @@ const seo = {
       creator: "@ryzer_app",
       creatorId: "ryzer_app",
       images: [
-        "https://www.ryzer.app/assets/img/png/logo.png",
+        "https://fandora.app/assets/img/png/logo.png",
       ],
     },
   },
@@ -237,12 +237,12 @@ const seo = {
     openGraph: {
       title: "Contact Fandora: Reach Out to Us",
       description: "Connect with Fandora for any queries or assistance you need.",
-      url: "https://www.ryzer.app/contact",
+      url: "https://fandora.app/contact",
       siteName:
         "Fandora - Bringing Content, Brands & Web3 Together - Fandora is a blockchain fractional asset investment platform",
       images: [
         {
-          url: "https://www.ryzer.app/assets/img/png/Fandora-Logo.png",
+          url: "https://fandora.app/assets/img/png/Fandora-Logo.png",
           width: 800,
           height: 800,
         },
@@ -258,7 +258,7 @@ const seo = {
       creator: "@ryzer_app",
       creatorId: "ryzer_app",
       images: [
-        "https://www.ryzer.app/assets/img/png/Fandora-Logo.png",
+        "https://fandora.app/assets/img/png/Fandora-Logo.png",
       ],
     },
   },
@@ -268,12 +268,12 @@ const seo = {
     openGraph: {
       title: "Fandora | Best Fractional Real Estate Firms in India",
       description: "Learn how Fandora makes investing in commercial real estate easy, how it works, selection criteria for property and reasons to invest in Factional Real estate.",
-      url: "https://www.ryzer.app/how-ryzer-works",
+      url: "https://fandora.app/how-ryzer-works",
       siteName:
         "Fandora - Bringing Content, Brands & Web3 Together - Fandora is a blockchain fractional asset investment platform",
       images: [
         {
-          url: "https://www.ryzer.app/assets/img/png/work.png",
+          url: "https://fandora.app/assets/img/png/work.png",
           width: 800,
           height: 800,
         },
@@ -289,7 +289,7 @@ const seo = {
       creator: "@ryzer_app",
       creatorId: "ryzer_app",
       images: [
-        "https://www.ryzer.app/assets/img/png/work.png",
+        "https://fandora.app/assets/img/png/work.png",
       ],
     },
   },
@@ -299,12 +299,12 @@ const seo = {
     openGraph: {
       title: "Fandora App - Partners: Collaborate with Us",
       description: "Discover opportunities to collaborate with Fandora.",
-      url: "https://www.ryzer.app/partners",
+      url: "https://fandora.app/partners",
       siteName:
         "Fandora - Bringing Content, Brands & Web3 Together - Fandora is a blockchain fractional asset investment platform",
       images: [
         {
-          url: "https://www.ryzer.app/assets/img/png/person.png",
+          url: "https://fandora.app/assets/img/png/person.png",
           width: 800,
           height: 800,
         },
@@ -320,7 +320,7 @@ const seo = {
       creator: "@ryzer_app",
       creatorId: "ryzer_app",
       images: [
-        "https://www.ryzer.app/assets/img/png/person.png",
+        "https://fandora.app/assets/img/png/person.png",
       ],
     },
   },
@@ -330,12 +330,12 @@ const seo = {
     openGraph: {
       title: "Fandora - Legal: Our Legal Framework",
       description: "Delve into Fandora's legal framework for transparency and trust.",
-      url: "https://www.ryzer.app/legal",
+      url: "https://fandora.app/legal",
       siteName:
         "Fandora - Bringing Content, Brands & Web3 Together - Fandora is a blockchain fractional asset investment platform",
       images: [
         {
-          url: "https://www.ryzer.app/assets/img/png/Fandora-Logo.png",
+          url: "https://fandora.app/assets/img/png/Fandora-Logo.png",
           width: 800,
           height: 800,
         },
@@ -351,7 +351,7 @@ const seo = {
       creator: "@ryzer_app",
       creatorId: "ryzer_app",
       images: [
-        "https://www.ryzer.app/assets/img/png/Fandora-Logo.png",
+        "https://fandora.app/assets/img/png/Fandora-Logo.png",
       ],
     },
   },
@@ -361,12 +361,12 @@ const seo = {
     openGraph: {
       title: "Fandora App Privacy Policy: Your Data Protection",
       description: "Learn about how Fandora protects your data with our privacy policy.",
-      url: "https://www.ryzer.app/privacy-policy-2",
+      url: "https://fandora.app/privacy-policy-2",
       siteName:
         "Fandora - Bringing Content, Brands & Web3 Together - Fandora is a blockchain fractional asset investment platform",
       images: [
         {
-          url: "https://www.ryzer.app/assets/img/png/Fandora-Logo.png",
+          url: "https://fandora.app/assets/img/png/Fandora-Logo.png",
           width: 800,
           height: 800,
         },
@@ -382,7 +382,7 @@ const seo = {
       creator: "@ryzer_app",
       creatorId: "ryzer_app",
       images: [
-        "https://www.ryzer.app/assets/img/png/Fandora-Logo.png",
+        "https://fandora.app/assets/img/png/Fandora-Logo.png",
       ],
     },
   },
@@ -392,12 +392,12 @@ const seo = {
     openGraph: {
       title: "Fandora Refunds: Our Refund Policy",
       description: "Understand Fandora's refund policy for a hassle-free experience.",
-      url: "https://www.ryzer.app/refunds",
+      url: "https://fandora.app/refunds",
       siteName:
         "Fandora - Bringing Content, Brands & Web3 Together - Fandora is a blockchain fractional asset investment platform",
       images: [
         {
-          url: "https://www.ryzer.app/assets/img/png/Fandora-Logo.png",
+          url: "https://fandora.app/assets/img/png/Fandora-Logo.png",
           width: 800,
           height: 800,
         },
@@ -413,7 +413,7 @@ const seo = {
       creator: "@ryzer_app",
       creatorId: "ryzer_app",
       images: [
-        "https://www.ryzer.app/assets/img/png/Fandora-Logo.png",
+        "https://fandora.app/assets/img/png/Fandora-Logo.png",
       ],
     },
   },
@@ -423,12 +423,12 @@ const seo = {
     openGraph: {
       title: "Fandora App - Risk Disclosure: Understand Potential Risks",
       description: "Explore Fandora's risk disclosure to understand potential investment risks.",
-      url: "https://www.ryzer.app/risk-disclouse",
+      url: "https://fandora.app/risk-disclouse",
       siteName:
         "Fandora - Bringing Content, Brands & Web3 Together - Fandora is a blockchain fractional asset investment platform",
       images: [
         {
-          url: "https://www.ryzer.app/assets/img/png/Fandora-Logo.png",
+          url: "https://fandora.app/assets/img/png/Fandora-Logo.png",
           width: 800,
           height: 800,
         },
@@ -444,7 +444,7 @@ const seo = {
       creator: "@ryzer_app",
       creatorId: "ryzer_app",
       images: [
-        "https://www.ryzer.app/assets/img/png/Fandora-Logo.png",
+        "https://fandora.app/assets/img/png/Fandora-Logo.png",
       ],
     },
   },
@@ -454,12 +454,12 @@ const seo = {
     openGraph: {
       title: "Fandora App - Terms of Use",
       description: "Review Fandora App's comprehensive terms of use for a clear understanding of our services, policies, and guidelines",
-      url: "https://www.ryzer.app/terms-of-use",
+      url: "https://fandora.app/terms-of-use",
       siteName:
         "Fandora - Bringing Content, Brands & Web3 Together - Fandora is a blockchain fractional asset investment platform",
       images: [
         {
-          url: "https://www.ryzer.app/assets/img/png/Fandora-Logo.png",
+          url: "https://fandora.app/assets/img/png/Fandora-Logo.png",
           width: 800,
           height: 800,
         },
@@ -475,7 +475,7 @@ const seo = {
       creator: "@ryzer_app",
       creatorId: "ryzer_app",
       images: [
-        "https://www.ryzer.app/assets/img/png/Fandora-Logo.png",
+        "https://fandora.app/assets/img/png/Fandora-Logo.png",
       ],
     },
   }
