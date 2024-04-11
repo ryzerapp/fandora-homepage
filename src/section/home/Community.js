@@ -12,7 +12,7 @@ const Community = () => {
                     <div className="row justify-center lg:justify-between">
                         <div className="col-lg-6 col-10">
                             <div className="flex-center">
-                                <img alt="fractional owner - Ryzer" className="rz-hero-img" src="/assets/img/png/community.png" />
+                                <img alt="fractional owner - Fandora" className="rz-hero-img" src="/assets/img/png/community.png" />
                             </div>
                         </div>
                         <div className="col-xl-5 max-lg:mt-20 col-lg-6 col-12 flex items-center">

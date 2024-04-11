@@ -60,7 +60,7 @@ const ContactUs = () => {
                     onSubmit={onSubmit}
                   >
                     <Form>
-                      <div className="rounded-[10px] px-5 lg:px-10 border-t-[10px] pt-10 xl:pt-20 border-[#725AEC]">
+                      <div className="rounded-[10px] px-5 lg:px-10 border-t-[10px] pt-10 xl:pt-20 border-[#52C1B9]">
                         <div className="flex items-center justify-between">
                           <h3 className="poppins-700 text-[28px] text-[#444762]">
                             Let's talk
@@ -111,7 +111,7 @@ const ContactUs = () => {
                         </div>
                         <div className="mt-8">
                           <button
-                            className="hover:bg-[#104662] py-3.5 text-[18px] rounded-[3px] text-[white] transition-all w-full text-center poppins-700 bg-[#725AEC]"
+                            className="hover:bg-[#104662] py-3.5 text-[18px] rounded-[3px] text-[white] transition-all w-full text-center poppins-700 bg-[#52C1B9]"
                             type="submit"
                           >
                             Send a message
@@ -135,16 +135,16 @@ const ContactUs = () => {
                     </div>
                     <div className="mt-10">
                       <a href="tel:+91 9966222498">
-                        <div className="flex poppins-400 text-[#725AEC] items-center">
+                        <div className="flex poppins-400 text-[#52C1B9] items-center">
                           <span>+91 9966222498</span>
-                          <FaPhone className="text-[#725AEC] ml-2" />
+                          <FaPhone className="text-[#52C1B9] ml-2" />
                         </div>
                       </a>
                       <div className="mt-5">
                         <a href="mailto:hello@ryzer.app">
-                          <div className="flex poppins-400 text-[#725AEC] items-center">
+                          <div className="flex poppins-400 text-[#52C1B9] items-center">
                             <span>hello@ryzer.app</span>
-                            <BsSend className="text-[#725AEC] text-[18px] ml-2" />
+                            <BsSend className="text-[#52C1B9] text-[18px] ml-2" />
                           </div>
                         </a>
                       </div>

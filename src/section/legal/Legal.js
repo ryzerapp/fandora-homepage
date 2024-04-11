@@ -18,10 +18,10 @@ const Legal = () => {
                             <div>
                                 <h1 className="text-[#181b31] poppins-600 text-[24px] sm:text-[28px] md:text-[32px]">Introduction</h1>
                                 <p className="policy-text mt-4">
-                                    THIS DOCUMENT (the Agreement) sets out the terms and conditions on which we, which is the trading name of (Ryzer Wealth Corp Private Limited), enable you to invest in properties via our Platform named Ryzer.
+                                    THIS DOCUMENT (the Agreement) sets out the terms and conditions on which we, which is the trading name of (Fandora Wealth Corp Private Limited), enable you to invest in properties via our Platform named Fandora.
                                 </p>
                                 <p className="policy-text mt-7">
-                                    (Ryzer Wealth Corp Private Limited is a company incorporated under the laws of India, through its Chief Executive Officer (hereinafter referred to as the “Company” or the “Investment Manager” which expression shall, unless repugnant to the context or meaning thereof, mean and include its administrators, successors, and permitted assigns);
+                                    (Fandora Wealth Corp Private Limited is a company incorporated under the laws of India, through its Chief Executive Officer (hereinafter referred to as the “Company” or the “Investment Manager” which expression shall, unless repugnant to the context or meaning thereof, mean and include its administrators, successors, and permitted assigns);
                                 </p>
                                 <p className="policy-text mt-7">
                                     Please read these terms and conditions carefully before using the Platform. Any use of the REAPP platform confirms that you have agreed to these terms and conditions.

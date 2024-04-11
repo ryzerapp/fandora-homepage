@@ -111,7 +111,7 @@ const Review = () => {
                   Hear from them
                 </h2>
                 <p className="poppins-400 my-5 max-lg:text-center tracking-[0.7px] text-base sm:text-lg text-[#627C89]">
-                  Ryzer's channel partner portal has Its amazing user-friendly
+                  Fandora's channel partner portal has Its amazing user-friendly
                   interface, simple dashboards, and robust lead management
                   capabilities have helped us streamline our processes and
                   enhance productivity to drive faster sales.
@@ -121,7 +121,7 @@ const Review = () => {
                     target="_blank"
                     href={"https://partners.ryzer.app/auth/login"}
                   >
-                    <button className="bg-[#725AEC] text-[white] flex items-center px-7 xs:px-8 py-3 transition-all mt-10 duration-300 hover:scale-105 rounded-md">
+                    <button className="bg-[#52C1B9] text-[white] flex items-center px-7 xs:px-8 py-3 transition-all mt-10 duration-300 hover:scale-105 rounded-md">
                       <span className=" poppins-600 text-center mr-3 text-base xs:text-lg">
                         Get started
                       </span>

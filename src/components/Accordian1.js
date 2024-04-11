@@ -9,7 +9,7 @@ const Accordian1 = ({ header, ...rest }) => (
           <div>
             <p className="poppins-500 mb-0 text-start text-base sm:text-[18px]">{header}</p>
           </div>
-          <FaChevronDown className={`transition-transform duration-200 ease-out text-[${isEnter ? '#725AEC' : ''}] rotate-${isEnter ? "180" : "0"} ${isEnter && "rotate-180"
+          <FaChevronDown className={`transition-transform duration-200 ease-out text-[${isEnter ? '#52C1B9' : ''}] rotate-${isEnter ? "180" : "0"} ${isEnter && "rotate-180"
             }`} />
 
         </div>

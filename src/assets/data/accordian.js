@@ -9,14 +9,14 @@ const communityFaq = [
     },
     {
         name: "End-to-end trust & transparency",
-        content: "Ryzer utilizes blockchain protocols to store, share and exchange real time asset's data and transactions details from day one. Anyone can quickly audit an asset's accounts, statutory compliances of an SPV. Anytime, anywhere."
+        content: "Fandora utilizes blockchain protocols to store, share and exchange real time asset's data and transactions details from day one. Anyone can quickly audit an asset's accounts, statutory compliances of an SPV. Anytime, anywhere."
     }
 ]
 
 const platformFaq=[
     {
         name:"Invite clients and sell fractional shares",
-        content:"Ryzer's dedicated channel partner's platform provides an opportunity to choose diversified assets range from real estate to equity/debt instruments, and facilitates to sell shares or units of each asset instantly to your prospective clients, friends and family."
+        content: "Fandora's dedicated channel partner's platform provides an opportunity to choose diversified assets range from real estate to equity/debt instruments, and facilitates to sell shares or units of each asset instantly to your prospective clients, friends and family."
     },
     {
         name:"Track and analyze your earnings",

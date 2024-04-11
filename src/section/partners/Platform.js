@@ -9,7 +9,7 @@ const Platform = () => {
                 <div className="row justify-center lg:justify-between">
                     <div className="col-lg-6 col-10">
                         <div className="flex-center">
-                            <img alt="Fractional investing - Ryzer" className="rz-hero-img w-[80%]" src="/assets/img/jpg/marketing.jpg" />
+                            <img alt="Fractional investing - Fandora" className="rz-hero-img w-[80%]" src="/assets/img/jpg/marketing.jpg" />
                         </div>
                     </div>
                     <div className="col-xl-5 max-lg:mt-20 col-lg-6 col-12 flex items-center">

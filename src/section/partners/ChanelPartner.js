@@ -17,7 +17,7 @@ const ChanelPartner = () => {
                                             Bring deals/assets
                                         </h3>
                                         <p className="poppins-400 mt-5  tracking-[0.7px] sm:leading-[30px] text-base sm:text-[18px] text-[#627C89]">
-                                            Bring properties onto Ryzer platform and earn commission.
+                                            Bring properties onto Fandora platform and earn commission.
                                         </p>
                                     </div>
                                 </div>
@@ -36,7 +36,7 @@ const ChanelPartner = () => {
                                         Faster outreach
                                     </h3>
                                     <p className="poppins-400 mt-5  tracking-[0.7px] sm:leading-[30px] text-base sm:text-[18px] text-[#627C89]">
-                                        Engage your network by present new deals in a quick and easy way through Ryzer mobile app.
+                                            Engage your network by present new deals in a quick and easy way through Fandora mobile app.
                                     </p>
                                 </div>
                             </div>

@@ -10,7 +10,7 @@ const Footer = () => {
           <div className="row items-center justify-center sm:justify-between">
             <div className="col-lg-2 col-sm-3 xs:col-4 col-5">
               <div className="flex center">
-                <img alt="logo" src="/assets/img/png/footer-logo.png" />
+                <img alt="logo" src="/assets/img/png/logo.png" />
               </div>
             </div>
             <div className="col-xxl-9 max-sm:mt-5 col-lg-10 col-sm-9">

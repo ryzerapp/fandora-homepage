@@ -26,7 +26,7 @@ const Hero = () => {
                                             "OTT SERIES"
                                         ]}
                                         speed={1}
-                                        className="text-[#725AEC] poppins-700"
+                                        className="text-[#52C1B9] poppins-700"
                                         repeat={Infinity}
                                     />
                                 </div>
@@ -37,7 +37,7 @@ const Hero = () => {
                                 <div className="flex max-sm:justify-center max-sm:flex-col mt-10">
                                     <div className="">
                                         <a className="flex" href="https://play.google.com/store/apps/details?id=com.reallyy" target="_blank">
-                                            <div className="text-[white] transition-all duration-300 hover:text-[#725AEC]  flex-items-center px-5 xs:px-8 py-2.5 xs:py-3.5 cursor-pointer rounded-md bg-[black] hover:bg-[white] hover:shadow-lg">
+                                            <div className="text-[white] transition-all duration-300 hover:text-[#52C1B9]  flex-items-center px-5 xs:px-8 py-2.5 xs:py-3.5 cursor-pointer rounded-md bg-[black] hover:bg-[white] hover:shadow-lg">
                                                 <div>
                                                     <img alt="play-store" className="w-[32px]" src="/assets/img/svg/google-play.svg" />
                                                 </div>
@@ -50,7 +50,7 @@ const Hero = () => {
                                     </div>
                                     <div className="sm:ml-3 max-sm:mt-3">
                                         <a className="flex" href="https://apps.apple.com/us/app/ryzer/id6448790250"  target="_blank">
-                                            <div className="text-[white] transition-all duration-300 hover:text-[#725AEC]  flex-items-center px-5 xs:px-8 py-2.5 xs:py-3.5 cursor-pointer rounded-md bg-[black] hover:bg-[white] hover:shadow-lg">
+                                            <div className="text-[white] transition-all duration-300 hover:text-[#52C1B9]  flex-items-center px-5 xs:px-8 py-2.5 xs:py-3.5 cursor-pointer rounded-md bg-[black] hover:bg-[white] hover:shadow-lg">
                                                 <div>
                                                     <FaApple className="text-[32px]" />
                                                 </div>
@@ -74,7 +74,7 @@ const Hero = () => {
                         </div>
                         <div className="col-lg-6 col-md-10 col-sm-11 max-lg:mt-10 flex-items-center">
                             <div className="flex-center">
-                                <img alt="Ryzer - fractional ownership real estate in India" className="rz-hero-img" src="/assets/img/png/mobileApp.png" />
+                                <img alt="Fandora - fractional ownership real estate in India" className="rz-hero-img" src="/assets/img/png/mobileApp.png" />
                             </div>
                         </div>
                     </div>

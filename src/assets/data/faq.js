@@ -1,42 +1,42 @@
 const faqCards = [
     {
         title: 'Get started',
-        description: "Find out the basics of Ryzer, India's biggest tokenized real estate market. How to register and start investing in Fractional Real Estate with min as low as Rs. 10000.",
+        description: "Find out the basics of Fandora, India's biggest tokenized real estate market. How to register and start investing in Fractional Real Estate with min as low as Rs. 10000.",
         thumbnail: 'get-started.svg',
         bg: '#8B34F536',
         shadow: "0px 10px 50px 0px rgba(139, 52.00000000000003, 245, 0.25)"
     },
     {
         title: 'For Investors',
-        description: "Complete information about registering as an investor and start earning through listed properties on Ryzer platform.",
+        description: "Complete information about registering as an investor and start earning through listed properties on Fandora platform.",
         thumbnail: 'investor.svg',
         bg: '#6078FF38',
         shadow: "0px 10px 50px 0px rgba(96, 119.99999999999991, 255, 0.28)"
     },
     {
         title: 'Legal & Management',
-        description: "Find out about legal provisions, frameworks and statutes that oversee operations of Ryzer platform.",
+        description: "Find out about legal provisions, frameworks and statutes that oversee operations of Fandora platform.",
         thumbnail: 'legal.svg',
         bg: '#0D87E740',
         shadow: "0px 10px 50px 0px rgba(13.000000000000021, 135.0000000000002, 231, 0.24)"
     },
     {
         title: 'Security / Protection',
-        description: "Tokens, Blockchain and Securities. Know how your investments are kept safe on Ryzer.",
+        description: "Tokens, Blockchain and Securities. Know how your investments are kept safe on Fandora.",
         thumbnail: 'security.svg',
         bg: '#E8B26842',
         shadow: "0px 10px 50px 0px rgba(232, 178, 104, 0.24)"
     },
     {
         title: 'Taxation & NRI’s',
-        description: "Everything you want to know about tax compliance on your investment gains on Ryzer platform. Special guide for NRI's.",
+        description: "Everything you want to know about tax compliance on your investment gains on Fandora platform. Special guide for NRI's.",
         thumbnail: 'taxation.svg',
         bg: '#F2786042',
         shadow: "0px 10px 50px 0px rgba(241.99999999999997, 119.99999999999999, 95.99999999999999, 0.23)"
     },
     {
         title: 'For Asset owners',
-        description: "Learn how you can gain liquidity from your property on Ryzer platform.",
+        description: "Learn how you can gain liquidity from your property on Fandora platform.",
         thumbnail: 'answer.svg',
         bg: '#40CA7530',
         shadow: "0px 10px 50px 0px rgba(64, 202.00000000000003, 117.00000000000007, 0.25)"
@@ -53,56 +53,56 @@ const getStartedFaq = {
                 ]
         },
         {
-            name: "What is “Ryzer” app?",
+            name: "What is “Fandora” app?",
             content: [
-                "Ryzer is a web-3 tokenized property investing marketplace platform that makes it easy to start owning property and diversifying your investment portfolio with as little as Rs. 5000.",
-                "First-time investors can begin building their property investment portfolio by leveraging the power of blockchain technology which helps select and secure high-growth Open land, residential, commercial, and on-going development assets from the Ryzer platform.",
+                "Fandora is a web-3 tokenized property investing marketplace platform that makes it easy to start owning property and diversifying your investment portfolio with as little as Rs. 5000.",
+                "First-time investors can begin building their property investment portfolio by leveraging the power of blockchain technology which helps select and secure high-growth Open land, residential, commercial, and on-going development assets from the Fandora platform.",
                 "You can leverage industry-leading flexibility with shorter time horizons, a great mix of high-growth assets, and stress-free exit capabilities."
             ]
         }
     ],
     getStartedFaq2: [
         {
-            name: "Does Ryzer collect the money on behalf of the investors?",
+            name: "Does Fandora collect the money on behalf of the investors?",
             content: [
                 "Nope, all the funds received from the subscribers are directly deposited with the designated LLP holding Company's Escrow bank account through Razorpay payment gateway's route settlements.",
-                "Additionally, Limited Liability Partnership(LLP) is a legally registered entity that holds the asset's ownership(Title deed). The investors via the Ryzer Platform become designated partners of that LLP. This gives you exclusive legal rights to asset ownership, and Ryzer Platform has no claim on the project in later stages."
+                "Additionally, Limited Liability Partnership(LLP) is a legally registered entity that holds the asset's ownership(Title deed). The investors via the Fandora Platform become designated partners of that LLP. This gives you exclusive legal rights to asset ownership, and Fandora Platform has no claim on the project in later stages."
             ]
         },
         {
             name: "How do you select investment opportunities?",
             content: [
-                "Ryzer brings to you a wide variety of carefully screened investment properties that meet personalised investment goals.",
-                "With Ryzer, you have a one-stop marketplace where you can diversify your portfolio from a wide range of rent-generating, capital-appreciation assets. Each investment property is carefully analysed on legal, technical and commercial dimensions. Less than 1% of our entire deal flow makes it to the offering stage."
+                "Fandora brings to you a wide variety of carefully screened investment properties that meet personalised investment goals.",
+                "With Fandora, you have a one-stop marketplace where you can diversify your portfolio from a wide range of rent-generating, capital-appreciation assets. Each investment property is carefully analysed on legal, technical and commercial dimensions. Less than 1% of our entire deal flow makes it to the offering stage."
             ]
         },
         {
-            name: "Who is behind Ryzer?",
+            name: "Who is behind Fandora?",
             content: [
-                "The parent company is Reapp Technologies Private Limited. Ryzer mobile app is a subset product.",
+                "The parent company is Reapp Technologies Private Limited. Fandora mobile app is a subset product.",
                 "Our vision is to make it incredibly easy for everyone to invest in different Real World asset classes — regardless of investment amount or experience.",
-                "The Ryzer team is passionate about making real estate investing accessible for everyone.",
+                "The Fandora team is passionate about making real estate investing accessible for everyone.",
                 'Learn more about us in the "About us" section.'
             ]
         }
     ],
     getStartedFaq3: [
         {
-            name: "How is Ryzer different from other online investing platforms?",
+            name: "How is Fandora different from other online investing platforms?",
             content: [
-                "When you subscribe to an investment opportunity in Ryzer, you are not merely subscribing to an investment but an experience. You would have access to all your investments on a highly automated and de-centralised platform, and the experience will be absolutely seamless. Each asset acquired is curated with investor requirements in mind.",
-                "Ryzer Platform does not restrict itself only to Commercial Real Estate. Any asset class that can generate attractive returns can be listed on Ryzer."
+                "When you subscribe to an investment opportunity in Fandora, you are not merely subscribing to an investment but an experience. You would have access to all your investments on a highly automated and de-centralised platform, and the experience will be absolutely seamless. Each asset acquired is curated with investor requirements in mind.",
+                "Fandora Platform does not restrict itself only to Commercial Real Estate. Any asset class that can generate attractive returns can be listed on Fandora."
             ]
         },
         {
             name: "What is the legal structure of our investments?",
             content: [
                 "We create a dedicated Limited Liability Partnership Firm (LLP) for every asset which holds the title deeds & ownership.",
-                "Investors via the Ryzer Platform are named as designated partners.You may check the details of that LLP on the Ministry of Corporate Affairs website."
+                "Investors via the Fandora Platform are named as designated partners.You may check the details of that LLP on the Ministry of Corporate Affairs website."
             ]
         },
         {
-            name: "What are the criteria to become an investor with “Ryzer”?",
+            name: "What are the criteria to become an investor with “Fandora”?",
             content: [
                 "Any individual or corporate entity with a PAN in India and a rupee-denominated account is eligible to invest."
             ]
@@ -113,16 +113,16 @@ const getStartedFaq = {
 const preInvenstment = {
     preInvenstment1: [
         {
-            name: "What types of properties can be listed on the Ryzer?",
+            name: "What types of properties can be listed on the Fandora?",
             content: [
-                "The Ryzer platform includes high-yielding residential, commercial, redevelopment, warehouse, and hospitality properties across all stages, including pre-construction, assignments, and re-sale. Each property functions like a separate Special Purpose Vehicle. The title is owned by this Special Purpose Vehicle (like a limited liability partnership company), which owns and manages the property for investors to own units/shares.",
+                "The Fandora platform includes high-yielding residential, commercial, redevelopment, warehouse, and hospitality properties across all stages, including pre-construction, assignments, and re-sale. Each property functions like a separate Special Purpose Vehicle. The title is owned by this Special Purpose Vehicle (like a limited liability partnership company), which owns and manages the property for investors to own units/shares.",
                 "Therefore, individual investors do not hold the title to the property as it is collectively owned. New properties are typically added to the platform every month."
             ]
         },
         {
-            name: "How can I manage my Ryzer investments?",
+            name: "How can I manage my Fandora investments?",
             content: [
-                "Manage your investments with a tap through the Ryzer mobile app in a single place, available on Apple App Store or Google Play store."
+                "Manage your investments with a tap through the Fandora mobile app in a single place, available on Apple App Store or Google Play store."
             ]
         }
     ],
@@ -134,21 +134,21 @@ const preInvenstment = {
             ]
         },
         {
-            name: "What if something goes wrong with Ryzer? Is my investment safe?",
+            name: "What if something goes wrong with Fandora? Is my investment safe?",
             content: [
-                "Your ownership structure in the assets is designed in a way that the ownership is not dependent on Ryzer. You will be allotted equity shares and compulsorily convertible debentures in an SPV that shall acquire the real estate asset listed on our platform. This ensures that the compliances pertaining to your investment in the SPV are filed/made from time to time with the necessary government authorities. The title documents executed and registered in favour of the said SPV shall be stored as a public document in government databases and records. Your investment remains absolutely secure on the blockchain security layer regardless of what happens to Ryzer."
+                "Your ownership structure in the assets is designed in a way that the ownership is not dependent on Fandora. You will be allotted equity shares and compulsorily convertible debentures in an SPV that shall acquire the real estate asset listed on our platform. This ensures that the compliances pertaining to your investment in the SPV are filed/made from time to time with the necessary government authorities. The title documents executed and registered in favour of the said SPV shall be stored as a public document in government databases and records. Your investment remains absolutely secure on the blockchain security layer regardless of what happens to Fandora."
             ]
         },
         {
             name: "Is Tokenized ownership risky?",
             content: [
-                "All investment contains risk to a certain extent. Real Estate Investment via Ryzer carries inherent risks, including but not limited to liquidity and potential loss of capital. Please consult your financial advisor before making any decision. Ryzer is merely a facilitator between the buyer and seller and will not be liable for any loss arising from investments."
+                "All investment contains risk to a certain extent. Real Estate Investment via Fandora carries inherent risks, including but not limited to liquidity and potential loss of capital. Please consult your financial advisor before making any decision. Fandora is merely a facilitator between the buyer and seller and will not be liable for any loss arising from investments."
             ]
         },
         {
-            name: "How does Ryzer help me diversify my portfolio?",
+            name: "How does Fandora help me diversify my portfolio?",
             content: [
-                "With Ryzer, you can invest in various assets with rent-generating, capital-appreciated open lands or flip-flopping property generating income. Investing small in multiple assets reduces your risks and increases your diversity to make higher average returns. Besides, with no hands-on intervention requirement, expanding your portfolio across geographies is as easy as a few clicks."
+                "With Fandora, you can invest in various assets with rent-generating, capital-appreciated open lands or flip-flopping property generating income. Investing small in multiple assets reduces your risks and increases your diversity to make higher average returns. Besides, with no hands-on intervention requirement, expanding your portfolio across geographies is as easy as a few clicks."
             ]
         },
         {
@@ -158,33 +158,33 @@ const preInvenstment = {
             ]
         },
         {
-            name: "What are the fees involved in investing with Ryzer?",
+            name: "What are the fees involved in investing with Fandora?",
             content: [
-                "Ryzer charges an annual management fee between 1 - 2.5% of the amount raised through the platform for rental-generating properties. In some instances, Ryzer may charge a deal sourcing fee. The property’s Offering Memorandum lists the exact fees per property."
+                "Fandora charges an annual management fee between 1 - 2.5% of the amount raised through the platform for rental-generating properties. In some instances, Fandora may charge a deal sourcing fee. The property’s Offering Memorandum lists the exact fees per property."
             ]
         },
         {
             name: "How long is the investment horizon?",
             content: [
-                "The investment horizon is the expected time period in which the investor can expect to exit or when the investment property is sold off. It is wise to consider the investment horizon from 3 to 5 years. Ryzer platform allows investors to exit their investment even before the property is sold through an open trade mechanism. Anyone can buy the investor’s holding in property through our secondary marketplace (Coming soon)."
+                "The investment horizon is the expected time period in which the investor can expect to exit or when the investment property is sold off. It is wise to consider the investment horizon from 3 to 5 years. Fandora platform allows investors to exit their investment even before the property is sold through an open trade mechanism. Anyone can buy the investor’s holding in property through our secondary marketplace (Coming soon)."
             ]
         },
         {
             name: "How is legal diligence done for the property?",
             content: [
-                "Every deal goes through 100+ checkpoints. After our internal team and Asset Managers have perused through the information, we deploy reputed legal firms, wherever required to attest for the legal sanctity. Besides the legal diligence, we also get International Property Consultants and Technical Consultants to conduct and deliver Property Valuation and Technical Feasibility reports. All such reports are made available to investors through the Ryzer online portal."
+                "Every deal goes through 100+ checkpoints. After our internal team and Asset Managers have perused through the information, we deploy reputed legal firms, wherever required to attest for the legal sanctity. Besides the legal diligence, we also get International Property Consultants and Technical Consultants to conduct and deliver Property Valuation and Technical Feasibility reports. All such reports are made available to investors through the Fandora online portal."
             ]
         },
         {
             name: "What is a primary offering?",
             content: [
-                "In a primary investment offering, an investment property is freshly offered for subscription through Ryzer. This involves creation of a Special Purpose Vehicle (SPV) in which investors purchase fractional ownership."
+                "In a primary investment offering, an investment property is freshly offered for subscription through Fandora. This involves creation of a Special Purpose Vehicle (SPV) in which investors purchase fractional ownership."
             ]
         },
         {
             name: "What is a secondary offering?",
             content: [
-                "In a secondary investment offering, investors are purchasing fractional ownership from existing investors of the asset who intend to make an exit. Ryzer plays the role of a facilitator in a secondary offering through secondary marketplace (Coming soon)."
+                "In a secondary investment offering, investors are purchasing fractional ownership from existing investors of the asset who intend to make an exit. Fandora plays the role of a facilitator in a secondary offering through secondary marketplace (Coming soon)."
             ]
         },
         {
@@ -209,13 +209,13 @@ const preInvenstment = {
         {
             name: "Do I have to be physically present for property registration?",
             content: [
-                "We offer a completely hassle-free investment and management experience. The entire process is completely paperless. You can invest from anywhere, and it does not require any physical presence. Property visits can be arranged at the request of interested investors. support@Ryzer.app"
+                "We offer a completely hassle-free investment and management experience. The entire process is completely paperless. You can invest from anywhere, and it does not require any physical presence. Property visits can be arranged at the request of interested investors. support@Fandora.app"
             ]
         },
         {
             name: "Can I see the property before investing?",
             content: [
-                "Property visits can be arranged. Kindly get in touch with your Relationship Manager or write to support@Ryzer.app"
+                "Property visits can be arranged. Kindly get in touch with your Relationship Manager or write to support@Fandora.app"
             ]
         },
         {
@@ -240,7 +240,7 @@ const preInvenstment = {
         {
             name: "What happens when pre-orders are oversubscribed?",
             content: [
-                "When a pre-order is oversubscribed, Ryzer - in general, will allocate investments based on a first-come, first-served basis. From time to time, we may offer investment on a scale-back basis, in which case your commitment may be reduced on a pro-rata basis. Please check the pre-order’s oversubscription policy for more details."
+                "When a pre-order is oversubscribed, Fandora - in general, will allocate investments based on a first-come, first-served basis. From time to time, we may offer investment on a scale-back basis, in which case your commitment may be reduced on a pro-rata basis. Please check the pre-order’s oversubscription policy for more details."
             ]
         },
     ]
@@ -257,7 +257,7 @@ const postInvenstment = {
         {
             name: "Do we have an option to choose to select property management ?",
             content: [
-                "Yes, as a co-owner, with voting rights, you have an absolute right to choose property management to assign within the co-owners or request to get the property management service from the Ryzer platform."
+                "Yes, as a co-owner, with voting rights, you have an absolute right to choose property management to assign within the co-owners or request to get the property management service from the Fandora platform."
             ]
         },
         {
@@ -282,7 +282,7 @@ const postInvenstment = {
             ]
         },
         {
-            name: "Does Ryzer charge any fee to sell shares on the marketplace?",
+            name: "Does Fandora charge any fee to sell shares on the marketplace?",
             content: [
                 "We have waived our transaction fees for all sale transactions executed on the marketplace. When a transaction fee is added in the future, it will be listed on our website."
             ]
@@ -306,37 +306,37 @@ const legalFaq = [
     {
         name: "How are the investments structured?",
         content: [
-            "For each asset listed on the Ryzer Platform, a Special Purpose Vehicle (SPV) is created in which funds are raised to purchase, own and manage the property. Your investment shall be towards subscription of designated limited liable ownership of an LLP that holds the property and represents your fractional investment.",
-            "Ryzer will provide asset management services to the LLP and undertake accounting, secretarial, reporting, leasing, maintenance and other operational aspects under the asset management services contract with the SPV."
+            "For each asset listed on the Fandora Platform, a Special Purpose Vehicle (SPV) is created in which funds are raised to purchase, own and manage the property. Your investment shall be towards subscription of designated limited liable ownership of an LLP that holds the property and represents your fractional investment.",
+            "Fandora will provide asset management services to the LLP and undertake accounting, secretarial, reporting, leasing, maintenance and other operational aspects under the asset management services contract with the SPV."
         ]
     },
     {
         name: "What is an SPV?",
         content: [
             "A Special Purpose Vehicle is an entity incorporated/created under the law, being a Partnership firm, LLP etc., for a specific lawful purpose.",
-            "Any investment opportunity listed on the Ryzer platform will be owned by an SPV being a limited liability parternship (LLP) set up for this specific purpose.",
+            "Any investment opportunity listed on the Fandora platform will be owned by an SPV being a limited liability parternship (LLP) set up for this specific purpose.",
             "Content"
         ]
     },
     {
         name: "Should I engage with an attorney or lawyer?",
         content: [
-            "Ryzer undertakes the legal due diligence of the property before it is purchased by the LLP.",
+            "Fandora undertakes the legal due diligence of the property before it is purchased by the LLP.",
             'However, you are welcome to seek tax and legal advice from your advisors to understand if the opportunity listed is suited for you. You should you engage any legal/tax advisor, we will be happy to answer any questions that they may have. Reach out "hello@ryzer.app" for any further clarifications.'
         ]
     },
     {
         name: "What kind of documentation will I need to sign?",
         content: [
-            "To begin with, you will be required to sign an Expression of Interest to confirm your commitment and remit 5 to 10% of your investment amount through payment gateway. Later Drawdown Notice will be sent to you once the opportunity has 100% commitment from all interested investors, post which you may remit the remaining funds towards your investment. This is followed by the LLP Subscription Agreement (SSA) with the LLP. The LLP also executes the Asset Management Agreement with Ryzer for which you will be executing a consent letter.",
+            "To begin with, you will be required to sign an Expression of Interest to confirm your commitment and remit 5 to 10% of your investment amount through payment gateway. Later Drawdown Notice will be sent to you once the opportunity has 100% commitment from all interested investors, post which you may remit the remaining funds towards your investment. This is followed by the LLP Subscription Agreement (SSA) with the LLP. The LLP also executes the Asset Management Agreement with Fandora for which you will be executing a consent letter.",
             "At the time of resale/liquidation of your holding in the LLP, you will be required to execute securities transfer documentation which include a request letter for transfer of securities, a deed of adherence to the SSA, and securities transfer forms.",
             "All these documents shall be executed through e-signing process complete with an audit trail and no physical copies will have to be signed. This makes your investment process completely digital, fast, transparent, and very convenient."
         ]
     },
     {
-        name: "How does Ryzer ensure that property titles are in the clear?",
+        name: "How does Fandora ensure that property titles are in the clear?",
         content: [
-            "Ryzer has an experienced team that performs thorough technical and legal due diligence before listing any property on our platform. We engage reputed Tier-I law firms to conduct due diligence on the property title."
+            "Fandora has an experienced team that performs thorough technical and legal due diligence before listing any property on our platform. We engage reputed Tier-I law firms to conduct due diligence on the property title."
         ]
     },
     {
@@ -348,7 +348,7 @@ const legalFaq = [
     {
         name: "Who legally has ownership of these properties?",
         content: [
-            "When you purchase tokens in a Ryzer platform property offering, you are directly buying a membership interest in the individual LLP that owns that property asset.",
+            "When you purchase tokens in a Fandora platform property offering, you are directly buying a membership interest in the individual LLP that owns that property asset.",
             "For example, if you purchase 1% of the tokens in a single home offering, you would then be entitled to 1% of the economic interests of the asset over time, which may include income from rent or property value appreciation."
         ]
     },
@@ -356,7 +356,7 @@ const legalFaq = [
         name: "How do we ensure each LLP owns the deed on its property?",
         content: [
             "All ownership documentation is publicly available online by going to the property asset link on polygon blockchain.",
-            "You can also find these documents in the Assets Overview section of your Ryzer App dashboard."
+            "You can also find these documents in the Assets Overview section of your Fandora App dashboard."
         ]
     }
 ]
@@ -365,7 +365,7 @@ const securityFaq = [
     {
         name: "Why does real estate need security tokenisation?",
         content: [
-            "We at the Ryzer platform believe that all real estate benefits from tokenization for the following reasons:",
+            "We at the Fandora platform believe that all real estate benefits from tokenization for the following reasons:",
             "1. Creates the opportunity for a marketplace to buy, sell, or trade tokens of real estate.",
             "2. Reduces/Eliminates intermediaries.",
             "3. Increases liquidity of traditionally illiquid assets.",
@@ -378,15 +378,15 @@ const securityFaq = [
     {
         name: "How do you keep my personal information secure?",
         content: [
-            "The security of our platform and privacy of all your data is our utmost priority. Ryzer's platform is built keeping the best-in-class security and privacy features in mind using on-chain polygon blockchain layer.",
+            "The security of our platform and privacy of all your data is our utmost priority. Fandora's platform is built keeping the best-in-class security and privacy features in mind using on-chain polygon blockchain layer.",
             "All your data is hosted on secure cloud networks and all sensitive client data is encrypted and stored with 256 bit SHA encryption.",
-            "Ryzer will never share your data with any third party. For more details, please refer to our privacy policy."
+            "Fandora will never share your data with any third party. For more details, please refer to our privacy policy."
         ]
     },
     {
         name: "What happens if there are major interest rate changes or market crashes?",
         content: [
-            "Once you invest in a Ryzer property, unlike REITs, our real estate investment vehicles are private investments not tied to the stock market. This means that, for example, residential properties have no correlation to activity on the market (making them a great way to diversify your investment portfolio across different asset types)."
+            "Once you invest in a Fandora property, unlike REITs, our real estate investment vehicles are private investments not tied to the stock market. This means that, for example, residential properties have no correlation to activity on the market (making them a great way to diversify your investment portfolio across different asset types)."
         ]
     },
     {
@@ -406,26 +406,26 @@ const securityFaq = [
     {
         name: "What is a token?",
         content: [
-            "Tokens are digital assets created on a blockchain. Each blockchain has a native coin, for instance, Bitcoin for the Bitcoin blockchain and Ether for the Ethereum blockchain. Assets built on existing blockchains are referred to as tokens. In Ryzer's use-case, the tokens will represent physical real estate assets and this ownership will be recorded on top of the Ethereum blockchain. All transactions of these tokens will also be recorded in this immutable way."
+            "Tokens are digital assets created on a blockchain. Each blockchain has a native coin, for instance, Bitcoin for the Bitcoin blockchain and Ether for the Ethereum blockchain. Assets built on existing blockchains are referred to as tokens. In Fandora's use-case, the tokens will represent physical real estate assets and this ownership will be recorded on top of the Ethereum blockchain. All transactions of these tokens will also be recorded in this immutable way."
         ]
     },
     {
         name: "Why use a blockchain platform over a centralized solution?",
         content: [
-            "In short: better provenance, security, and accessibility. Ownership is secured on the blockchain, an immutable ledger that records all transactions. It makes our platform accessible to a wider audience and able to integrate with other platforms in DeFi. As titles and government services digitize, Ryzer will be ready to integrate with them.",
+            "In short: better provenance, security, and accessibility. Ownership is secured on the blockchain, an immutable ledger that records all transactions. It makes our platform accessible to a wider audience and able to integrate with other platforms in DeFi. As titles and government services digitize, Fandora will be ready to integrate with them.",
             "In future: blockchain will provide the ability to collateralize your asset much more smoothly in various DeFi platforms, giving a hard asset to borrow against instead of the current more volatile standard of borrowing with cryptocurrency as collateral."
         ]
     },
     {
         name: "Are the tokens considered securities?",
         content: [
-            "Yes, tokenized real estate is considered as a security. We at Ryzer are determined to be fully compliant with all that designation entails from companies act and other applicable laws."
+            "Yes, tokenized real estate is considered as a security. We at Fandora are determined to be fully compliant with all that designation entails from companies act and other applicable laws."
         ]
     },
     {
         name: "How many tokens will be issued?",
         content: [
-            "Each property has a different number of tokens issued, determined by Ryzer and the property’s Sponsor/seller. Each project will also have a different token mining method that will determine the terms of the investment opportunity."
+            "Each property has a different number of tokens issued, determined by Fandora and the property’s Sponsor/seller. Each project will also have a different token mining method that will determine the terms of the investment opportunity."
         ]
     },
     {
@@ -448,14 +448,14 @@ const securityFaq = [
         ]
     },
     {
-        name: "Will I lose my investment if Ryzer platform goes out of business?",
+        name: "Will I lose my investment if Fandora platform goes out of business?",
         content: [
-            "No. If Ryzer went out of business, each property LLP would remain as a separate legal entity for property holding, tax, accounting, liability, and member ownership purposes. Regardless of what happens to Reapp Technologies Private Limited., the assets and the Ryzer property tokens of an LLP would remain independent and intact.",
-            "The Ryzer property tokens would still represent and evidence ownership of the property contained in the LLP and, as such, could be transferred in the market, as needed, so long as applicable securities transfer rules are complied with."
+            "No. If Fandora went out of business, each property LLP would remain as a separate legal entity for property holding, tax, accounting, liability, and member ownership purposes. Regardless of what happens to Reapp Technologies Private Limited., the assets and the Fandora property tokens of an LLP would remain independent and intact.",
+            "The Fandora property tokens would still represent and evidence ownership of the property contained in the LLP and, as such, could be transferred in the market, as needed, so long as applicable securities transfer rules are complied with."
         ]
     },
     {
-        name: "Does Ryzer have a Clawback feature?",
+        name: "Does Fandora have a Clawback feature?",
         content: [
             "Not at this moment; we do not have a clawback feature to claw back your tokens from your Metamask wallet. Rather, we request to send back tokens to the designated LLP's Metamask address when you've sold them to someone."
         ]
@@ -554,7 +554,7 @@ const taxationFaq = [
 
 const NRIFaq = [
     {
-        name: "Can NRIs invest in opportunities made available by Ryzer?",
+        name: "Can NRIs invest in opportunities made available by Fandora?",
         content: [
             "Yes, NRI’s certainly can. The products listed are more suitable for NRI’s as they do not generally have the bandwidth to physically visit the properties before investing, complete the legal formalities and managing their investment."
         ]
@@ -604,9 +604,9 @@ const NRIFaq = [
         ]
     },
     {
-        name: "How can Ryzer help me with taxation?",
+        name: "How can Fandora help me with taxation?",
         content: [
-            "Ryzer can guide you to the extent possible pertaining to the investment. This should however not be construed as a legal advice. You may consult with your Chartered Accountant / Tax Consultant for the same. Our aim is to make ITR filing as smooth as possible for the investor and our platform shall provide the reports required which can ease out reporting in the required section of the ITR."
+            "Fandora can guide you to the extent possible pertaining to the investment. This should however not be construed as a legal advice. You may consult with your Chartered Accountant / Tax Consultant for the same. Our aim is to make ITR filing as smooth as possible for the investor and our platform shall provide the reports required which can ease out reporting in the required section of the ITR."
         ]
     }
 ]
@@ -627,7 +627,7 @@ const assetOwnerFaq = [
     {
         name: "Who takes care of asset management and other legal requirements?",
         content: [
-            "Post investment the investors can vote and nominate an asset manager of their choice. The platform shall also help with few suggestions when necessary but in the end decision lies with the investors and is completely transparent. A designated asset manager will then manage the property, distribute shares, making sure updates daily investor's updates, maintains the cap table and share classes through a dedicated asset management portal within the Ryzer platform.",
+            "Post investment the investors can vote and nominate an asset manager of their choice. The platform shall also help with few suggestions when necessary but in the end decision lies with the investors and is completely transparent. A designated asset manager will then manage the property, distribute shares, making sure updates daily investor's updates, maintains the cap table and share classes through a dedicated asset management portal within the Fandora platform.",
             "An asset manager who's manages a property and LLP will not have sole rights to sell, re-sell or take any major decision over a property. It's legally structured  in an agreement between investors and Asset manager."
         ]
     },
@@ -635,7 +635,7 @@ const assetOwnerFaq = [
         name: "How are new projects listed on the platform?",
         content: [
             "Every project that is listed on the platform first completes a due diligence process and verification on the platform. Both the asset owner and the asset are vetted on the platform. Following which relevant custody of documents and contracts are executed between the asset owner and the platform. Once successful with all these processes, the asset is tokenized and listed on the platform and all the information and documents are made to the investors of the platform.",
-            "Irrespective of the due diligence done on the platform, every investment carries risk and hence, every asset owner is abide by the process of Ryzer Platform's Due diligence if they wish to sell their asset in no time by cutting off additional costs."
+            "Irrespective of the due diligence done on the platform, every investment carries risk and hence, every asset owner is abide by the process of Fandora Platform's Due diligence if they wish to sell their asset in no time by cutting off additional costs."
         ]
     }
 ]

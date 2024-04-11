@@ -16,13 +16,13 @@ const AboutHero = () => {
                     <div className="row justify-center items-center">
                         <div className="col-lg-6 col-md-10 col-11">
                             <div>
-                                <img alt="commercial property real estate - Ryzer" className="rounded-[10px]" src="/assets/img/jpg/real-estate.jpeg" />
+                                <img alt="commercial property real estate - Fandora" className="rounded-[10px]" src="/assets/img/jpg/real-estate.jpeg" />
                             </div>
                         </div>
                         <div className="col-lg-6 max-lg:mt-10 col-md-10 col-11">
                             <div className="xl:pl-20 lg:pl-[1.5rem]">
                                 <h2 className="text-[18px] xs:text-[20px] leading-[26px] xs:leading-[30px] md:leading-[34px] md:text-[25px] xl:leading-[42px] xl:text-[30px] poppins-600 text-[#45485F]">We’re on a mission to make real estate investing accessible to everyone.</h2>
-                                <p className="text-[#464D65CC] mt-[1.5rem] text-[16px] md:text-[18px] sm:pr-[1rem] xl:pr-20 poppins-400">Real estate has always been one of the most sought-after asset classes for professional investors, but for the average person, real estate is intimidating and inaccessible. Ryzer was built to unlock greater access to the real estate market to everyone.</p>
+                                <p className="text-[#464D65CC] mt-[1.5rem] text-[16px] md:text-[18px] sm:pr-[1rem] xl:pr-20 poppins-400">Real estate has always been one of the most sought-after asset classes for professional investors, but for the average person, real estate is intimidating and inaccessible. Fandora was built to unlock greater access to the real estate market to everyone.</p>
                             </div>
                         </div>
                     </div>
@@ -44,7 +44,7 @@ const AboutHero = () => {
                         </div>
                         <div className="offset-lg-1 col-xs-10 col-11 col-lg-5">
                             <div>
-                                <img alt="Fractional investing - Ryzer" className="rounded-[10px]" src="/assets/img/jpg/mission.jpeg" />
+                                <img alt="Fractional investing - Fandora" className="rounded-[10px]" src="/assets/img/jpg/mission.jpeg" />
                             </div>
                         </div>
                     </div>

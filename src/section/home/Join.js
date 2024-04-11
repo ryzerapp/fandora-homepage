@@ -73,7 +73,7 @@ const Join = () => {
                         />
                         <button
                           type="submit"
-                          className="bg-none ml-3 sm:ml-5 flex items-center uppercase  text-[#725AEC] poppins-400"
+                          className="bg-none ml-3 sm:ml-5 flex items-center uppercase  text-[#52C1B9] poppins-400"
                         >
                           <span className="max-sm:hidden">Join Waitlist</span>
                           <FaArrowRight className="ml-3" />

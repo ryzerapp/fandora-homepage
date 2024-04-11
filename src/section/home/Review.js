@@ -38,7 +38,7 @@ const Review = () => {
                       </div>
                       <p className="text-[#243858] max-sm:text-center   mt-4 poppins-400">
                         “Love the ability to invest in assets which typically
-                        not available for common prope, Great work by Ryzer team
+                        not available for common prope, Great work by Fandora team
                         “
                       </p>
                     </div>
@@ -67,7 +67,7 @@ const Review = () => {
                         </div>
                       </div>
                       <p className="text-[#243858] max-sm:text-center mt-4 poppins-400">
-                        “Ryzer is truly a great solution that provides on-chain
+                        “Fandora is truly a great solution that provides on-chain
                         trust and transaparency when it comes to real world
                         investment oppertunites“
                       </p>
@@ -118,7 +118,7 @@ const Review = () => {
                   Join The Future Of Asset Tokenization
                 </h2>
                 <p className="poppins-400 my-5 max-lg:text-center tracking-[0.7px] text-base sm:text-lg text-[#627C89]">
-                  Ryzer is a power packed alternative investment platform that
+                  Fandora is a power packed alternative investment platform that
                   provides great assets across India by levering the true sense
                   of blockchain. Trust, Transparency & investor's control is
                   truly amazing.

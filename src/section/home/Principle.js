@@ -19,7 +19,7 @@ const Principle = () => {
                             <div className="mt-8 flex max-xl:justify-center">
                                 <div>
                                     <div className="flex-items-center  my-5">
-                                        <div className="text-[#725AEC] hover:text-[white] transition-all hover:bg-[#725AEC] w-[30px] h-[30px] flex-center rounded-[50%] bg-[#F0F4FE]">
+                                        <div className="text-[#52C1B9] hover:text-[white] transition-all hover:bg-[#52C1B9] w-[30px] h-[30px] flex-center rounded-[50%] bg-[#F0F4FE]">
                                             <IoMdCheckmark className="text-lg" />
                                         </div>
                                         <p className="mb-0 ml-4 poppins-500 ">
@@ -27,7 +27,7 @@ const Principle = () => {
                                         </p>
                                     </div>
                                     <div className="flex-items-center my-5">
-                                        <div className="text-[#725AEC] hover:text-[white] transition-all hover:bg-[#725AEC] w-[30px] h-[30px] flex-center rounded-[50%] bg-[#F0F4FE]">
+                                        <div className="text-[#52C1B9] hover:text-[white] transition-all hover:bg-[#52C1B9] w-[30px] h-[30px] flex-center rounded-[50%] bg-[#F0F4FE]">
                                             <IoMdCheckmark className="text-lg" />
                                         </div>
                                         <p className="mb-0 ml-4 poppins-500 ">
@@ -35,7 +35,7 @@ const Principle = () => {
                                         </p>
                                     </div>
                                     <div className="flex-items-center my-5">
-                                        <div className="text-[#725AEC] hover:text-[white] transition-all hover:bg-[#725AEC] w-[30px] h-[30px] flex-center rounded-[50%] bg-[#F0F4FE]">
+                                        <div className="text-[#52C1B9] hover:text-[white] transition-all hover:bg-[#52C1B9] w-[30px] h-[30px] flex-center rounded-[50%] bg-[#F0F4FE]">
                                             <IoMdCheckmark className="text-lg" />
                                         </div>
                                         <p className="mb-0 ml-4 poppins-500 ">
@@ -46,7 +46,7 @@ const Principle = () => {
                             </div>
                             <div className="my-4 max-xl:flex max-xl:justify-center">
                                 <Link href={'/faq'}>
-                                    <button className="bg-[#725AEC] text-[white] flex items-center px-7 xs:px-8 py-3 transition-all duration-300 hover:scale-105 rounded-md">
+                                    <button className="bg-[#52C1B9] text-[white] flex items-center px-7 xs:px-8 py-3 transition-all duration-300 hover:scale-105 rounded-md">
                                         <span className=" poppins-600 text-center mr-3 text-base xs:text-lg">Learn more</span>
                                     </button>
                                 </Link>

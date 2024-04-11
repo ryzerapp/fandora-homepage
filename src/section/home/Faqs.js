@@ -61,7 +61,7 @@ const Faqs = () => {
                                     {/* <Accordian2 className='mt-4' header={'What is a security token?'}>
                                         <div className="pl-8 pr-6">
                                             <p className="poppins-400 tracking-[0.7px] text-[15px]  text-[#627C89]">
-                                                Tokens are digital assets created on a blockchain. Each blockchain has a native coin, for instance, Bitcoin for the Bitcoin blockchain and ether for the Ethereum blockchain. Assets built on existing blockchains are referred to as tokens. In Ryzer's platform use-case, the tokens will represent physical real estate assets and this ownership will be recorded on top of the Ethereum blockchain. All transactions of these tokens will also be recorded in this immutable way.
+                                                Tokens are digital assets created on a blockchain. Each blockchain has a native coin, for instance, Bitcoin for the Bitcoin blockchain and ether for the Ethereum blockchain. Assets built on existing blockchains are referred to as tokens. In Fandora's platform use-case, the tokens will represent physical real estate assets and this ownership will be recorded on top of the Ethereum blockchain. All transactions of these tokens will also be recorded in this immutable way.
 
 
                                             </p>

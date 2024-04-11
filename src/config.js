@@ -1,4 +1,4 @@
-const serverProduction = 'https://api.ryzer.app';
+const serverProduction = 'https://api.fandora.app';
 export const config = {
     API_URL: serverProduction + '/api',
 }

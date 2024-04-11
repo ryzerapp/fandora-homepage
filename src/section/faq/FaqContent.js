@@ -33,17 +33,17 @@ const FaqContent = () => {
                                             </Accordian3>
                                         ))
                                     }
-                                    <Accordian3 header={'How the Ryzer Platform Works?'}>
+                                    <Accordian3 header={'How the Fandora Platform Works?'}>
                                         <div className="poppins-400 mb-7 tracking-[0.7px] text-base sm:text-lg text-[#627C89]">
-                                            <p className="mb-7">Ryzer consists of buyers (asset token investors) and sellers (people who want to sell their different assets).</p>
-                                            <p className="mb-7">Ryzer is a marketplace like Airbnb, eBay, or Amazon. It does not buy and sell properties.</p>
-                                            <p className="mb-7">Ryzer internal Team conducts a through due diligence before listing any property to the platform. Documents checked by us consist of Property documents, Ownership Documents, Legal, and Civil violations, Authorised Permissions, Municipal bills and Receipts. We also do a personal visit to property location to check total carpet area, built-up area, Property check-up/inspections that adhere to local RERA guidelines. Then once the  asset is listed, a retail investor like you can see every document and reports on the "Document" section in the application.</p>
+                                            <p className="mb-7">Fandora consists of buyers (asset token investors) and sellers (people who want to sell their different assets).</p>
+                                            <p className="mb-7">Fandora is a marketplace like Airbnb, eBay, or Amazon. It does not buy and sell properties.</p>
+                                            <p className="mb-7">Fandora internal Team conducts a through due diligence before listing any property to the platform. Documents checked by us consist of Property documents, Ownership Documents, Legal, and Civil violations, Authorised Permissions, Municipal bills and Receipts. We also do a personal visit to property location to check total carpet area, built-up area, Property check-up/inspections that adhere to local RERA guidelines. Then once the  asset is listed, a retail investor like you can see every document and reports on the "Document" section in the application.</p>
                                             <p className="mb-7">This helps investors make an informed wise decision to invest with confidence and trust.</p>
                                             <p className="mb-7 poppins-700">How Asset listing process works:</p>
-                                            <p className="mb-7">Step 1: A seller submits their assets to be sold on the Ryzer Platform. The asset is either approved or disapproved based on facts checklist & due-diligence reports that we internally conduct.</p>
+                                            <p className="mb-7">Step 1: A seller submits their assets to be sold on the Fandora Platform. The asset is either approved or disapproved based on facts checklist & due-diligence reports that we internally conduct.</p>
                                             <p className="mb-7">Step 2: Once approved, the asset is put under contract by an SPV (Special Purpose Vehicle) under an LLP that holds the Asset Title deed.</p>
                                             <p className="mb-7">The LLP is then tokenised or issued into individual asset tokens on the Polygon blockchain layer. This can be fully audited anytime, anywhere, since it's fully run on-chain in a de-centralised manner.</p>
-                                            <p className="mb-7">Step 3: Once fully funded, Ryzer Platform will send few key documents such as Expression Of interest(EOI) , LLP Agreement, Property Management Agreement and other requisite documents to a subscriber who's showing interest to invest.</p>
+                                            <p className="mb-7">Step 3: Once fully funded, Fandora Platform will send few key documents such as Expression Of interest(EOI) , LLP Agreement, Property Management Agreement and other requisite documents to a subscriber who's showing interest to invest.</p>
                                             <p className="mb-7">Upon digital signatures being confirmed from the subscribers, we then proceed to acquire an asset from the seller and then the Asset's Title deeds will be transferred to a newly formed LLP, wherein all the members who subscribed will become "Designated LLP Partners".</p>
                                             <p className="mb-7">Step 4: Wait until the hold-in period while gaining monthly rentals and capital appreciation. When the time comes (Roughly 2-3 years Horizon), Investors in that Specific LLP can decide to re-sell to a party and gain asset appreciation, which can be shared among them based on their subscribed ownership percentage. Or an investor may exit anytime by selling his subscribed ownership in our secondary marketplace (Coming soon).</p>
                                         </div>
@@ -80,20 +80,20 @@ const FaqContent = () => {
                                             </Accordian3>
                                         ))
                                     }
-                                    <Accordian3 header={'What services does Ryzer provide?'}>
+                                    <Accordian3 header={'What services does Fandora provide?'}>
                                         <div className="poppins-400 mb-7 pl-10 tracking-[0.7px] text-base sm:text-lg text-[#627C89]">
 
-                                            <p className="mb-7">1. <span className="poppins-700">Co-owner matching:</span> Ryzer matches you with other compatible investors to co-purchase a property.</p>
-                                            <p className="mb-7">2. <span className="poppins-700"> Entity formation:  </span>Ryzer sets up an LLP in the sta</p>
-                                            <p className="mb-7">3. <span className="poppins-700"> Diversification : </span> Ryzer Platform creates a bank account for the LLP and supports deposits, rental distributions, expense withdrawals, and a reserve for the property.</p>
+                                            <p className="mb-7">1. <span className="poppins-700">Co-owner matching:</span> Fandora matches you with other compatible investors to co-purchase a property.</p>
+                                            <p className="mb-7">2. <span className="poppins-700"> Entity formation:  </span>Fandora sets up an LLP in the sta</p>
+                                            <p className="mb-7">3. <span className="poppins-700"> Diversification : </span> Fandora Platform creates a bank account for the LLP and supports deposits, rental distributions, expense withdrawals, and a reserve for the property.</p>
                                             <p className="mb-7">4. <span className="poppins-700"> Banking: </span> Our governance model aligns all co-owners on handling scenarios such as ownership transfers, voting procedures, repairs, and expenses.</p>
                                             <p className="mb-7">5. <span className="poppins-700"> Asset Deal closing: </span> A dedicated asset manager will make an offer, work through the due diligence process, and successfully close the asset deal in both buying and re-selling an asset in the later period of time.</p>
                                         </div>
                                     </Accordian3>
-                                    <Accordian3 header={'How do I make returns with Ryzer?'}>
+                                    <Accordian3 header={'How do I make returns with Fandora?'}>
                                         <div className="poppins-400 mb-7  tracking-[0.7px] text-base sm:text-lg text-[#627C89]">
                                             <p className="mb-7">
-                                                You can make returns with Ryzer in two ways:
+                                                You can make returns with Fandora in two ways:
                                             </p>
                                             <div className="pl-10 mb-7">
                                                 <p>1. The sale of your invested asset and its monthly rental income.</p>
@@ -126,7 +126,7 @@ const FaqContent = () => {
                             </div>
                             <div className="row mt-10">
                                 <div className="col-12">
-                                    <h2 className="text-[#725AEC] text-[33px] poppins-600">Pre-investment</h2>
+                                    <h2 className="text-[#52C1B9] text-[33px] poppins-600">Pre-investment</h2>
                                 </div>
                             </div>
                             <div className="row mt-3">
@@ -142,7 +142,7 @@ const FaqContent = () => {
                                             </Accordian3>
                                         ))
                                     }
-                                    <Accordian3 header={'What KYC documents are needed to sign up with Ryzer?'}>
+                                    <Accordian3 header={'What KYC documents are needed to sign up with Fandora?'}>
                                         <div className="poppins-400 mb-7 tracking-[0.7px] text-base sm:text-lg text-[#627C89]">
                                             <p className="">Copies of the following documents will be required as part of the KYC process -</p>
                                             <p className="mb-7">1. PAN Card Address Proof</p>
@@ -166,14 +166,14 @@ const FaqContent = () => {
                             </div>
                             <div className="row mt-10">
                                 <div className="col-12">
-                                    <h2 className="text-[#725AEC] text-[33px] poppins-600">Post-investment</h2>
+                                    <h2 className="text-[#52C1B9] text-[33px] poppins-600">Post-investment</h2>
                                 </div>
                             </div>
                             <div className="row mt-3">
                                 <Accordion transition transitionTimeout={200}>
                                     <Accordian3 header={'When is my investment process complete?'}>
                                         <p className="poppins-400 mb-7 tracking-[0.7px] text-base sm:text-lg text-[#627C89]">
-                                            Your investment is completed as soon as the opportunity is fully funded and private placement of your investment is done in the SPV that shall acquire the asset listed. Ryzer generally has a time frame of 60 days to ensure that the property receives complete funding.
+                                            Your investment is completed as soon as the opportunity is fully funded and private placement of your investment is done in the SPV that shall acquire the asset listed. Fandora generally has a time frame of 60 days to ensure that the property receives complete funding.
                                         </p>
                                     </Accordian3>
                                     <Accordian3 header={'When & how will I receive my returns?'}>
@@ -214,7 +214,7 @@ const FaqContent = () => {
                                             <p className="mb-7"> You can track the sale transaction through the My Investments page.</p>
                                             <p className="mb-7"> There are three stages in the sale transaction process:</p>
                                             <p className="mb-7"><span className="poppins-700"> Listed - </span> Implies that shares have been successfully listed on the marketplace and are now available for purchase by interested buyers.</p>
-                                            <p className="mb-7"><span className="poppins-700"> Processing - </span> Implies that Ryzer has received a purchase transaction request against your sale listing.</p>
+                                            <p className="mb-7"><span className="poppins-700"> Processing - </span> Implies that Fandora has received a purchase transaction request against your sale listing.</p>
                                             <p className="mb-7"><span className="poppins-700"> Sold - </span> Implies that a purchase transaction has been successfully completed against your sale listing.</p>
                                         </div>
                                     </Accordian3>
@@ -317,7 +317,7 @@ const FaqContent = () => {
                             </div>
                             <div className="row mt-10">
                                 <div className="col-12">
-                                    <h2 className="text-[#725AEC] text-[33px] poppins-600">Taxation</h2>
+                                    <h2 className="text-[#52C1B9] text-[33px] poppins-600">Taxation</h2>
                                 </div>
                             </div>
                             <div className="row mt-3">
@@ -337,7 +337,7 @@ const FaqContent = () => {
                             </div>
                             <div className="row mt-10">
                                 <div className="col-12">
-                                    <h2 className="text-[#725AEC] text-[33px] poppins-600">For NRI's</h2>
+                                    <h2 className="text-[#52C1B9] text-[33px] poppins-600">For NRI's</h2>
                                 </div>
                             </div>
                             <div className="row mt-3">

@@ -69,13 +69,13 @@ const PrivacyPolicy = () => {
                                     Terms of Use
                                 </p>
                                 <p className="policy-text mt-10">
-                                    Your use of our Services is also subject to our Terms of Use which are available at <Link className='text-[#725AEC]' href={'/terms-of-use'}>Ryzer.app/terms of use.</Link>
+                                    Your use of our Services is also subject to our Terms of Use which are available at <Link className='text-[#52C1B9]' href={'/terms-of-use'}>Fandora.app/terms of use.</Link>
                                 </p>
                                 <p className="policy-text-bold mt-10">
                                     Contact
                                 </p>
                                 <p className="policy-text mt-10">
-                                    To contact us about this Privacy Policy, please email us at <a className='text-[#725AEC]' href='mailto:hello@ryzer.app'>hello@ryzer.app</a>.
+                                    To contact us about this Privacy Policy, please email us at <a className='text-[#52C1B9]' href='mailto:hello@ryzer.app'>hello@ryzer.app</a>.
                                 </p>
                             </div>
                         </div>

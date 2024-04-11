@@ -9,7 +9,7 @@ const PartnerHero = () => {
                         <div className='row max-lg:items-center justify-between'>
                             <div className='col-lg-5 col-md-6 col-12'>
                                 <div className='max-md:flex max-md:justify-center'>
-                                    <img alt='fractional owner - Ryzer' className='max-md:w-[80%] xl:w-[90%] shadow1' src='/assets/img/png/person.png' />
+                                    <img alt='fractional owner - Fandora' className='max-md:w-[80%] xl:w-[90%] shadow1' src='/assets/img/png/person.png' />
                                 </div>
                             </div>
                             <div className='col-md-6 max-md:mt-10 col-12'>

@@ -10,7 +10,7 @@ const Invest = () => {
                             <div className="col-xxl-6 col-lg-6 max-lg:mt-10 px-20">
                                 <div className="rz-feature-image-circle flex-center xl:w-[78%] h-[100%] rounded-[50%]">
                                     <div className="flex-center">
-                                        <img alt="Fractional investment - Ryzer" className="w-[50%]" src={`/assets/img/png/invest.png`} />
+                                        <img alt="Fractional investment - Fandora" className="w-[50%]" src={`/assets/img/png/invest.png`} />
                                     </div>
                                 </div>
                             </div>
@@ -21,7 +21,7 @@ const Invest = () => {
                                     <div className="sm:mt-8 mt-5 flex max-xl:justify-center">
                                         <div>
                                             <div className="flex-items-center  my-5">
-                                                <div className="text-[#725AEC] hover:text-[white] transition-all hover:bg-[#725AEC] w-[30px] h-[30px]  flex-center rounded-[50%] bg-[#F0F4FE]">
+                                                <div className="text-[#52C1B9] hover:text-[white] transition-all hover:bg-[#52C1B9] w-[30px] h-[30px]  flex-center rounded-[50%] bg-[#F0F4FE]">
                                                     <IoMdCheckmark className="text-lg" />
                                                 </div>
                                                 <p className="mb-0 max-sm:text-sm ml-4 poppins-500 ">
@@ -29,7 +29,7 @@ const Invest = () => {
                                                 </p>
                                             </div>
                                             <div className="flex-items-center my-5">
-                                                <div className="text-[#725AEC] hover:text-[white] transition-all hover:bg-[#725AEC] w-[30px] h-[30px] flex-center rounded-[50%] bg-[#F0F4FE]">
+                                                <div className="text-[#52C1B9] hover:text-[white] transition-all hover:bg-[#52C1B9] w-[30px] h-[30px] flex-center rounded-[50%] bg-[#F0F4FE]">
                                                     <IoMdCheckmark className="text-lg" />
                                                 </div>
                                                 <p className="mb-0 max-sm:text-sm ml-4 poppins-500 ">
@@ -37,7 +37,7 @@ const Invest = () => {
                                                 </p>
                                             </div>
                                             <div className="flex-items-center my-5">
-                                                <div className="text-[#725AEC] hover:text-[white] transition-all hover:bg-[#725AEC] w-[30px] h-[30px] flex-center rounded-[50%] bg-[#F0F4FE]">
+                                                <div className="text-[#52C1B9] hover:text-[white] transition-all hover:bg-[#52C1B9] w-[30px] h-[30px] flex-center rounded-[50%] bg-[#F0F4FE]">
                                                     <IoMdCheckmark className="text-lg" />
                                                 </div>
                                                 <p className="mb-0 max-sm:text-sm ml-4 poppins-500 ">
@@ -62,7 +62,7 @@ const Invest = () => {
                                     <div className="xl:mt-8 mt-5 flex max-xl:justify-center">
                                         <div>
                                             <div className="flex-items-center  my-5">
-                                                <div className="text-[#725AEC] hover:text-[white] transition-all hover:bg-[#725AEC] w-[30px] h-[30px] flex-center rounded-[50%] bg-[#F0F4FE]">
+                                                <div className="text-[#52C1B9] hover:text-[white] transition-all hover:bg-[#52C1B9] w-[30px] h-[30px] flex-center rounded-[50%] bg-[#F0F4FE]">
                                                     <IoMdCheckmark className="text-lg" />
                                                 </div>
                                                 <p className="mb-0 max-sm:text-sm ml-4 poppins-500 ">
@@ -70,7 +70,7 @@ const Invest = () => {
                                                 </p>
                                             </div>
                                             <div className="flex-items-center my-5">
-                                                <div className="text-[#725AEC] hover:text-[white] transition-all hover:bg-[#725AEC] w-[30px] h-[30px] flex-center rounded-[50%] bg-[#F0F4FE]">
+                                                <div className="text-[#52C1B9] hover:text-[white] transition-all hover:bg-[#52C1B9] w-[30px] h-[30px] flex-center rounded-[50%] bg-[#F0F4FE]">
                                                     <IoMdCheckmark className="text-lg" />
                                                 </div>
                                                 <p className="mb-0 max-sm:text-sm ml-4 poppins-500 ">
@@ -78,7 +78,7 @@ const Invest = () => {
                                                 </p>
                                             </div>
                                             <div className="flex-items-center my-5">
-                                                <div className="text-[#725AEC] hover:text-[white] transition-all hover:bg-[#725AEC] w-[30px] h-[30px] flex-center rounded-[50%] bg-[#F0F4FE]">
+                                                <div className="text-[#52C1B9] hover:text-[white] transition-all hover:bg-[#52C1B9] w-[30px] h-[30px] flex-center rounded-[50%] bg-[#F0F4FE]">
                                                     <IoMdCheckmark className="text-lg" />
                                                 </div>
                                                 <p className="mb-0 max-sm:text-sm ml-4  poppins-500 ">
@@ -92,7 +92,7 @@ const Invest = () => {
                             <div className="col-xxl-6  col-lg-6 max-lg:mt-10 px-20">
                                 <div className="rz-feature-image-circle flex justify-end  xl:w-[78%] h-[100%] rounded-[50%]">
                                     <div className="flex-center">
-                                        <img alt="fractional owner - Ryzer" className="lg:w-[80%]" src={`/assets/img/png/community.png`} />
+                                        <img alt="fractional owner - Fandora" className="lg:w-[80%]" src={`/assets/img/png/community.png`} />
                                     </div>
                                 </div>
                             </div>
@@ -111,7 +111,7 @@ const Invest = () => {
                                 <div className="max-xl:pr-5">
                                     <div className="rz-feature-image-circle  flex-center xl:w-[78%] h-[100%] rounded-[50%]">
                                         <div className="flex-center">
-                                            <img alt="fractional owner - Ryzer" className="w-[80%]" src={`/assets/img/png/rocket.png`} />
+                                            <img alt="fractional owner - Fandora" className="w-[80%]" src={`/assets/img/png/rocket.png`} />
                                         </div>
                                     </div>
                                 </div>
@@ -123,7 +123,7 @@ const Invest = () => {
                                     <div className="mt-5 xl:mt-8 flex max-xl:justify-center">
                                         <div>
                                             <div className="flex-items-center  my-5">
-                                                <div className="text-[#725AEC] hover:text-[white] transition-all hover:bg-[#725AEC] w-[30px] h-[30px] flex-center rounded-[50%] bg-[#F0F4FE]">
+                                                <div className="text-[#52C1B9] hover:text-[white] transition-all hover:bg-[#52C1B9] w-[30px] h-[30px] flex-center rounded-[50%] bg-[#F0F4FE]">
                                                     <IoMdCheckmark className="text-lg" />
                                                 </div>
                                                 <p className="mb-0 max-sm:text-sm ml-4 poppins-500 ">
@@ -131,7 +131,7 @@ const Invest = () => {
                                                 </p>
                                             </div>
                                             <div className="flex-items-center my-5">
-                                                <div className="text-[#725AEC] hover:text-[white] transition-all hover:bg-[#725AEC] w-[30px] h-[30px] flex-center rounded-[50%] bg-[#F0F4FE]">
+                                                <div className="text-[#52C1B9] hover:text-[white] transition-all hover:bg-[#52C1B9] w-[30px] h-[30px] flex-center rounded-[50%] bg-[#F0F4FE]">
                                                     <IoMdCheckmark className="text-lg" />
                                                 </div>
                                                 <p className="mb-0 max-sm:text-sm ml-4 poppins-500 ">
@@ -139,7 +139,7 @@ const Invest = () => {
                                                 </p>
                                             </div>
                                             <div className="flex-items-center my-5">
-                                                <div className="text-[#725AEC] hover:text-[white] transition-all hover:bg-[#725AEC] w-[30px] h-[30px] flex-center rounded-[50%] bg-[#F0F4FE]">
+                                                <div className="text-[#52C1B9] hover:text-[white] transition-all hover:bg-[#52C1B9] w-[30px] h-[30px] flex-center rounded-[50%] bg-[#F0F4FE]">
                                                     <IoMdCheckmark className="text-lg" />
                                                 </div>
                                                 <p className="mb-0 max-sm:text-sm ml-4 poppins-500 ">

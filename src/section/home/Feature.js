@@ -13,7 +13,7 @@ const Feature = () => {
                                 <div>
                                     <div onMouseOver={()=>setImg('Explore-min.png')}  className="flex px-10 my-4 py-2 xxl:py-5 hover:shadow-md rounded-md cursor-pointer">
                                         <div>
-                                            <FaRegCompass className="text-[#725AEC] text-[40px]" />
+                                            <FaRegCompass className="text-[#52C1B9] text-[40px]" />
                                         </div>
                                         <div className="ml-5">
                                             <h3 className="text-[#252323] poppins-600 text-base">Diversify by buying asset Tokens</h3>
@@ -22,7 +22,7 @@ const Feature = () => {
                                     </div>
                                     <div onMouseOver={()=>setImg('track-min.png')} className="flex px-10 py-2 xxl:py-5 my-4 hover:shadow-md rounded-md cursor-pointer">
                                         <div>
-                                            <FaAward className="text-[#725AEC] text-[40px]" />
+                                            <FaAward className="text-[#52C1B9] text-[40px]" />
                                         </div>
                                         <div className="ml-5">
                                             <h3 className="text-[#252323] poppins-600 text-base">Track your asset portfolio</h3>
@@ -31,7 +31,7 @@ const Feature = () => {
                                     </div>
                                     <div onMouseOver={()=>setImg('wallet-min.png')} className="flex px-10 py-2 xxl:py-5 my-4 hover:shadow-md rounded-md cursor-pointer">
                                         <div>
-                                            <FaWallet className="text-[#725AEC] text-[40px]" />
+                                            <FaWallet className="text-[#52C1B9] text-[40px]" />
                                         </div>
                                         <div className="ml-5">
                                             <h3 className="text-[#252323] poppins-600 text-base">Dedicated wallet support</h3>
@@ -40,11 +40,11 @@ const Feature = () => {
                                     </div>
                                     <div onMouseOver={()=>setImg('resell-min.png')} className="flex px-10 py-2 xxl:py-5 my-4 hover:shadow-md rounded-md cursor-pointer">
                                         <div>
-                                            <FaRegSmile className="text-[#725AEC] text-[40px]" />
+                                            <FaRegSmile className="text-[#52C1B9] text-[40px]" />
                                         </div>
                                         <div className="ml-5">
                                             <h3 className="text-[#252323] poppins-600 text-base">Re-sell your asset Tokens</h3>
-                                            <p className="text-[#828282] poppins-400 text-sm mt-2 xl:mt-4">Real estate investment typically comes with long-run investment. Ryzer provides you an opportunity to raise a request to re-sell your tokens anytime, anywhere.</p>
+                                            <p className="text-[#828282] poppins-400 text-sm mt-2 xl:mt-4">Real estate investment typically comes with long-run investment. Fandora provides you an opportunity to raise a request to re-sell your tokens anytime, anywhere.</p>
                                         </div>
                                     </div>
                                 </div>

@@ -33,7 +33,7 @@ const ExploreAsset = () => {
                             <div className="row justify-center">
                                 <div className="col-lg-6 col-9">
                                     <div className="flex-center">
-                                        <img alt="Fractional real estate investing - Ryzer" src="/assets/img/png/chat.png" />
+                                        <img alt="Fractional real estate investing - Fandora" src="/assets/img/png/chat.png" />
                                     </div>
                                 </div>
                                 <div className="col-lg-6 max-lg:mt-10 flex-items-center">
@@ -43,7 +43,7 @@ const ExploreAsset = () => {
                                         <div className="mt-8 flex max-lg:justify-center">
                                             <div>
                                                 <div className="flex-items-center  my-3">
-                                                    <div className="text-[#725AEC] hover:text-[white] transition-all hover:bg-[#725AEC] w-[30px] h-[30px] flex-center rounded-[50%] bg-[#F0F4FE]">
+                                                    <div className="text-[#52C1B9] hover:text-[white] transition-all hover:bg-[#52C1B9] w-[30px] h-[30px] flex-center rounded-[50%] bg-[#F0F4FE]">
                                                         <IoMdCheckmark className="text-lg" />
                                                     </div>
                                                     <p className="mb-0 ml-4 poppins-500 ">
@@ -51,7 +51,7 @@ const ExploreAsset = () => {
                                                     </p>
                                                 </div>
                                                 <div className="flex-items-center my-3">
-                                                    <div className="text-[#725AEC] hover:text-[white] transition-all hover:bg-[#725AEC] w-[30px] h-[30px] flex-center rounded-[50%] bg-[#F0F4FE]">
+                                                    <div className="text-[#52C1B9] hover:text-[white] transition-all hover:bg-[#52C1B9] w-[30px] h-[30px] flex-center rounded-[50%] bg-[#F0F4FE]">
                                                         <IoMdCheckmark className="text-lg" />
                                                     </div>
                                                     <p className="mb-0 ml-4 poppins-500 ">
@@ -59,7 +59,7 @@ const ExploreAsset = () => {
                                                     </p>
                                                 </div>
                                                 <div className="flex-items-center my-3">
-                                                    <div className="text-[#725AEC] hover:text-[white] transition-all hover:bg-[#725AEC] w-[30px] h-[30px] flex-center rounded-[50%] bg-[#F0F4FE]">
+                                                    <div className="text-[#52C1B9] hover:text-[white] transition-all hover:bg-[#52C1B9] w-[30px] h-[30px] flex-center rounded-[50%] bg-[#F0F4FE]">
                                                         <IoMdCheckmark className="text-lg" />
                                                     </div>
                                                     <p className="mb-0 ml-4 poppins-500 ">
@@ -67,7 +67,7 @@ const ExploreAsset = () => {
                                                     </p>
                                                 </div>
                                                 <div className="flex-items-center my-3">
-                                                    <div className="text-[#725AEC] hover:text-[white] transition-all hover:bg-[#725AEC] w-[30px] h-[30px] flex-center rounded-[50%] bg-[#F0F4FE]">
+                                                    <div className="text-[#52C1B9] hover:text-[white] transition-all hover:bg-[#52C1B9] w-[30px] h-[30px] flex-center rounded-[50%] bg-[#F0F4FE]">
                                                         <IoMdCheckmark className="text-lg" />
                                                     </div>
                                                     <p className="mb-0 ml-4 poppins-500 ">

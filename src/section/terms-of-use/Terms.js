@@ -26,13 +26,13 @@ const Terms = () => {
                                 <div className="pl-7">
                                     <ol className="list-decimal mt-8">
                                         <li className="policy-text ">
-                                            <p >The Platform (hereinafter defined) refer to an internet based app/application owned and operated by Ryzer wealth corp Private Limited, a company incorporated under the laws of India (CIN: U68100AP2023PTC111341) and having its registered office located at 9-24, Venkatagiri colony, Morampudi, Rajahmundry, Andhra Pradesh, Pincode: 533107. Ryzer wealth corp private limited is registered as a real estate broker with the Real Estate Regulatory Authority, Karnataka. The term “RYZER” on the Platform may refer to one or more entities that are part of the Ryzer wealth corp private limited.</p>
+                                            <p >The Platform (hereinafter defined) refer to an internet based app/application owned and operated by Fandora wealth corp Private Limited, a company incorporated under the laws of India (CIN: U68100AP2023PTC111341) and having its registered office located at 9-24, Venkatagiri colony, Morampudi, Rajahmundry, Andhra Pradesh, Pincode: 533107. Fandora wealth corp private limited is registered as a real estate broker with the Real Estate Regulatory Authority, Karnataka. The term “RYZER” on the Platform may refer to one or more entities that are part of the Fandora wealth corp private limited.</p>
                                         </li>
                                         <li className="policy-text mt-5">
-                                            <p>Accordingly, the terms Ryzer wealth corp private limited, website, “we”, “our” and “us” in these Terms of Use may either refer to one or more entities, on a joint or several basis (as the context may require) that form part of the Ryzer wealth corp private limited. Ryzer wealth corp private limited and its Platform “RYZER” enables its users to access real estate assets including commercial, retail, open plots, Farm lands, warehousing, hotels etc.</p>
+                                            <p>Accordingly, the terms Fandora wealth corp private limited, website, “we”, “our” and “us” in these Terms of Use may either refer to one or more entities, on a joint or several basis (as the context may require) that form part of the Fandora wealth corp private limited. Fandora wealth corp private limited and its Platform “RYZER” enables its users to access real estate assets including commercial, retail, open plots, Farm lands, warehousing, hotels etc.</p>
                                         </li>
                                         <li className="policy-text mt-5">
-                                            <p>These terms and conditions of use (“<span className="poppins-700">Terms of Use</span>”) describe the terms applicable to your use of the Ryzer wealth corp private limited website (www.ryzer.app), mobile-optimized versions of the website, digital applications, and any other media formats for the purposes of use and promotion of Ryzer wealth corp private limited (collectively referred to as the “<span className="poppins-700">Platform</span>”), and other products, software and services, which may be offered from time to time, on the Platform or offline, owned or licensed and operated by Ryzer wealth corp private limited and its affiliates, such as email, chat, bulletin board services, information related to recommendations, news groups, forums, communities, personal web pages, calendars, and/or other message (together the “<span className="poppins-700">Services</span>”).</p>
+                                            <p>These terms and conditions of use (“<span className="poppins-700">Terms of Use</span>”) describe the terms applicable to your use of the Fandora wealth corp private limited website (www.ryzer.app), mobile-optimized versions of the website, digital applications, and any other media formats for the purposes of use and promotion of Fandora wealth corp private limited (collectively referred to as the “<span className="poppins-700">Platform</span>”), and other products, software and services, which may be offered from time to time, on the Platform or offline, owned or licensed and operated by Fandora wealth corp private limited and its affiliates, such as email, chat, bulletin board services, information related to recommendations, news groups, forums, communities, personal web pages, calendars, and/or other message (together the “<span className="poppins-700">Services</span>”).</p>
                                         </li>
                                         <li className="policy-text mt-5">
                                             <p className="uppercase">NOTHING CONTAINED ON THE PLATFORMS SHOULD BE CONSTRUED AS AN AUTHORIZATION BY THE SECURITIES AND EXCHANGE BOARD OF INDIA (“<span className="poppins-700">SEBI</span>”) TO SOLICIT INVESTMENTS NOR SHOULD THE PLATFORMS BE CONSTRUED AS A SEBI AUTHORIZED CROWDFUNDING PLATFORM OR A STOCK EXCHANGE, OR THEIR EQUIVALENT. THE PLATFORMS ARE USED BY US TO PROVIDE SERVICES TO OUR REGISTERED USERS, AND WE DO NOT SEEK TO SOLICIT INVESTMENTS FROM THE PUBLIC AT LARGE.</p>
@@ -62,13 +62,13 @@ const Terms = () => {
                                     <ul className="list-disc mt-10">
                                         <li className="policy-text-bold">
                                             <p className="policy-text">
-                                                “<span className="poppins-700">Terms and Conditions</span>” means these Terms of Use, Privacy Policy, Transaction Documents (if any) or any other document which outlines or governs the relationship between the User and Ryzer wealth corp private limited regarding the use and access of Platform and Services;
+                                                “<span className="poppins-700">Terms and Conditions</span>” means these Terms of Use, Privacy Policy, Transaction Documents (if any) or any other document which outlines or governs the relationship between the User and Fandora wealth corp private limited regarding the use and access of Platform and Services;
                                             </p>
                                         </li>
                                     </ul>
                                     <ol className="list-decimal mt-8">
                                         <li className="policy-text">
-                                            <p>“<span className="poppins-700">Transaction Documents</span>” means the various documents required to be executed by a User that governs its relationship with Ryzer wealth corp private limited;</p>
+                                            <p>“<span className="poppins-700">Transaction Documents</span>” means the various documents required to be executed by a User that governs its relationship with Fandora wealth corp private limited;</p>
                                         </li>
                                         <li className="policy-text mt-5">
                                             <p>“<span className="poppins-700">User</span>” means you, and does not include your permitted assigns, successors, trustees, successors-in-interest, heirs and legal representatives and the like, unless the context requires otherwise;</p>
@@ -81,7 +81,7 @@ const Terms = () => {
                                         <li className="policy-text">
                                             <ol className="list-decimal pl-10">
                                                 <li className="policy-text"><p className="poppins-700">Access</p>
-                                                    <p className="mt-2">Subject to the compliance with Terms of Use and payment of fees (if and as applicable), Ryzer wealth corp private limited grants you a non-transferable, non-exclusive, license to use the Platform for your personal, non-commercial use.</p>
+                                                    <p className="mt-2">Subject to the compliance with Terms of Use and payment of fees (if and as applicable), Fandora wealth corp private limited grants you a non-transferable, non-exclusive, license to use the Platform for your personal, non-commercial use.</p>
                                                 </li>
                                             </ol>
                                         </li>
@@ -95,7 +95,7 @@ const Terms = () => {
                                             </ol>
                                         </li>
                                         <li className="policy-text mt-5">
-                                            <p>You acknowledge that all the Intellectual Property Rights in the Platform are owned either by Ryzer wealth corp private limited or Ryzer wealth corp private limited’s licensors, or by the content suppliers, as the case may be, but in no event by the User except as explicitly provided herein. The use, access and provision of the Platform does not transfer to you or any third party any rights, title or interest in or to such Intellectual Property Rights. Ryzer wealth corp private limited or Ryzer wealth corp private limited’s licensors, or content suppliers reserve all Intellectual Property Rights not specifically grated in these Terms of Use.</p>
+                                            <p>You acknowledge that all the Intellectual Property Rights in the Platform are owned either by Fandora wealth corp private limited or Fandora wealth corp private limited’s licensors, or by the content suppliers, as the case may be, but in no event by the User except as explicitly provided herein. The use, access and provision of the Platform does not transfer to you or any third party any rights, title or interest in or to such Intellectual Property Rights. Fandora wealth corp private limited or Fandora wealth corp private limited’s licensors, or content suppliers reserve all Intellectual Property Rights not specifically grated in these Terms of Use.</p>
                                         </li>
                                         <li className="policy-text mt-5">
                                             <p>Subject to the restrictions under Paragraph 5 (Restrictions on Use) below, you agree that all copyright and other proprietary notices on any Platforms content must be retained on all copies thereof.</p>
@@ -114,7 +114,7 @@ const Terms = () => {
                                             <p>You shall not:</p>
                                             <ol className="mt-7 pl-7 list-decimal">
                                                 <li className="policy-text">
-                                                    <p>license, sell, rent, lease, transfer, assign, distribute, host, or otherwise commercially exploit the Platform, without express written consent of Ryzer wealth corp private limited;</p>
+                                                    <p>license, sell, rent, lease, transfer, assign, distribute, host, or otherwise commercially exploit the Platform, without express written consent of Fandora wealth corp private limited;</p>
                                                 </li>
                                                 <li className="policy-text mt-3">
                                                     <p>access the Platform in order to build a similar or competitive service;</p>
@@ -125,7 +125,7 @@ const Terms = () => {
                                     <ul className="list-disc mt-7">
                                         <li className="policy-text-bold">
                                             <p className="policy-text">
-                                                copy, reproduce, distribute, republish, download, displayed, poste or transmit in any form or by any means, any part of the Platforms, for any commercial purpose or otherwise, without express written consent of Ryzer wealth corp private limited;
+                                                copy, reproduce, distribute, republish, download, displayed, poste or transmit in any form or by any means, any part of the Platforms, for any commercial purpose or otherwise, without express written consent of Fandora wealth corp private limited;
                                             </p>
                                         </li>
                                     </ul>
@@ -160,7 +160,7 @@ const Terms = () => {
                                             <p>impersonate any person or entity, or falsely state or otherwise misrepresent your affiliation with a person or entity;</p>
                                         </li>
                                         <li className="policy-text mt-5">
-                                            <p>infringe upon the Intellectual Property Rights of Ryzer wealth corp private limited, other Users, or any third party, while accessing or using the Platform;</p>
+                                            <p>infringe upon the Intellectual Property Rights of Fandora wealth corp private limited, other Users, or any third party, while accessing or using the Platform;</p>
                                         </li>
                                     </ol>
                                     <ul className="list-disc mt-7">
@@ -182,13 +182,13 @@ const Terms = () => {
                                     </ul>
                                     <ol className="list-decimal mt-7">
                                         <li className="policy-text">
-                                            <p>conduct any systematic or automated data collection activities on or in relation to the Platform without express written consent of Ryzer wealth corp private limited;</p>
+                                            <p>conduct any systematic or automated data collection activities on or in relation to the Platform without express written consent of Fandora wealth corp private limited;</p>
                                         </li>
                                     </ol>
                                     <ul className="list-disc mt-7">
                                         <li className="policy-text-bold">
                                             <p className="policy-text">
-                                                use the Platform or any part of it to transmit or send unsolicited commercial communications, or for any other purposes related to marketing, without express written consent of Ryzer wealth corp private limited;
+                                                use the Platform or any part of it to transmit or send unsolicited commercial communications, or for any other purposes related to marketing, without express written consent of Fandora wealth corp private limited;
                                             </p>
                                         </li>
                                         <li className="policy-text-bold mt-3">
@@ -222,7 +222,7 @@ const Terms = () => {
                                             <p>To be eligible to register an account with us, you must be of such age that you can enter into legally binding agreements as per Applicable Laws where You reside in.</p>
                                         </li>
                                         <li className="policy-text mt-5">
-                                            <p>By registering an account with us (“<span className="poppins-700">Registered User</span>”), you represent and warrant that you are such age that you can enter into legally binding agreements as per Applicable Laws where You reside in, that all information you submit is true, accurate and complete and you shall comply with these Terms of Use. You further represent and warrant that: (a) all required registration information you submit is truthful, accurate and complete; (b) you will maintain the accuracy of such information; and (c) You are eligible to enter into legally binding agreements under the Applicable Laws where You reside in. You acknowledge that Your use of the Platform shall be deemed to be genuine and any action taken by Ryzer wealth corp private limited or any third party based on the same shall be deemed to be valid. You represent and warrant that you are an individual of legal age or a HUF or a company or a trust or an LLP eligible to form a binding contract as per the Applicable Laws of your domicile (or if not, you’ve received your parent’s or guardian’s or governing body’s permission to use the Platform and such approving authority has agreed to these Terms of Use on your behalf).</p>
+                                            <p>By registering an account with us (“<span className="poppins-700">Registered User</span>”), you represent and warrant that you are such age that you can enter into legally binding agreements as per Applicable Laws where You reside in, that all information you submit is true, accurate and complete and you shall comply with these Terms of Use. You further represent and warrant that: (a) all required registration information you submit is truthful, accurate and complete; (b) you will maintain the accuracy of such information; and (c) You are eligible to enter into legally binding agreements under the Applicable Laws where You reside in. You acknowledge that Your use of the Platform shall be deemed to be genuine and any action taken by Fandora wealth corp private limited or any third party based on the same shall be deemed to be valid. You represent and warrant that you are an individual of legal age or a HUF or a company or a trust or an LLP eligible to form a binding contract as per the Applicable Laws of your domicile (or if not, you’ve received your parent’s or guardian’s or governing body’s permission to use the Platform and such approving authority has agreed to these Terms of Use on your behalf).</p>
                                         </li>
                                         <li className="policy-text mt-5">
                                             <p>You will be solely responsible for maintaining the confidentiality of your User Account and log-in details, and we will not be responsible for misuse of your User Account by any third party, whether authorized by you or not. You may never use another User’s account without permission of such User and us. You also prohibited from sharing your log-in details or allowing anyone access to your account or do anything that might put your User Account or other User Accounts at risk.</p>
@@ -231,7 +231,7 @@ const Terms = () => {
                                             <p>You are responsible for any activity on the Platform arising out of any failure to keep your User Account confidential and may be held liable for any losses arising out of such a failure. You agree to notify us immediately of any unauthorized use of your User Account or any other breach of security.</p>
                                         </li>
                                         <li className="policy-text mt-5">
-                                            <p>Ryzer wealth corp private limited reserves the right to refuse to offer access to or use of the Platform to any person or entity at Ryzer wealth corp private limited’s sole discretion including by changing its eligibility criteria at any time.</p>
+                                            <p>Fandora wealth corp private limited reserves the right to refuse to offer access to or use of the Platform to any person or entity at Fandora wealth corp private limited’s sole discretion including by changing its eligibility criteria at any time.</p>
                                         </li>
                                         <li className="policy-text mt-5">
                                             <p>The Platform may allow a User to create more than one profile under it, especially in case of family members, relatives and affiliates. In the event that Your profile has been created under another User’s profile, it will be deemed that you have accorded your consent to such User to create such profile. Any action initiated under Your profile shall be deemed to have been done with your consent and due authorization. You may at any time place a request to delink your profile linked to a User by writing an email to operations@ryzer.app. All such delinking requests will be processed at the earliest and a new User profile will be created for you.</p>
@@ -257,7 +257,7 @@ const Terms = () => {
                                             </ol>
                                         </li>
                                         <li className="policy-text mt-5">
-                                            <p>The Platform might contain links to third party websites, services, and advertisements for third parties. Third party websites may in turn link to the Platform. You acknowledge and agree that third party websites, advertisements and services are not under the control of Ryzer wealth corp private limited and that Ryzer wealth corp private limited is not responsible for the information, content, products, services, advertising, or other materials which may be provided therein (“<span className="poppins-700">External Content</span>”).</p>
+                                            <p>The Platform might contain links to third party websites, services, and advertisements for third parties. Third party websites may in turn link to the Platform. You acknowledge and agree that third party websites, advertisements and services are not under the control of Fandora wealth corp private limited and that Fandora wealth corp private limited is not responsible for the information, content, products, services, advertising, or other materials which may be provided therein (“<span className="poppins-700">External Content</span>”).</p>
                                         </li>
                                         <li className="policy-text mt-5">
                                             <p>
@@ -266,7 +266,7 @@ const Terms = () => {
                                         </li>
                                         <li className="policy-text mt-5">
                                             <p>
-                                                The inclusion of any link to such External Content or Third Party Materials on the Platform does not imply Ryzer wealth corp private limited’s endorsement, sponsorship, or recommendation of such External Content or Third Party Material. Ryzer wealth corp private limited specifically states that the links to External Content and Third Party Materials have been provided for convenience purpose and Ryzer wealth corp private limited does not review, approve, monitor, warrant, make any representations, or assume any liability whatsoever in connection with the use or reliance of such External Content.
+                                                The inclusion of any link to such External Content or Third Party Materials on the Platform does not imply Fandora wealth corp private limited’s endorsement, sponsorship, or recommendation of such External Content or Third Party Material. Fandora wealth corp private limited specifically states that the links to External Content and Third Party Materials have been provided for convenience purpose and Fandora wealth corp private limited does not review, approve, monitor, warrant, make any representations, or assume any liability whatsoever in connection with the use or reliance of such External Content.
                                             </p>
                                         </li>
                                         <li className="policy-text mt-5">
@@ -330,17 +330,17 @@ const Terms = () => {
                                         </li>
                                         <li className="policy-text mt-5">
                                             <p>
-                                                Ryzer wealth corp private limited does not warrant that the information, content, materials, products (including software) or other Services included on or otherwise made available to you on or through the Platform (whether by Ryzer wealth corp private limited, its affiliates, suppliers, content providers and advertisers), Ryzer wealth corp private limited’s servers or electronic communications sent by Ryzer wealth corp private limited are free of viruses or other harmful components.
+                                                Fandora wealth corp private limited does not warrant that the information, content, materials, products (including software) or other Services included on or otherwise made available to you on or through the Platform (whether by Fandora wealth corp private limited, its affiliates, suppliers, content providers and advertisers), Fandora wealth corp private limited’s servers or electronic communications sent by Fandora wealth corp private limited are free of viruses or other harmful components.
                                             </p>
                                         </li>
                                         <li className="policy-text mt-5">
                                             <p>
-                                                Ryzer wealth corp private limited shall not be liable for any damages whatsoever, including but without limitation to any direct, indirect, special, consequential, punitive or incidental damages, or damages for business losses, loss of contracts or business relationships, profits, data, database, software or other intangibles, damage to goodwill or reputation, or the cost of procurement of substitute goods and services, arising out of or related to the use, inability to use, performance or failure of the Platform and any materials posted thereon, products (including software) or other Services or otherwise made available to you on or through the Platform, irrespective of whether such damages were foreseeable or arise in contract, tort, equity, restitution, by statute, at common law or otherwise.
+                                                Fandora wealth corp private limited shall not be liable for any damages whatsoever, including but without limitation to any direct, indirect, special, consequential, punitive or incidental damages, or damages for business losses, loss of contracts or business relationships, profits, data, database, software or other intangibles, damage to goodwill or reputation, or the cost of procurement of substitute goods and services, arising out of or related to the use, inability to use, performance or failure of the Platform and any materials posted thereon, products (including software) or other Services or otherwise made available to you on or through the Platform, irrespective of whether such damages were foreseeable or arise in contract, tort, equity, restitution, by statute, at common law or otherwise.
                                             </p>
                                         </li>
                                         <li className="policy-text mt-5">
                                             <p>
-                                                Without prejudice to the generality of the foregoing paragraph, Ryzer wealth corp private limited does not warrant or represent:
+                                                Without prejudice to the generality of the foregoing paragraph, Fandora wealth corp private limited does not warrant or represent:
                                             </p>
                                             <ol className="list-decimal pl-7 mt-2">
                                                 <li className="policy-text">
@@ -424,7 +424,7 @@ const Terms = () => {
                                                 </li>
                                             </ol>
                                             <p className="mt-3">
-                                                Without prejudice to Ryzer wealth corp private limited’s other rights under these Terms of Use, if you breach these Terms of Use in any way, or if we reasonably suspect that you have breached these Terms And Conditions in any way, we may take such action as we deem appropriate to deal with the breach, including (a) temporarily suspend your access to the Platform, (b) permanently prohibit you from accessing the Platform, (c) blocking computers / devices using your IP address from accessing the Platform, (d) contacting any or all of your internet service providers and request that they block your access to the Platform, (e) commence legal action against you, whether for breach of contract or otherwise; and/or (f) suspend or delete your User Account.
+                                                Without prejudice to Fandora wealth corp private limited’s other rights under these Terms of Use, if you breach these Terms of Use in any way, or if we reasonably suspect that you have breached these Terms And Conditions in any way, we may take such action as we deem appropriate to deal with the breach, including (a) temporarily suspend your access to the Platform, (b) permanently prohibit you from accessing the Platform, (c) blocking computers / devices using your IP address from accessing the Platform, (d) contacting any or all of your internet service providers and request that they block your access to the Platform, (e) commence legal action against you, whether for breach of contract or otherwise; and/or (f) suspend or delete your User Account.
                                             </p>
                                         </li>
                                     </ol>
@@ -438,22 +438,22 @@ const Terms = () => {
                                         </li>
                                         <li className="policy-text mt-5">
                                             <p>
-                                                Either you or Ryzer wealth corp private limited may terminate the relationship between us relating to the usage of the Platform, with or without cause, at any time to be effective immediately. Please note that such termination shall only govern Your usage of the Platform and any Services offered to You by an affiliate of Ryzer wealth corp private limited or a third party shall continue to be governed by the terms agreed in such individual service agreements.
+                                                Either you or Fandora wealth corp private limited may terminate the relationship between us relating to the usage of the Platform, with or without cause, at any time to be effective immediately. Please note that such termination shall only govern Your usage of the Platform and any Services offered to You by an affiliate of Fandora wealth corp private limited or a third party shall continue to be governed by the terms agreed in such individual service agreements.
                                             </p>
                                         </li>
                                         <li className="policy-text mt-5">
                                             <p>
-                                                While Ryzer wealth corp private limited will try to provide you prior notice of any termination of your account, you agree that Ryzer wealth corp private limited may under certain circumstances, immediately terminate your User Account. Causes for termination may include, but shall not be limited to, your breach of the Terms and Conditions, requests by law enforcement or government agencies, non-payment of fees owed by you in connection with the access and use of the Platform or the Services.
+                                                While Fandora wealth corp private limited will try to provide you prior notice of any termination of your account, you agree that Fandora wealth corp private limited may under certain circumstances, immediately terminate your User Account. Causes for termination may include, but shall not be limited to, your breach of the Terms and Conditions, requests by law enforcement or government agencies, non-payment of fees owed by you in connection with the access and use of the Platform or the Services.
                                             </p>
                                         </li>
                                         <li className="policy-text mt-5">
                                             <p>
-                                                Ryzer wealth corp private limited shall not be liable to you or any third party for the termination or suspension of any Platform. If you object to any Terms and Conditions, your only recourse is to: (a) discontinue use of the Platform or the Services; and (b) notify Ryzer wealth corp private limited of such discontinuance.
+                                                Fandora wealth corp private limited shall not be liable to you or any third party for the termination or suspension of any Platform. If you object to any Terms and Conditions, your only recourse is to: (a) discontinue use of the Platform or the Services; and (b) notify Fandora wealth corp private limited of such discontinuance.
                                             </p>
                                         </li>
                                         <li className="policy-text mt-5">
                                             <p>
-                                                Upon termination of the relationship, your right to access or use the Platform and the Services shall immediately cease. You shall have no right, and Ryzer wealth corp private limited shall have no obligation thereafter, to execute any of your uncompleted tasks or forward any unread or unsent messages to you or any third party. Once your User Registration is terminated, cancelled or suspended, any data that you have stored on the Platform may not be retrieved later.
+                                                Upon termination of the relationship, your right to access or use the Platform and the Services shall immediately cease. You shall have no right, and Fandora wealth corp private limited shall have no obligation thereafter, to execute any of your uncompleted tasks or forward any unread or unsent messages to you or any third party. Once your User Registration is terminated, cancelled or suspended, any data that you have stored on the Platform may not be retrieved later.
                                             </p>
                                         </li>
                                         <li className="policy-text mt-5">
@@ -470,7 +470,7 @@ const Terms = () => {
                                         </li>
                                         <li className="policy-text mt-5">
                                             <p>
-                                                The determination of existence of any disputes, the nature of the disputes and how it should be handled relating to these terms and conditions shall be decided by Ryzer wealth corp private limited. Subject to the above, the courts of Bengaluru City will have exclusive jurisdiction over issues arising out of these terms and conditions.
+                                                The determination of existence of any disputes, the nature of the disputes and how it should be handled relating to these terms and conditions shall be decided by Fandora wealth corp private limited. Subject to the above, the courts of Bengaluru City will have exclusive jurisdiction over issues arising out of these terms and conditions.
                                             </p>
                                         </li>
                                         <li className="policy-text mt-5">
@@ -480,7 +480,7 @@ const Terms = () => {
                                                 </li>
                                             </ol>
                                             <p className="mt-3">
-                                                These Terms of Use, together with the Privacy Policy constitute the entire agreement between you and Ryzer wealth corp private limited in relation to your use of the Platform and supersede all previous agreements in respect of your use of the Platform. Please note, however, that other aspects of your use of Services may be governed by additional agreements. If any term of this Terms of Use expressly conflicts with any term of any individual service agreement executed with an affiliate of Ryzer wealth corp private limited or a third party, such conflict will be resolved at our sole discretion.
+                                                These Terms of Use, together with the Privacy Policy constitute the entire agreement between you and Fandora wealth corp private limited in relation to your use of the Platform and supersede all previous agreements in respect of your use of the Platform. Please note, however, that other aspects of your use of Services may be governed by additional agreements. If any term of this Terms of Use expressly conflicts with any term of any individual service agreement executed with an affiliate of Fandora wealth corp private limited or a third party, such conflict will be resolved at our sole discretion.
                                             </p>
                                         </li>
                                     </ol>
@@ -492,7 +492,7 @@ const Terms = () => {
                                                 </li>
                                             </ol>
                                             <p className="mt-3">
-                                                Ryzer wealth corp private limited reserves the right, at its sole discretion, to change, modify, add or remove any portion of the Terms of Use or the Privacy Policy, in whole or in part, at any time. If we make any substantial changes to these Terms of Use or the Privacy Policy, we may notify you by posting notice of the changes on the Platform. In such cases, changes will be effective upon expiry of seven (7) calendar days following our posting of notice of the changes on the Platform. However, these changes will be effective immediately for new users of our Platform. In the event a User has any reservation or objections to any change in the Terms of Use or the Privacy Policy, such User may exercise its right to terminate this relationship under Clause 15. Your continued use of the Platform and/or the Services made available on or through the Platform after any changes to the Terms of Use or the Privacy Policy are posted will be considered acceptance of such changes.
+                                                Fandora wealth corp private limited reserves the right, at its sole discretion, to change, modify, add or remove any portion of the Terms of Use or the Privacy Policy, in whole or in part, at any time. If we make any substantial changes to these Terms of Use or the Privacy Policy, we may notify you by posting notice of the changes on the Platform. In such cases, changes will be effective upon expiry of seven (7) calendar days following our posting of notice of the changes on the Platform. However, these changes will be effective immediately for new users of our Platform. In the event a User has any reservation or objections to any change in the Terms of Use or the Privacy Policy, such User may exercise its right to terminate this relationship under Clause 15. Your continued use of the Platform and/or the Services made available on or through the Platform after any changes to the Terms of Use or the Privacy Policy are posted will be considered acceptance of such changes.
                                             </p>
                                         </li>
                                     </ol>
@@ -519,7 +519,7 @@ const Terms = () => {
                                         </li>
                                         <li className="policy-text mt-5">
                                             <p>
-                                                If you need to give Ryzer wealth corp private limited a notice of anything, including infringement of your rights, or any other non-compliance with these Terms of Use, or you have any questions on these Terms of Use, please write to Mr. Hashim Qadeer Khan at legal@eallyy.app.
+                                                If you need to give Fandora wealth corp private limited a notice of anything, including infringement of your rights, or any other non-compliance with these Terms of Use, or you have any questions on these Terms of Use, please write to Mr. Hashim Qadeer Khan at legal@eallyy.app.
                                             </p>
                                         </li>
                                         <li className="policy-text mt-5">
@@ -571,7 +571,7 @@ const Terms = () => {
                                     <ul className="mt-5">
                                         <li className="policy-text">
                                             <p>
-                                                Ryzer cealth corp private limited’s failure to enforce any provision of this Terms of Use shall not be deemed to be a waiver of such provision nor of the right to enforce such provisions.
+                                                Fandora cealth corp private limited’s failure to enforce any provision of this Terms of Use shall not be deemed to be a waiver of such provision nor of the right to enforce such provisions.
                                             </p>
                                         </li>
                                     </ul>

@@ -1,7 +1,7 @@
 import seo from "@/assets/data/seo";
 import Footer from "@/components/Footer";
 import Navbar from "@/components/Navbar";
-import Blog from "@/section/home/Blog";
+// import Blog from "@/section/home/Blog";
 import Community from "@/section/home/Community";
 import ExploreAsset from "@/section/home/ExploreAsset";
 import Faqs from "@/section/home/Faqs";
@@ -26,7 +26,7 @@ export default function Home() {
         <WorkFlow home={true}/>
         <Faqs />
         {/* <Review /> */}
-        <Blog />
+      {/* <Blog /> */}
         <Join />
         <Footer />
     </>

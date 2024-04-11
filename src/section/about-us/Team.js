@@ -27,7 +27,7 @@ const Team = () => {
                                     <div className="flex mt-4 justify-center items-center">
                                         <div>
                                             <a href="https://www.linkedin.com/in/katariasatish/" target="_blank">
-                                                <div className="bg-[#725AEC] hover:bg-[#1984bc] transition-all rounded-[50%] h-[30px] w-[30px] flex justify-center items-center">
+                                                <div className="bg-[#52C1B9] hover:bg-[#1984bc] transition-all rounded-[50%] h-[30px] w-[30px] flex justify-center items-center">
                                                     <FaLinkedin className="text-[white]" />
                                                 </div>
                                             </a>
@@ -51,7 +51,7 @@ const Team = () => {
                                             <div className="flex mt-4 justify-center items-center">
                                                 <div>
                                                     <a href={item.profileUrl} target="_blank">
-                                                        <div className="bg-[#725AEC] hover:bg-[#1984bc]  transition-all rounded-[50%] h-[30px] w-[30px] flex justify-center items-center">
+                                                        <div className="bg-[#52C1B9] hover:bg-[#1984bc]  transition-all rounded-[50%] h-[30px] w-[30px] flex justify-center items-center">
                                                             <FaLinkedin className="text-[white]" />
                                                         </div>
                                                     </a>
@@ -85,7 +85,7 @@ const Team = () => {
                                             <div className="flex mt-4 justify-center items-center">
                                                 <div>
                                                     <a href={item.profileUrl} target="_blank">
-                                                        <div className="bg-[#725AEC] hover:bg-[#1984bc]  transition-all rounded-[50%] h-[30px] w-[30px] flex justify-center items-center">
+                                                        <div className="bg-[#52C1B9] hover:bg-[#1984bc]  transition-all rounded-[50%] h-[30px] w-[30px] flex justify-center items-center">
                                                             <FaLinkedin className="text-[white]" />
                                                         </div>
                                                     </a>
@@ -119,7 +119,7 @@ const Team = () => {
                                             <div className="flex mt-4 justify-center items-center">
                                                 <div>
                                                     <a href={item.profileUrl} target="_blank">
-                                                        <div className="bg-[#725AEC] hover:bg-[#1984bc]  transition-all rounded-[50%] h-[30px] w-[30px] flex justify-center items-center">
+                                                        <div className="bg-[#52C1B9] hover:bg-[#1984bc]  transition-all rounded-[50%] h-[30px] w-[30px] flex justify-center items-center">
                                                             <FaLinkedin className="text-[white]" />
                                                         </div>
                                                     </a>
@@ -153,7 +153,7 @@ const Team = () => {
                                             <div className="flex mt-4 justify-center items-center">
                                                 <div>
                                                     <a href={item.profileUrl} target="_blank">
-                                                        <div className="bg-[#725AEC] hover:bg-[#1984bc]  transition-all rounded-[50%] h-[30px] w-[30px] flex justify-center items-center">
+                                                        <div className="bg-[#52C1B9] hover:bg-[#1984bc]  transition-all rounded-[50%] h-[30px] w-[30px] flex justify-center items-center">
                                                             <FaLinkedin className="text-[white]" />
                                                         </div>
                                                     </a>
