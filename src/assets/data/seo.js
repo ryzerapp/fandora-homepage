@@ -9,7 +9,7 @@
 //             siteName: 'Best Fractional ownership real estate investment in India - Fandora - Fandora is a blockchain fractional asset investment platform',
 //             images: [
 //                 {
-//                     url: 'https://ryzerproduction.s3.ap-south-1.amazonaws.com/email/logo_text.png',
+//                     url: 'https://fandora-testing.s3.ap-south-1.amazonaws.com/logo512.png',
 //                     width: 200,
 //                     height: 90,
 //                 },
@@ -25,7 +25,7 @@
 //             siteId: '1467726470533754880',
 //             creator: '@ryzer_app',
 //             creatorId: 'ryzer_app',
-//             images: ['https://ryzerproduction.s3.ap-south-1.amazonaws.com/email/logo_text.png'],
+//             images: ['https://fandora-testing.s3.ap-south-1.amazonaws.com/logo512.png'],
 //         },
 //     },
 //     WHY_RYZER: {
@@ -88,7 +88,7 @@ const seo = {
       siteName: "Fandora - Bringing Content, Brands & Web3 Together",
       images: [
         {
-          url: "https://ryzerproduction.s3.ap-south-1.amazonaws.com/email/logo_text.png",
+          url: "https://fandora-testing.s3.ap-south-1.amazonaws.com/logo512.png",
           width: 200,
           height: 90,
         },
@@ -104,7 +104,7 @@ const seo = {
       creator: "@ryzer_app",
       creatorId: "ryzer_app",
       images: [
-        "https://ryzerproduction.s3.ap-south-1.amazonaws.com/email/logo_text.png",
+        "https://fandora-testing.s3.ap-south-1.amazonaws.com/logo512.png",
       ],
     },
   },
