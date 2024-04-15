@@ -5,8 +5,8 @@ const AboutHero = () => {
                 <div className="bs-container">
                     <div className="row">
                         <div className="col-12">
-                            <h1 className="text-center text-[23px] xs:text-[25px] sm:text-[30px] md:text-[40px] poppins-700 text-[#45485F]">We believe in the future of de-centralization</h1>
-                            <p className="text-center poppins-400 text-sm xs:text-base mt-3 xs:mt-5 tracking-[0.7px] text-[#4A627E]">We are eliminating the barriers to invest-in, trade, and leverage exclusive real estate, private equity, and other real-world assets through decentralized finance (“DeFi”).</p>
+                            <h2 className="text-center text-[23px] xs:text-[15px] sm:text-[20px] md:text-[30px] poppins-700 text-[#45485F]">We believe in the future of making Content IP production and monetisation - as a more participative and democratised process</h2>
+                            <p className="text-center poppins-400 text-sm xs:text-base mt-3 xs:mt-5 tracking-[0.7px] text-[#4A627E]">We are opening up the opportunities, excitement and returns - associated with the USD 300 Billion Content IP space globally - and connecting awesome creators with eligible investors</p>
                         </div>
                     </div>
                 </div>
@@ -21,8 +21,8 @@ const AboutHero = () => {
                         </div>
                         <div className="col-lg-6 max-lg:mt-10 col-md-10 col-11">
                             <div className="xl:pl-20 lg:pl-[1.5rem]">
-                                <h2 className="text-[18px] xs:text-[20px] leading-[26px] xs:leading-[30px] md:leading-[34px] md:text-[25px] xl:leading-[42px] xl:text-[30px] poppins-600 text-[#45485F]">We’re on a mission to make real estate investing accessible to everyone.</h2>
-                                <p className="text-[#464D65CC] mt-[1.5rem] text-[16px] md:text-[18px] sm:pr-[1rem] xl:pr-20 poppins-400">Real estate has always been one of the most sought-after asset classes for professional investors, but for the average person, real estate is intimidating and inaccessible. Fandora was built to unlock greater access to the real estate market to everyone.</p>
+                                <h2 className="text-[18px] xs:text-[20px] leading-[26px] xs:leading-[30px] md:leading-[34px] md:text-[25px] xl:leading-[42px] xl:text-[30px] poppins-600 text-[#45485F]">We are on a mission for literally everyone to be a ‘Producer and Content IP Co-Owner’</h2>
+                                <p className="text-[#464D65CC] mt-[1.5rem] text-[16px] md:text-[18px] sm:pr-[1rem] xl:pr-20 poppins-400">In an industry, which otherwise has always been closely controlled by handful of financiers - Fandora is  bringing a fresh new wave of ‘Participative Funding & Tokenisation of Content IP’ - enabling all Fandora members to co-own content with their favourite creators and benefit from the returns.</p>
                             </div>
                         </div>
                     </div>
@@ -35,11 +35,11 @@ const AboutHero = () => {
                         <div className="col-xxl-4 max-lg:order-2 max-lg:mt-10 col-xl-5 col-xs-10 col-11 col-lg-6">
                             <div>
                                 <h3 className="text-[#0F5A64] text-[17px] poppins-700">Our mission</h3>
-                                <p className="text-[#1D293F] mt-5 text-[14px] poppins-400">We’re driven by the radical idea that alternative assets can be simple and collaborative. By leveraging blockchain technology to increase operational efficiency in fractional ownership, lower the barriers of entry to investment, and unlock liquidity in previously illiquid assets.</p>
+                                <p className="text-[#1D293F] mt-5 text-[14px] poppins-400">The team at Fandora comes from collective 40+ years of experience across Content making & management as well as launching innovative financial structures through keeping ‘Crowdfunding’ at its heart - and therefore - the mission is to bring about a paradigm shift in how Content is made & marketed. We believe that our model - backed by revolutionary transparency and liquidity tenets of blockchain - would free the creators from the clutches of few financiers, as well as allow the fans to not just see or hear their content - but be active stakeholders.</p>
                             </div>
                             <div className="mt-10">
                                 <h3 className="text-[#0F5A64] text-[17px] poppins-700">Our vision</h3>
-                                <p className="text-[#1D293F] mt-5 text-[14px] poppins-400">We’re on a mission to make real estate investing affordable, accessible, safe & secure with simplicity enabled.</p>
+                                <p className="text-[#1D293F] mt-5 text-[14px] poppins-400">Enabling everyone to be Content Co-Owners!</p>
                             </div>
                         </div>
                         <div className="offset-lg-1 col-xs-10 col-11 col-lg-5">

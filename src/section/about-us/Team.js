@@ -43,11 +43,12 @@ const Team = () => {
                                                 <img alt={item.name} className="border-[3px] rounded-[50%] border-[#02010126] " src={item.profileImage} />
                                             </div>
                                             <h4 className="text-[#181b31] mt-4 mb-4 text-center text-[20px] lg:text-[25px] poppins-600">{item.name}</h4>
+                                            <p className="text-[#4e5b63] mt-3 text-center text-[16px] poppins-600">{item.designation}</p>
                                             <div className="flex justify-center items-center">
-                                                <div className="w-[20%] h-[0.5px] bg-[#627C89]">
+                                                <div className="w-[20%] h-[0.5px] mt-1 bg-[#627C89]">
                                                 </div>
                                             </div>
-                                            <p className="text-[#627C89] mt-3 text-center text-[16px] poppins-600">{item.designation}</p>
+                                            <p className="text-[#627C89] mt-3 text-center text-[16px] poppins-600">{item.discription}</p>
                                             <div className="flex mt-4 justify-center items-center">
                                                 <div>
                                                     <a href={item.profileUrl} target="_blank">
@@ -76,12 +77,12 @@ const Team = () => {
                                                 <img alt={item.name} className="border-[3px] rounded-[50%] border-[#02010126] " src={item.profileImage} />
                                             </div>
                                             <h3 className="text-[#181b31] mt-4 mb-4 text-center text-[20px] lg:text-[25px] poppins-600">{item.name}</h3>
+                                            <p className="text-[#4e5b63] mt-3 text-center text-[16px] poppins-600">{item.designation}</p>
                                             <div className="flex justify-center items-center">
-                                                <div className="w-[20%] h-[0.5px] bg-[#627C89]">
-
+                                                <div className="w-[20%] h-[0.5px] mt-1 bg-[#627C89]">
                                                 </div>
                                             </div>
-                                            <p className="text-[#627C89] mt-3 text-center text-[16px] poppins-600">{item.designation}</p>
+                                            <p className="text-[#627C89] mt-3 text-center text-[16px] poppins-600">{item.discription}</p>
                                             <div className="flex mt-4 justify-center items-center">
                                                 <div>
                                                     <a href={item.profileUrl} target="_blank">
@@ -110,12 +111,12 @@ const Team = () => {
                                                 <img alt={item.name} className="border-[3px] rounded-[50%] border-[#02010126] " src={item.profileImage} />
                                             </div>
                                             <h3 className="text-[#181b31] mt-4 mb-4 text-center text-[20px] lg:text-[25px] poppins-600">{item.name}</h3>
+                                            <p className="text-[#4e5b63] mt-3 text-center text-[16px] poppins-600">{item.designation}</p>
                                             <div className="flex justify-center items-center">
-                                                <div className="w-[20%] h-[0.5px] bg-[#627C89]">
-
+                                                <div className="w-[20%] h-[0.5px] mt-1 bg-[#627C89]">
                                                 </div>
                                             </div>
-                                            <p className="text-[#627C89] mt-3 text-center text-[16px] poppins-600">{item.designation}</p>
+                                            <p className="text-[#627C89] mt-3 text-center text-[16px] poppins-600">{item.discription}</p>
                                             <div className="flex mt-4 justify-center items-center">
                                                 <div>
                                                     <a href={item.profileUrl} target="_blank">
@@ -144,12 +145,12 @@ const Team = () => {
                                                 <img alt={item.name} className="border-[3px] rounded-[50%] border-[#02010126] " src={item.profileImage} />
                                             </div>
                                             <h3 className="text-[#181b31] mt-4 mb-4 text-center text-[20px] lg:text-[25px] poppins-600">{item.name}</h3>
+                                            <p className="text-[#4e5b63] mt-3 text-center text-[16px] poppins-600">{item.designation}</p>
                                             <div className="flex justify-center items-center">
-                                                <div className="w-[20%] h-[0.5px] bg-[#627C89]">
-
+                                                <div className="w-[20%] h-[0.5px] mt-1 bg-[#627C89]">
                                                 </div>
                                             </div>
-                                            <p className="text-[#627C89] mt-3 text-center text-[16px] poppins-600">{item.designation}</p>
+                                            <p className="text-[#627C89] mt-3 text-center text-[16px] poppins-600">{item.discription}</p>
                                             <div className="flex mt-4 justify-center items-center">
                                                 <div>
                                                     <a href={item.profileUrl} target="_blank">

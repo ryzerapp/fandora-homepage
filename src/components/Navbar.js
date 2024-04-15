@@ -78,7 +78,7 @@ const Navbar = () => {
             <div className="col-xl-2 flex lg:hidden xl:flex items-center px-0 justify-end col-lg col-4 menu-wrapper">
               <div className="max-xl:hidden">
                 <a
-                  href={"https://tbo77in098o.typeform.com/to/wn1WiWeC"}
+                  href={"https://docs.google.com/forms/d/e/1FAIpQLSdKigJdjPBMVbf_A9kJpB9X4XW9sTWiZZQkkNxEzxi9HsJe7g/viewform?usp=sf_link"}
                   target="_blank"
                 >
                   <button className="bg-[black] hover:bg-[#5740C9] transition-all  flex-items-center px-4 xxl:px-5 py-2.5 rounded-md  poppins-500 text-sm text-[white]">

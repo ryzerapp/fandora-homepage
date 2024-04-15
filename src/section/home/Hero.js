@@ -18,11 +18,11 @@ const Hero = () => {
                                         sequence={[
                                             500,
                                             "FILMS",
-                                            1000,
+                                            700,
                                             "ART",
-                                            1500,
+                                            750,
                                             "SPORTS IP",
-                                            2000,
+                                            900,
                                             "OTT SERIES"
                                         ]}
                                         speed={1}
@@ -48,7 +48,7 @@ const Hero = () => {
                                             </div>
                                         </a>
                                     </div>
-                                    <div className="sm:ml-3 max-sm:mt-3">
+                                    {/* <div className="sm:ml-3 max-sm:mt-3">
                                         <a className="flex" href="https://apps.apple.com/us/app/ryzer/id6448790250"  target="_blank">
                                             <div className="text-[white] transition-all duration-300 hover:text-[#52C1B9]  flex-items-center px-5 xs:px-8 py-2.5 xs:py-3.5 cursor-pointer rounded-md bg-[black] hover:bg-[white] hover:shadow-lg">
                                                 <div>
@@ -60,7 +60,7 @@ const Hero = () => {
                                                 </div>
                                             </div>
                                         </a>
-                                    </div>
+                                    </div> */}
                                 </div>
                                 <div className="flex items-center  mt-5">
                                     <div>

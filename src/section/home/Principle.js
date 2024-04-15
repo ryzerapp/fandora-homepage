@@ -14,7 +14,7 @@ const Principle = () => {
                                     OUR CORE PRINCIPLES
                                 </div>
                             </div>
-                            <h2 className="md:leading-[55px] xs:leading-[45px] leading-[32px]  max-xl:text-center text-[23px] xs:text-[30px] md:text-[40px] poppins-700 text-[#45485F]">Real estate investing. For Real people.</h2>
+                            <h2 className="md:leading-[55px] xs:leading-[45px] leading-[32px]  max-xl:text-center text-[23px] xs:text-[30px] md:text-[40px] poppins-700 text-[#45485F]">Don't just Consume Content. Co-Own it.</h2>
                             <p className="poppins-400 my-5 max-xl:text-center tracking-[0.7px] text-base sm:text-lg text-[#627C89]">Fandora is unlocking the potential in USD 300 Billion+ Content IP Market - and let you not just consume Content, but co-own it</p>
                             <div className="mt-8 flex max-xl:justify-center">
                                 <div>

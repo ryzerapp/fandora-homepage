@@ -14,7 +14,7 @@ export default function index() {
             <Navbar />
             <WhyBuild />
             <Invest />
-            <CommingSoon />
+            {/* <CommingSoon /> */}
             <Footer />
         </>
     )

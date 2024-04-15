@@ -17,7 +17,7 @@ const Invest = () => {
                             <div className="col-lg-6 max-lg:mt-10">
                                 <div className="max-lg:pl-0 max-xl:pl-5">
                                     <h1 className="xl:leading-[55px] max-lg:text-center sm:leading-[40px] leading-[29px]   text-[23px] sm:text-[30px] xl:text-[40px] poppins-700 text-[#45485F]">Invest not in months but in minutes</h1>
-                                    <p className="poppins-400 my-5 max-lg:text-center  tracking-[0.7px] text-base sm:text-lg text-[#627C89]">Investing in high-growth properties is never been easier. A simple app provides you to invest in property not in months but in minutes.</p>
+                                    <p className="poppins-400 my-5 max-lg:text-center  tracking-[0.7px] text-base sm:text-lg text-[#627C89]">Access well curated Content IP projects, scan through provided diligence details and financial analysis, and easily be a part of some creative magic!</p>
                                     <div className="sm:mt-8 mt-5 flex max-xl:justify-center">
                                         <div>
                                             <div className="flex-items-center  my-5">
@@ -25,7 +25,7 @@ const Invest = () => {
                                                     <IoMdCheckmark className="text-lg" />
                                                 </div>
                                                 <p className="mb-0 max-sm:text-sm ml-4 poppins-500 ">
-                                                    Quick signup & KYC verification process.
+                                                    Quick signup & KYC verification.
                                                 </p>
                                             </div>
                                             <div className="flex-items-center my-5">
@@ -33,7 +33,7 @@ const Invest = () => {
                                                     <IoMdCheckmark className="text-lg" />
                                                 </div>
                                                 <p className="mb-0 max-sm:text-sm ml-4 poppins-500 ">
-                                                    Get your own blockchain wallet instantly.
+                                                    Get your own blockchain wallet.
                                                 </p>
                                             </div>
                                             <div className="flex-items-center my-5">
@@ -58,7 +58,7 @@ const Invest = () => {
                             <div className="col-lg-5 max-lg:order-2 max-lg:mt-10">
                                 <div>
                                     <h2 className="xl:leading-[55px] max-lg:text-center sm:leading-[40px] leading-[29px]   text-[23px] sm:text-[30px] xl:text-[40px] poppins-700 text-[#45485F]">Break the barrier by investing together</h2>
-                                    <p className="poppins-400 my-5 max-lg:text-center  tracking-[0.7px] text-base xl:text-lg text-[#627C89]">Investing in a property requires huge capital, time & energy. It's time to change that. Let's break it by buying a piece of share with friends & family & reap the property rental & capital appreciation.</p>
+                                    <p className="poppins-400 my-5 max-lg:text-center  tracking-[0.7px] text-base xl:text-lg text-[#627C89]">Investing in Content IP may require typical expertise and risk bearing capability - with Fandora - we make it easier, transparent and more liquid for you - in addition to giving you the advantage of co-investing with a larger community of investors and fans</p>
                                     <div className="xl:mt-8 mt-5 flex max-xl:justify-center">
                                         <div>
                                             <div className="flex-items-center  my-5">
@@ -82,7 +82,7 @@ const Invest = () => {
                                                     <IoMdCheckmark className="text-lg" />
                                                 </div>
                                                 <p className="mb-0 max-sm:text-sm ml-4  poppins-500 ">
-                                                    Enjoy the monthly rental income & capital gains.
+                                                Get access to regular returns as per the project feasibility.
                                                 </p>
                                             </div>
                                         </div>
@@ -119,7 +119,7 @@ const Invest = () => {
                             <div className="col-lg-6 max-lg:mt-10">
                                 <div>
                                     <h2 className="xl:leading-[55px] max-lg:text-center sm:leading-[40px] leading-[29px]   text-[23px] sm:text-[30px] xl:text-[40px] poppins-700 text-[#45485F]">Ownership can beDe-centralised</h2>
-                                    <p className="poppins-400 my-5 max-lg:text-center  tracking-[0.7px] text-base xl:text-lg text-[#627C89]">Hassle-free ownership process with simplified legal agreements to help protect and align all co-owners of the property.</p>
+                                    <p className="poppins-400 my-5 max-lg:text-center  tracking-[0.7px] text-base xl:text-lg text-[#627C89]">Hassle-free ownership process with simplified legal agreements to help protect and align all co-owners of the Content IP.</p>
                                     <div className="mt-5 xl:mt-8 flex max-xl:justify-center">
                                         <div>
                                             <div className="flex-items-center  my-5">

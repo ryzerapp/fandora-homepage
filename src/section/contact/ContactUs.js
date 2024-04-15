@@ -6,6 +6,7 @@ import "react-toastify/dist/ReactToastify.css";
 import * as Yup from "yup";
 import { ToastContainer, toast } from "react-toastify";
 import { config } from "@/config";
+import { FaXTwitter } from "react-icons/fa6";
 const ContactUs = () => {
   const initialValues = {
     name: "",
@@ -128,23 +129,29 @@ const ContactUs = () => {
                         Say hi, 👋
                       </h2>
                       <p className="text-[#464D65CC] poppins-400 text-[16px] lg:text-[18px] mt-10">
-                        We would love to hear from either you are an investor,
-                        who is looking for more in-depth clarifications, or
-                        would like to tokenize your property, Say Hi to
+                      We would love to hear from you - either you are an investor, or seeking more clarifications, or wish us to evaluate your project for potential funding and fractionalisation support.
                       </p>
+                      <p className="text-[#464D65CC] poppins-400 text-[16px] lg:text-[18px] mt-5">Feel free to reach us at:</p>
                     </div>
-                    <div className="mt-10">
-                      <a href="tel:+91 9966222498">
-                        <div className="flex poppins-400 text-[#52C1B9] items-center">
-                          <span>+91 9966222498</span>
-                          <FaPhone className="text-[#52C1B9] ml-2" />
+                    <div className="mt-8">
+                      <a href="tel:+91 9967972553">
+                        <div className="flex poppins-400 text-[#725AEC] items-center">
+                          <span>+91 9967972553</span>
+                          <FaPhone className="text-[#725AEC] ml-2" />
                         </div>
                       </a>
                       <div className="mt-5">
-                        <a href="mailto:hello@ryzer.app">
-                          <div className="flex poppins-400 text-[#52C1B9] items-center">
-                            <span>hello@ryzer.app</span>
-                            <BsSend className="text-[#52C1B9] text-[18px] ml-2" />
+                        <a href="mailto:reachus@fandora.app">
+                          <div className="flex poppins-400 text-[#725AEC] items-center">
+                            <span>reachus@fandora.app</span>
+                            <BsSend className="text-[#725AEC] text-[18px] ml-2" />
+                          </div>
+                        </a>
+                      </div>
+                      <div className="mt-5">
+                        <a href="https://twitter.com/nftonfandora?lang=en">
+                          <div className="flex poppins-400 text-[#725AEC] items-center">
+                            <FaXTwitter></FaXTwitter>
                           </div>
                         </a>
                       </div>

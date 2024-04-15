@@ -55,7 +55,7 @@ const Join = () => {
                   Take a step toward your financial freedom
                 </h2>
                 <p className="text-[#15566C73] max-lg:text-center mt-5 poppins-500 text-[18px]">
-                  It's time to buy shares of an asset as low as ₹10,000
+                  {/* It's time to buy shares of an asset as low as ₹10,000 */}
                 </p>
                 <div className="xl:my-10 my-5 max-xl:mb-8 max-md:px-1 max-lg:px-20 xl:pr-20">
                   <Formik

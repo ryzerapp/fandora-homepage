@@ -8,7 +8,7 @@ const ExploreAsset = () => {
                     <div className="row">
                         <div className="col-12">
                             <h2 className="text-center text-[23px] xs:text-[25px] sm:text-[30px] md:text-[40px] poppins-700 text-[#45485F]">Explore Diversified Content IP Portfolio</h2>
-                            <p className="text-center poppins-500 mt-3 text-sm xs:text-base xs:mt-2 tracking-[0.7px] text-[#627C89]">Find properties by location and asset type across India & enjoy your consistent cashflows & ROI.</p>
+                            {/* <p className="text-center poppins-500 mt-3 text-sm xs:text-base xs:mt-2 tracking-[0.7px] text-[#627C89]">Find properties by location and asset type across India & enjoy your consistent cashflows & ROI.</p> */}
                         </div>
                     </div>
                     <div className="row pt-10 pb-20">

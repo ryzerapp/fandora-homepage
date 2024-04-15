@@ -10,7 +10,7 @@ const CommingSoon = () => {
               <div className="col-xl-5 col-md-4">
                 <div>
                   <h2 className="text-[#45485F] max-md:text-center text-[22px] md:text-[18px] lg:text-[20px] xl:text-[26px] poppins-600">
-                    Want to disrupt real estate? Work with us.
+                    Want to disrupt Content IP - become a part of our passionate team!
                   </h2>
                 </div>
               </div>

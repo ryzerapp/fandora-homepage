@@ -16,10 +16,10 @@ const menu = [
         name: 'How it works?',
         href: '/how-fandora-works'
     },
-    {
-        name: 'Be a partner',
-        href: '/partners'
-    },
+    // {
+    //     name: 'Be a partner',
+    //     href: '/partners'
+    // },
    
     
     {
