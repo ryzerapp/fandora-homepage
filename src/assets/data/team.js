@@ -33,9 +33,9 @@ const vancouver=[
     {
         name:"Arjinder Singh",
         profileImage:"/assets/img/png/A singh.png",
-        designation:"Sales Management",
+        designation: "Sales Head",
         profileUrl:"",
-        discription: "With over 15+ years of experience as a serial entrepreneur, Ajinder has a proven track record in setting up and leading successful business operations. His expertise in managing businesses makes them a valuable asset with a keen entrepreneurial acumen and leadership skills."
+        discription: "Driving business partnerships with a focus on achieving desired sales targets, Over 15+ years of experience as a serial entrepreneur."
     },
     {
         name:"Guneet Kaur",
@@ -49,7 +49,7 @@ const vancouver=[
         profileImage:"/assets/img/png/Rajan george.png",
         designation:"Administration Head",
         profileUrl:"",
-        discription: "With 12+ years of experience leading sales teams across various service-oriented businesses, Rajan excels in driving revenue growth. His expertise in sales leadership and team management is a valuable asset for for Fandora."
+        discription: "Establishing various processes and support towards filing various compliances and working with other partners. 12+ years of experience of leading sales & financial management teams across various service - lead businesses"
     },
     
 ]
