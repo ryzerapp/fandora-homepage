@@ -1,14 +1,14 @@
 const faqCards = [
     {
         title: 'Get started',
-        description: "Find out the basics of Fandora, India's biggest tokenized real estate market. How to register and start investing in Fractional Real Estate with min as low as Rs. 10000.",
+        description: "Find out the basics of Fandora, and how to participate in India’s first of its kind Content IP Fractional Investment and Tokenisation platform.",
         thumbnail: 'get-started.svg',
         bg: '#8B34F536',
         shadow: "0px 10px 50px 0px rgba(139, 52.00000000000003, 245, 0.25)"
     },
     {
         title: 'For Investors',
-        description: "Complete information about registering as an investor and start earning through listed properties on Fandora platform.",
+        description: "Understand how can you easily register as an investor on Fandora and start not just consuming, but co-owning Content IP",
         thumbnail: 'investor.svg',
         bg: '#6078FF38',
         shadow: "0px 10px 50px 0px rgba(96, 119.99999999999991, 255, 0.28)"
@@ -35,8 +35,8 @@ const faqCards = [
         shadow: "0px 10px 50px 0px rgba(241.99999999999997, 119.99999999999999, 95.99999999999999, 0.23)"
     },
     {
-        title: 'For Asset owners',
-        description: "Learn how you can gain liquidity from your property on Fandora platform.",
+        title: 'For Project Owners',
+        description: "Learn how can you raise funding for your projects.",
         thumbnail: 'answer.svg',
         bg: '#40CA7530',
         shadow: "0px 10px 50px 0px rgba(64, 202.00000000000003, 117.00000000000007, 0.25)"
@@ -49,40 +49,40 @@ const getStartedFaq = {
             name: "What is Tokenised ownership?",
             content:
                 [
-                    "Tokenised ownership in real estate describes an investment process wherein a number of investors join together to invest in a real estate asset so that all of them can benefit from a share of the income  that the asset generates and any appreciation in the value of the property."
+                    "Tokenised ownership in content IP describes an investment process wherein a number of investors join together to invest in selected content IP project, so that all of them can benefit from a share of the income that the asset generates. Essentially, it is a process where the total funds for a project are fractionalised and then each fraction could be linked to a token - bringing the additional transparency and liquidity benefits of blockchain based tokens to a traditional fractional investment model."
                 ]
         },
         {
             name: "What is “Fandora” app?",
             content: [
-                "Fandora is a web-3 tokenized property investing marketplace platform that makes it easy to start owning property and diversifying your investment portfolio with as little as Rs. 5000.",
-                "First-time investors can begin building their property investment portfolio by leveraging the power of blockchain technology which helps select and secure high-growth Open land, residential, commercial, and on-going development assets from the Fandora platform.",
-                "You can leverage industry-leading flexibility with shorter time horizons, a great mix of high-growth assets, and stress-free exit capabilities."
+                "FANDORA is one of its kind fractional investment and tokenisation platform for Content IP - wherein curated creators, across Content IP genres such as art, films, series, music, sports IP & others - can offer their projects to be ‘fractionally’ invested by eligible investors - and enjoy the returns from the said IP.",
+                // "First-time investors can begin building their property investment portfolio by leveraging the power of blockchain technology which helps select and secure high-growth Open land, residential, commercial, and on-going development assets from the Fandora platform.",
+                // "You can leverage industry-leading flexibility with shorter time horizons, a great mix of high-growth assets, and stress-free exit capabilities."
             ]
         }
     ],
     getStartedFaq2: [
         {
-            name: "Does Fandora collect the money on behalf of the investors?",
+            name: "Does Fandora collect the funds on behalf of his investors?",
             content: [
-                "Nope, all the funds received from the subscribers are directly deposited with the designated LLP holding Company's Escrow bank account through Razorpay payment gateway's route settlements.",
-                "Additionally, Limited Liability Partnership(LLP) is a legally registered entity that holds the asset's ownership(Title deed). The investors via the Fandora Platform become designated partners of that LLP. This gives you exclusive legal rights to asset ownership, and Fandora Platform has no claim on the project in later stages."
+                "Nope, all the funds received from the subscribers are directly deposited with the designated LLP holding Company's Escrow bank account through payment gateway's route settlements.",
+                "Additionally, Limited Liability Partnership(LLP) is a legally registered entity that holds the asset's IP/Revenue rights ownership. The investors via the Fandora Platform become partners of that LLP. This gives you exclusive legal rights to asset ownership, and Fandora Platform has no claim on the project in later stages."
             ]
         },
         {
             name: "How do you select investment opportunities?",
             content: [
-                "Fandora brings to you a wide variety of carefully screened investment properties that meet personalised investment goals.",
-                "With Fandora, you have a one-stop marketplace where you can diversify your portfolio from a wide range of rent-generating, capital-appreciation assets. Each investment property is carefully analysed on legal, technical and commercial dimensions. Less than 1% of our entire deal flow makes it to the offering stage."
+                "With its team having more than three decades of experience in content making and investments, Fandora leverages its wide network in the industry and reaches out to right opportunities which may offer a high growth potential for the investors.",
+                "With Fandora, you have a one-stop marketplace where you can diversify your portfolio from a wide range of Content IP investments across various genres - such as films, music, books, art, sports IP and others. Each project is carefully analysed on legal, technical and commercial dimensions."
             ]
         },
         {
             name: "Who is behind Fandora?",
             content: [
-                "The parent company is Reapp Technologies Private Limited. Fandora mobile app is a subset product.",
-                "Our vision is to make it incredibly easy for everyone to invest in different Real World asset classes — regardless of investment amount or experience.",
-                "The Fandora team is passionate about making real estate investing accessible for everyone.",
-                'Learn more about us in the "About us" section.'
+                "Fandora is launched by a team, which has collective experience of more than 3 decades in the domain of Content making, investments and entrepreneurship.",
+                "It is lead by Satish Kataria (https://linkedin.com/in/katariasatish) - who has been a serial entrepreneur as well as have lead investment functions at three venture capital funds - including India’s first ever SEBI approved media investment fund.",
+                "He is ably supported by a team of strong co-founders across domains of content, technology and strategic business advisory.",
+                'Kindly refer to ‘About Us’ section for more details.'
             ]
         }
     ],
