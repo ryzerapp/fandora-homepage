@@ -135,23 +135,23 @@ const ContactUs = () => {
                     </div>
                     <div className="mt-8">
                       <a href="tel:+91 9967972553">
-                        <div className="flex poppins-400 text-[#725AEC] items-center">
+                        <div className="flex poppins-400 text-[#52C1B9] items-center">
                           <span>+91 9967972553</span>
-                          <FaPhone className="text-[#725AEC] ml-2" />
+                          <FaPhone className="text-[#52C1B9] ml-2" />
                         </div>
                       </a>
                       <div className="mt-5">
                         <a href="mailto:reachus@fandora.app">
-                          <div className="flex poppins-400 text-[#725AEC] items-center">
+                          <div className="flex poppins-400 text-[#52C1B9] items-center">
                             <span>reachus@fandora.app</span>
-                            <BsSend className="text-[#725AEC] text-[18px] ml-2" />
+                            <BsSend className="text-[#52C1B9] text-[18px] ml-2" />
                           </div>
                         </a>
                       </div>
                       <div className="mt-5">
                         <a href="https://twitter.com/nftonfandora?lang=en">
-                          <div className="flex poppins-400 text-[#725AEC] items-center">
-                            <FaXTwitter></FaXTwitter>
+                          <div className="flex poppins-400 text-[#52C1B9] items-center">
+                          <span className="pr-2">nftonfandora</span><FaXTwitter></FaXTwitter>
                           </div>
                         </a>
                       </div>

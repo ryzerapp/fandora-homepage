@@ -33,21 +33,26 @@ const FaqContent = () => {
                                             </Accordian3>
                                         ))
                                     }
-                                    <Accordian3 header={'How the Fandora Platform Works?'}>
+                                    <Accordian3 header={'How does the FANDORA platform works?'}>
                                         <div className="poppins-400 mb-7 tracking-[0.7px] text-base sm:text-lg text-[#627C89]">
-                                            <p className="mb-7">Fandora consists of buyers (asset token investors) and sellers (people who want to sell their different assets).</p>
-                                            <p className="mb-7">Fandora is a marketplace like Airbnb, eBay, or Amazon. It does not buy and sell properties.</p>
-                                            <p className="mb-7">Fandora internal Team conducts a through due diligence before listing any property to the platform. Documents checked by us consist of Property documents, Ownership Documents, Legal, and Civil violations, Authorised Permissions, Municipal bills and Receipts. We also do a personal visit to property location to check total carpet area, built-up area, Property check-up/inspections that adhere to local RERA guidelines. Then once the  asset is listed, a retail investor like you can see every document and reports on the "Document" section in the application.</p>
+                                            <p className="mb-7">Fandora consists of buyers (Content IP Fractions & token investors) and sellers (Creators wishing to raise funds for their IP Projects)</p>
+                                            <p className="mb-7">Fandora is a marketplace like Airbnb, eBay, or Amazon - it just showcases curated projects. Any potential investment decision, to be taken by investors, is their independent decision and totally at their own discretion.</p>
+                                            <p className="mb-7">Fandora team conducts detailed due diligence on any project, before its gets listed on the platform. This could include checking the credentials of the team behind the project, rights agreements to the project, agreements with the teams (say with actors or various technical crews), budget analysis, market analysis and others - and only after a project passes our strenuous eligibility criterion, it is greenlit on the site. Furthermore, the team also adds its own internal analysis for a project - including unbiased rationale on why a particular project is listed on the platform. All these documents can be accessed from the document section of the desired project.</p>
                                             <p className="mb-7">This helps investors make an informed wise decision to invest with confidence and trust.</p>
-                                            <p className="mb-7 poppins-700">How Asset listing process works:</p>
-                                            <p className="mb-7">Step 1: A seller submits their assets to be sold on the Fandora Platform. The asset is either approved or disapproved based on facts checklist & due-diligence reports that we internally conduct.</p>
-                                            <p className="mb-7">Step 2: Once approved, the asset is put under contract by an SPV (Special Purpose Vehicle) under an LLP that holds the Asset Title deed.</p>
-                                            <p className="mb-7">The LLP is then tokenised or issued into individual asset tokens on the Polygon blockchain layer. This can be fully audited anytime, anywhere, since it's fully run on-chain in a de-centralised manner.</p>
-                                            <p className="mb-7">Step 3: Once fully funded, Fandora Platform will send few key documents such as Expression Of interest(EOI) , LLP Agreement, Property Management Agreement and other requisite documents to a subscriber who's showing interest to invest.</p>
-                                            <p className="mb-7">Upon digital signatures being confirmed from the subscribers, we then proceed to acquire an asset from the seller and then the Asset's Title deeds will be transferred to a newly formed LLP, wherein all the members who subscribed will become "Designated LLP Partners".</p>
-                                            <p className="mb-7">Step 4: Wait until the hold-in period while gaining monthly rentals and capital appreciation. When the time comes (Roughly 2-3 years Horizon), Investors in that Specific LLP can decide to re-sell to a party and gain asset appreciation, which can be shared among them based on their subscribed ownership percentage. Or an investor may exit anytime by selling his subscribed ownership in our secondary marketplace (Coming soon).</p>
+                                            <p className="mb-7 poppins-700">How Project listing process works:</p>
+                                            <p className="mb-7">Step 1: A creator/production house may approach Fandora for participative funding for their projects. The project is either approved or disapproved based on facts checklist & due-diligence reports that we internally conduct.</p>
+                                            <p className="mb-7">Step 2: Once approved, the project is put under contract by an SPV (Special Purpose Vehicle) under an LLP that underwrites the revenue or IP rights of the said project.</p>
+                                            <p className="mb-7">As an investor - you will have access to the following:</p>
+                                            <ul className="mb-7 ml-7 list-disc space-y-2">
+                                                <li>The shares of the LLP, pro-rata your investments into the project;</li>
+                                                <li>These shares represent your right to underwritten Revenue and/or IP rights of the said project, as the case may be</li>
+                                                <li>Further, these shares are also linked to independently issued tokens - which then can offer you related blockchain asset benefits - such as easy liquidity, 24X7 transferability, ability to part fragment the tokens, connecting tokens with available DeFi pools, staking the tokens and other evolving applications</li>
+                                            </ul>
+                                            <p className="mb-7">Whenever a project is listed on Fandora, you will get all the relevant details in terms of the underwritten documents, the revenue rights that you will have access to, the different agreements that we have checked as part of the diligence of the project and any other details that are required for you to make the relevant and right decision.</p>
+                                            <p className="mb-7">Step 3: Once fully funded, Fandora Platform will send few key documents such as Expression Of interest(EOI), LLP Agreement, Project Management Agreement and other requisite documents to a subscriber who's showing interest to invest.</p>
+                                            <p className="mb-7">Upon digital signatures being confirmed from the subscribers, we then proceed to acquire the project from the creator and then the project’s IP/Revenue rights (subject to pre-decided agreement between the platform and the creator, and which would be clearly mentioned on the platform), will be transferred to a newly formed LLP, wherein all the members who subscribed will become "Designated LLP Partners".</p>
+                                            <p className="mb-7">Step 4: All funds collected, are transferred to a designated escrow account for that specific project. The funds from this escrow account are then transferred to the project as per the requirements of the project on a benchmark basis. Once the project is completed, released and its revenues start coming in, these revenues will then again come back in the same escrow account and would be distributed back to the investors in the pre agreed pro rata basis. Furthermore, after a project ‘Hold-in’ period is over - the investors will be able to partially/fully liquidate the funds through selling their ‘Tokens’ on the Fandora exchange (coming soon).</p>
                                         </div>
-
                                     </Accordian3>
                                     {
                                         getStartedFaq.getStartedFaq2.map((item, index) => (
@@ -69,6 +74,28 @@ const FaqContent = () => {
 
                                         </div>
                                     </Accordian3>
+                                    <Accordian3 header={'How is Fandora different from other investment platforms?'}>
+                                        <div className="poppins-400 mb-7 tracking-[0.7px] text-base sm:text-lg text-[#627C89]">
+                                            <p className="mb-7">Here are some key differences:</p>
+                                            <ul className="mb-7 ml-7 list-disc space-y-2">
+                                                <li>It is India’s only fractional investment platform of its kind - offering fractional+token investment opportunities in carefully curated high return potential Content IP projects.</li>
+                                                <li>The investments are powered by decentralised blockchain technology - bringing benefits like easier liquidity, global recognition of your underwritten rights & their value, and other DeFi possibilities in near future - such as lending it out, fragmenting it, staking, conversion into other liquid real world assets and others</li>
+                                                <li>Not just investments - but governing rights on the projects that you participate in - including rights to make some key creative and marketing decisions along with the project manager</li>
+                                                <li>Robust legally ratified investment structure</li>
+                                            </ul>
+                                        </div>
+                                    </Accordian3>
+                                    <Accordian3 header={'What is the legal structure of our investments at Fandora?'}>
+                                        <div className="poppins-400 mb-7 tracking-[0.7px] text-base sm:text-lg text-[#627C89]">
+                                            <p className="mb-7">Following is the current structure:</p>
+                                            <ul className="mb-7 ml-7 list-disc space-y-2">
+                                                <li>All the investors become partners in a dedicated LLP for the project</li>
+                                                <li>This LLP becomes a stakeholder in the SPV - into which the project rights and IPs are held, as per discussions with the Project manager and Fandora</li>
+                                                <li>Fandora also offers tokens to the investors - which may be linked to their underlying shares in the LLP</li>
+                                                <li>All the LLP shareholders thus become entitled to all underlying rights and benefits of the Project, which are legally enforceable and executable.</li>
+                                            </ul>
+                                        </div>
+                                    </Accordian3>
                                     {
                                         getStartedFaq.getStartedFaq3.map((item, index) => (
                                             <Accordian3 header={item.name} key={index}>
@@ -81,23 +108,28 @@ const FaqContent = () => {
                                         ))
                                     }
                                     <Accordian3 header={'What services does Fandora provide?'}>
-                                        <div className="poppins-400 mb-7 pl-10 tracking-[0.7px] text-base sm:text-lg text-[#627C89]">
-
-                                            <p className="mb-7">1. <span className="poppins-700">Co-owner matching:</span> Fandora matches you with other compatible investors to co-purchase a property.</p>
-                                            <p className="mb-7">2. <span className="poppins-700"> Entity formation:  </span>Fandora sets up an LLP in the sta</p>
-                                            <p className="mb-7">3. <span className="poppins-700"> Diversification : </span> Fandora Platform creates a bank account for the LLP and supports deposits, rental distributions, expense withdrawals, and a reserve for the property.</p>
-                                            <p className="mb-7">4. <span className="poppins-700"> Banking: </span> Our governance model aligns all co-owners on handling scenarios such as ownership transfers, voting procedures, repairs, and expenses.</p>
-                                            <p className="mb-7">5. <span className="poppins-700"> Asset Deal closing: </span> A dedicated asset manager will make an offer, work through the due diligence process, and successfully close the asset deal in both buying and re-selling an asset in the later period of time.</p>
+                                        <div className="poppins-400 mb-7 tracking-[0.7px] text-base sm:text-lg text-[#627C89]">
+                                            <ul className="mb-7 ml-7 list-disc space-y-2">
+                                                <li>Access to curated Content IP investment & participation opportunities. All details related to the investment opportunity, including due diligence documents, project agreements, potential returns, hold in periods etc., will be provided on the project page.</li>
+                                                <li>Underlying Legal Structure and all related compliances - including formation of related corporate structures, regulatory compliances, agreements with Project Manager etc.</li>
+                                                <li>Record keeping of your LLP shares as well as Tokens</li>
+                                                <li>Post Investment Project follow ups and updates to all investors</li>
+                                                <li>Support in regards to execution of governance & voting rights in a particular project</li>
+                                                <li>Post Investment support and exit management - facilitating return of your capital and returns thereon</li>
+                                                <li>Support during project close-off and dilution</li>
+                                                <li>24 hour query resolution</li>
+                                            </ul>
                                         </div>
                                     </Accordian3>
                                     <Accordian3 header={'How do I make returns with Fandora?'}>
                                         <div className="poppins-400 mb-7  tracking-[0.7px] text-base sm:text-lg text-[#627C89]">
                                             <p className="mb-7">
-                                                You can make returns with Fandora in two ways:
+                                                Following are the events which would trigger  returns for the investors:
                                             </p>
-                                            <div className="pl-10 mb-7">
-                                                <p>1. The sale of your invested asset and its monthly rental income.</p>
-                                                <p>2. When an asset is sold, any appreciation is paid back to investors in addition to their investment principal. </p>
+                                            <div className="pl-10 mb-7 space-y-3">
+                                                <p>1. Release/sale of IP rights of the underlying project. This could vary from project to project. For example - a film may have more than 48 rights which could be monetised. Normally - any content retrieves almost 85-90% of its IP revenues within 12-18 months of its release/IP sale</p>
+                                                <p>2. Final sale of the IP. This could be either bought back by the project managers, after mutual agreement with the investors, or sold to various media platforms on a consolidated basis. </p>
+                                                <p>3. While the platform would target average IRR of 25-30% on the platform - the returns are subject to actual market conditions and Fandora, and its associates, makes no guarantee or promise on the same.</p>
                                             </div>
                                             <p>
 
@@ -171,19 +203,27 @@ const FaqContent = () => {
                             </div>
                             <div className="row mt-3">
                                 <Accordion transition transitionTimeout={200}>
-                                    <Accordian3 header={'When is my investment process complete?'}>
+                                    <Accordian3 header={'When is my investment complete?'}>
+                                        <p className="poppins-400 mb-7 tracking-[0.7px] text-base sm:text-lg text-[#627C89]"> Your investment is complete when:</p>
+                                        <ul className="poppins-400 mb-7 tracking-[0.7px] text-base sm:text-lg text-[#627C89] ml-7 list-disc space-y-2">
+                                            <li>Complete subscription funds are received</li>
+                                            <li>Your signatures on various post investment agreements - including shareholding agreement in the project LLP is received</li>
+                                            <li>Corresponding tokens are issued and uploaded in your wallet</li>
+                                            <li>The status would be uploaded on the app under your portfolio</li>
+                                            <li>You would be receiving the share copies in designated demat account</li>
+                                            <li>The platform would start releasing the Funds to the project in performance based benchmark basis</li>
+                                        </ul>
+                                    </Accordian3>
+
+                                    <Accordian3 header={'When & how will I receive my returns'}>
                                         <p className="poppins-400 mb-7 tracking-[0.7px] text-base sm:text-lg text-[#627C89]">
-                                            Your investment is completed as soon as the opportunity is fully funded and private placement of your investment is done in the SPV that shall acquire the asset listed. Fandora generally has a time frame of 60 days to ensure that the property receives complete funding.
+                                            As soon and whenever the project starts to monetise the underlying IP - and the revenues come in the project escrow account - your returns would be calculated pro-rata to your share of investments and deposited to your accounts. A detailed funds flow statement will be issued to you.
+                                        </p>
+                                        <p className="poppins-400 mb-7 tracking-[0.7px] text-base sm:text-lg text-[#627C89]">
+                                            These returns are treated as dividends on your LLP shares in the project entity.
                                         </p>
                                     </Accordian3>
-                                    <Accordian3 header={'When & how will I receive my returns?'}>
-                                        <p className="poppins-400 mb-7 tracking-[0.7px] text-base sm:text-lg text-[#627C89]">
-                                            The return on your investment is in the form of interest on debentures. The interest/coupon rate of the debentures you hold is a function of the rents generated and interest earned on the security deposit. This is transferred to your bank account within the 10th working day of every month subject, to the receipt of rents from that particular asset.
-                                        </p>
-                                        <p className="poppins-400 mb-7 tracking-[0.7px] text-base sm:text-lg text-[#627C89]">
-                                            <span className="poppins-700">Note:</span> Specifics of coupon rate, interest on the security deposit, amount of rent to be received from the tenant, etc., of each opportunity will vary based on the asset.
-                                        </p>
-                                    </Accordian3>
+
                                     {
                                         postInvenstment.postInvenstment1.map((item, index) => (
                                             <Accordian3 header={item.name} key={index}>
@@ -195,7 +235,7 @@ const FaqContent = () => {
                                             </Accordian3>
                                         ))
                                     }
-                                    <Accordian3 header={'How can I sell shares on the marketplace?'}>
+                                    {/* <Accordian3 header={'How can I sell shares on the marketplace?'}>
                                         <div className="poppins-400  tracking-[0.7px] text-base sm:text-lg text-[#627C89]">
                                             <p className="mb-7">  Eligible investors (investors who have held their shares for 90 days or more from the date of purchase or property closing date - whichever is later) can sell their shares as follows:</p>
                                             <p className="mb-7"> <span className="poppins-700"> Step 1: </span> Create a Sale Listing through the My Investments page by entering the Number of ‘Shares to be Sold’ and the ‘Selling Price/Share’. This will create and activate your sale listing, which will appear on the View Properties page.</p>
@@ -228,7 +268,7 @@ const FaqContent = () => {
                                                 }
                                             </Accordian3>
                                         ))
-                                    }
+                                    } */}
                                 </Accordion>
                             </div>
                         </div>
@@ -388,9 +428,9 @@ const FaqContent = () => {
                                         ))
                                     }
 
-                                    <Accordian3 header={'What is the advantage of Shareable Asset platform for asset owners?'}>
+                                    {/* <Accordian3 header={'What is the advantage of Shareable Asset platform for asset owners?'}>
                                         <div className="poppins-400 mb-7  tracking-[0.7px] text-base sm:text-lg text-[#627C89]">
-                                           
+
                                             <div className="pl-10 mb-7">
                                                 <p>1. The biggest advantage is "Selling" by time bound. Once the property is verified by our internal due-diligence, and made live in our platform, we raise fractional investments from multiple investors who's showing interest to invest in your asset.</p>
                                                 <p className="mt-4">2. No need to depend on a broker or consultant and loose a percentage cut on your property, by means you don't need to spend money on "Listing portals, Advertisements, Marketing, etc. This will drastically both time and money. </p>
@@ -399,7 +439,7 @@ const FaqContent = () => {
 
                                             </p>
                                         </div>
-                                    </Accordian3>
+                                    </Accordian3> */}
                                 </Accordion>
                             </div>
                         </div>

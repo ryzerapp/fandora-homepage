@@ -79,32 +79,31 @@ const getStartedFaq = {
         {
             name: "Who is behind Fandora?",
             content: [
-                "Fandora is launched by a team, which has collective experience of more than 3 decades in the domain of Content making, investments and entrepreneurship.",
-                "It is lead by Satish Kataria (https://linkedin.com/in/katariasatish) - who has been a serial entrepreneur as well as have lead investment functions at three venture capital funds - including India’s first ever SEBI approved media investment fund.",
-                "He is ably supported by a team of strong co-founders across domains of content, technology and strategic business advisory.",
-                'Kindly refer to ‘About Us’ section for more details.'
+                "Fandora is launched by a team, which has collective experience of more than 3 decades in the domain of Content making, investments and entrepreneurship. It is lead by Satish Kataria (https://linkedin.com/in/katariasatish) - who has been a serial entrepreneur as well as have lead investment functions at three venture capital funds - including India’s first ever SEBI approved media investment fund.He is ably supported by a team of strong co-founders across domains of content, technology and strategic business advisory.Kindly refer to ‘About Us’ section for more details."
             ]
         }
     ],
     getStartedFaq3: [
+        // {
+        //     name: "How is Fandora different from other investment platforms?",
+        //     content: [
+        //         "When you subscribe to an investment opportunity in Fandora, you are not merely subscribing to an investment but an experience. You would have access to all your investments on a highly automated and de-centralised platform, and the experience will be absolutely seamless. Each asset acquired is curated with investor requirements in mind.",
+        //         "Fandora Platform does not restrict itself only to Commercial Real Estate. Any asset class that can generate attractive returns can be listed on Fandora."
+        //     ]
+        // },
+        // {
+        //     name: "What is the legal structure of our investments?",
+        //     content: [
+        //         "We create a dedicated Limited Liability Partnership Firm (LLP) for every asset which holds the title deeds & ownership.",
+        //         "Investors via the Fandora Platform are named as designated partners.You may check the details of that LLP on the Ministry of Corporate Affairs website."
+        //     ]
+        // },
         {
-            name: "How is Fandora different from other online investing platforms?",
+            name: "What is the criteria to become an investor with Fandora?",
             content: [
-                "When you subscribe to an investment opportunity in Fandora, you are not merely subscribing to an investment but an experience. You would have access to all your investments on a highly automated and de-centralised platform, and the experience will be absolutely seamless. Each asset acquired is curated with investor requirements in mind.",
-                "Fandora Platform does not restrict itself only to Commercial Real Estate. Any asset class that can generate attractive returns can be listed on Fandora."
-            ]
-        },
-        {
-            name: "What is the legal structure of our investments?",
-            content: [
-                "We create a dedicated Limited Liability Partnership Firm (LLP) for every asset which holds the title deeds & ownership.",
-                "Investors via the Fandora Platform are named as designated partners.You may check the details of that LLP on the Ministry of Corporate Affairs website."
-            ]
-        },
-        {
-            name: "What are the criteria to become an investor with “Fandora”?",
-            content: [
-                "Any individual or corporate entity with a PAN in India and a rupee-denominated account is eligible to invest."
+                "The asset class of Fandora is a high-risk, high-reward asset class - and hence, we would only wish to reach out to you if you clearly understand the risks involved and are open to look at emerging alternative asset classes for diversifying your investment portfolio.",
+                "While India doesn’t have official definition of ‘Accredited Investor’ - we would prefer allowing access to select investors, who do have minimum net worth of INR 1 Crores or above.",
+                "We would strongly recommend you to please advise your financial advisor before committing any investments on Fandora. All the investment decisions will be at your discretion and Fandora, and its associates, would not be liable for any emerging losses. Kindly refer to Risks section for further details and feel free to contact us at reachus@fandora.app for any details or clarifications."
             ]
         }
     ]
@@ -113,109 +112,113 @@ const getStartedFaq = {
 const preInvenstment = {
     preInvenstment1: [
         {
-            name: "What types of properties can be listed on the Fandora?",
+            name: "What kind of projects are listed on Fandora?",
             content: [
-                "The Fandora platform includes high-yielding residential, commercial, redevelopment, warehouse, and hospitality properties across all stages, including pre-construction, assignments, and re-sale. Each property functions like a separate Special Purpose Vehicle. The title is owned by this Special Purpose Vehicle (like a limited liability partnership company), which owns and manages the property for investors to own units/shares.",
-                "Therefore, individual investors do not hold the title to the property as it is collectively owned. New properties are typically added to the platform every month."
+                "On Fandora, we list various content IP projects across multiple domains. These could be films, web series, music, sports IPs, books, art and anything else that has an underwriting intellectual property to it.",
+                "The projects could be at multiple stages of their production. There could be some projects which are at the ideation stage, whereas there could be some projects which have been completed and are now seeking funding for further marketing or release.",
+                "IP of these projects would be collectively owned by all the investors who decide to participate in it after investing through Fandora."
             ]
         },
         {
-            name: "How can I manage my Fandora investments?",
+            name: "How can I manage my investments through Fandora?",
             content: [
-                "Manage your investments with a tap through the Fandora mobile app in a single place, available on Apple App Store or Google Play store."
+                "Your investments can be tracked through the Fandora app. In addition to that, we will also be sending you regular updates on all the developments that the projects are undergoing."
             ]
         }
-    ],
+    ],    
     preInvenstment2: [
         {
-            name: "Can I invest in more than one property and have a portfolio?",
+            name: "Can I invest in more than one project and build a portfolio on Fandora?",
             content: [
-                "We encourage a diversified portfolio. So, yes, you can invest in more than one property across locations, asset types, and investment tenures."
+                "Yes. Subject to your risk appetite and your interests in the areas of various kinds of content IP, you can invest in multiple projects and build a healthy portfolio on Fandora."
             ]
         },
         {
-            name: "What if something goes wrong with Fandora? Is my investment safe?",
+            name: "What if something goes wrong? Are all my investments safe on Fandora?",
             content: [
-                "Your ownership structure in the assets is designed in a way that the ownership is not dependent on Fandora. You will be allotted equity shares and compulsorily convertible debentures in an SPV that shall acquire the real estate asset listed on our platform. This ensures that the compliances pertaining to your investment in the SPV are filed/made from time to time with the necessary government authorities. The title documents executed and registered in favour of the said SPV shall be stored as a public document in government databases and records. Your investment remains absolutely secure on the blockchain security layer regardless of what happens to Fandora."
+                "Your ownership structure in the assets is designed in a way that the ownership is not dependent on Fandora. You will be partners in the LLP that owns the proposed revenue/IP shares. This ensures that the compliances pertaining to your investment in the SPV are filed/made from time to time with the necessary government authorities. The IP/Revenue rights ownership documents executed and registered in favour of the said SPV shall be stored as a public document in government databases and records. Your investment remains absolutely secure on the blockchain security layer regardless of what happens to Fandora.",
+                "Furthermore, all the listed projects on Fandora have gone through a detailed level of due diligence and all the relevant documents are there on the app for you to inspect and check.",
+                "However, having said that, Content IP investments are high risk, high return investments. We would, therefore, strongly recommend you to please take advice from your financial manager and exercise your discretion before making any investment or commitment on Fandora."
             ]
         },
         {
-            name: "Is Tokenized ownership risky?",
+            name: "Is Tokenised Ownership risky?",
             content: [
-                "All investment contains risk to a certain extent. Real Estate Investment via Fandora carries inherent risks, including but not limited to liquidity and potential loss of capital. Please consult your financial advisor before making any decision. Fandora is merely a facilitator between the buyer and seller and will not be liable for any loss arising from investments."
+                "As emphasised previously, Content IP investments are a high risk alternative asset class - and some investments may even lead to complete erosion of the invested capital. Kindly exercise your discretion before any commitments."
             ]
         },
         {
-            name: "How does Fandora help me diversify my portfolio?",
+            name: "How does Fandora help me to diversify My Portfolio?",
             content: [
-                "With Fandora, you can invest in various assets with rent-generating, capital-appreciated open lands or flip-flopping property generating income. Investing small in multiple assets reduces your risks and increases your diversity to make higher average returns. Besides, with no hands-on intervention requirement, expanding your portfolio across geographies is as easy as a few clicks."
+                "With Fandora, you are investing in Content IP which itself is a very exciting and high return oriented investment asset class. In addition to that, even within Fandora, you can invest across multiple genres of content IP, which could be books, films, web series, etc. Hence, Fandora offers an interesting platform for you to diversify and amplify your financial investments."
             ]
         },
         {
             name: "What kind of returns can I look forward to?",
             content: [
-                "Typically annualized returns could vary from 14-20% based on the opportunity. While these returns are not guaranteed, they are more or less predictable. Every option comes with its unique risk-return profile, and investors are advised to evaluate each based on their investment goals and risk appetite."
+                "Our benchmark rate of returns on a project is around 20-25%. However, each project comes with its own risk profile and you will be able to find more details on the same on every project listing."
             ]
-        },
+        },        
         {
-            name: "What are the fees involved in investing with Fandora?",
+            name: "What are the fees involved?",
             content: [
-                "Fandora charges an annual management fee between 1 - 2.5% of the amount raised through the platform for rental-generating properties. In some instances, Fandora may charge a deal sourcing fee. The property’s Offering Memorandum lists the exact fees per property."
+                "Fandora charges the following fees:",
+                "1. Fund listing fees - which would vary from project to project and covers the incidental costs such as legal and due diligence fees;",
+                "2. Fund raising fees of 3-5% - which are charged from the project manager post the fund raising",
+                "3. Carried Interest of 20% - this is the share of profits, after the principal amount and certain pre-defined hurdle rate of 10% on returns, have been returned back to the investors.",
+                "The above fees are indicative in nature and may vary from time to time"
             ]
         },
         {
             name: "How long is the investment horizon?",
             content: [
-                "The investment horizon is the expected time period in which the investor can expect to exit or when the investment property is sold off. It is wise to consider the investment horizon from 3 to 5 years. Fandora platform allows investors to exit their investment even before the property is sold through an open trade mechanism. Anyone can buy the investor’s holding in property through our secondary marketplace (Coming soon)."
+                "The investment horizon is the expected time period in which the investor can expect to exit. It is wise to consider the investment horizon from 3 to 5 years. However, the returns can start coming in from as soon as 6 months post the project is completed. Fandora platform allows investors to exit their investment even before the asset is sold through an open trade mechanism. Anyone can buy the investor’s holding in asset through our secondary marketplace (Coming soon)."
             ]
         },
         {
-            name: "How is legal diligence done for the property?",
+            name: "What kinds of diligence checks are done on the projects?",
             content: [
-                "Every deal goes through 100+ checkpoints. After our internal team and Asset Managers have perused through the information, we deploy reputed legal firms, wherever required to attest for the legal sanctity. Besides the legal diligence, we also get International Property Consultants and Technical Consultants to conduct and deliver Property Valuation and Technical Feasibility reports. All such reports are made available to investors through the Fandora online portal."
+                "Some of the key diligence checks that are undertaken before a project is greenlit includes:",
+                "1. Credentials of project manager - including his past projects, his network, ability to deliver on the project",
+                "2. IP Ownership - which could include checking whether the script is officially registered in his name, ownership agreements",
+                "3. Team Agreements - which could be with participating actors, technical crew, potential distributors, IP buyers etc",
+                "4. Cost management during making of the project",
+                "5. Financial analysis and project viability",
+                "6. Potential returns calculation and sensitivity analysis",
+                "7. Transfer of IP to the Project LLP for Fandora",
+                "8. Other checks, as may be required"
             ]
         },
         {
-            name: "What is a primary offering?",
+            name: "What is primary offering?",
             content: [
-                "In a primary investment offering, an investment property is freshly offered for subscription through Fandora. This involves creation of a Special Purpose Vehicle (SPV) in which investors purchase fractional ownership."
+                "In a primary investment offering, a Content IP project is freshly offered for subscription through Fandora. This involves creation of a Special Purpose Vehicle (SPV) in which investors purchase fractional ownership."
             ]
         },
         {
-            name: "What is a secondary offering?",
+            name: "What is secondary offering?",
             content: [
                 "In a secondary investment offering, investors are purchasing fractional ownership from existing investors of the asset who intend to make an exit. Fandora plays the role of a facilitator in a secondary offering through secondary marketplace (Coming soon)."
             ]
         },
         {
-            name: "What is Expression of Interest Token amount?",
+            name: "What is Expression of Interest Token Amount?",
             content: [
-                "An Expression of Interest (EOI) token amount is the initial transaction document which outlines the terms and conditions of the investment. Investors confirm their interest in the primary offering by paying the EOI, or token commitment.",
-                "Please refer the Return & Refund Policy to understand the mechanism governing the EOI deposit."
+                "An Expression of Interest (EOI) token amount, through which investors confirm their interest in the primary offering - which could be up to 20% of the proposed investment portion.",
+                "Please refer to the Return & Refund Policy to understand the mechanism governing the EOI deposit."
             ]
         },
         {
-            name: "What is full subscription amount?",
+            name: "When is a project deemed to be Fully Subscribed?",
             content: [
-                "When the requisite number of investors, who together will purchase the property, and deposit the token amount (or EOI), is aggregated, the subscription process is supposed to be completed."
+                "A project is deemed to be fully subscribed when all the investors participating in it have paid their Expression of Interest token amounts.",
+                "Post the subscription is closed, Fandora would be sending the drawdown requests for remaining committed amounts and these would have to be paid within 7 working days. If an investor fails to pay the remaining amount - the EOI Token amount would be blocked and the opportunity to invest would be passed onto a waiting list of the investors."
             ]
         },
         {
-            name: "What happens if the offering is not fully subscribed?",
+            name: "What if a project is not fully subscribed?",
             content: [
-                "If an offer is not fully subscribed within a period of 90 days, the token amount is refunded to the investors without any deductions."
-            ]
-        },
-        {
-            name: "Do I have to be physically present for property registration?",
-            content: [
-                "We offer a completely hassle-free investment and management experience. The entire process is completely paperless. You can invest from anywhere, and it does not require any physical presence. Property visits can be arranged at the request of interested investors. support@Fandora.app"
-            ]
-        },
-        {
-            name: "Can I see the property before investing?",
-            content: [
-                "Property visits can be arranged. Kindly get in touch with your Relationship Manager or write to support@Fandora.app"
+                "If a project fails to meet up to the 75% funding criterion, the EOI Token Amounts will be returned to all the investors without any deductions."
             ]
         },
         {
@@ -225,158 +228,131 @@ const preInvenstment = {
             ]
         },
         {
-            name: "What documents will I possess with respect to asset ownership?",
+            name: "What documents will I possess as a proof of my asset ownership?",
             content: [
                 "An investor gets ownership in proportion to the total investment made in the SPV, which acquires and holds the asset in the form of shares in a Limited Liability Partnership (LLP)."
             ]
         },
         {
-            name: "How long will a property remain in Pre-order?",
-            content: [
-                "Pre-orders typically remain open for 5 to 10 days or until the investment interest exceeds 150% of the funding target. If you are keen on the investment, you should commit to investing as soon as possible rather than waiting until later.",
-                "Please subscribe to our newsletter to keep up-to-date with properties that may be coming up for pre-orders."
-            ]
-        },
-        {
-            name: "What happens when pre-orders are oversubscribed?",
+            name: "What happens in case a project is over-subscribed?",
             content: [
                 "When a pre-order is oversubscribed, Fandora - in general, will allocate investments based on a first-come, first-served basis. From time to time, we may offer investment on a scale-back basis, in which case your commitment may be reduced on a pro-rata basis. Please check the pre-order’s oversubscription policy for more details."
             ]
-        },
+        }        
     ]
 }
 
 const postInvenstment = {
     postInvenstment1: [
         {
-            name: "How will I be updated on the progress of my investments?",
+            name: "Where do I get updated on my project’s performance and returns?",
             content: [
-                "You can view the performance of your investment through our online dashboard. Please note that the property's Net Asset Value (NAV) will be updated half-yearly."
+                "Here is how Fandora keeps you posted on your project’s progress:",
+                <ul className="mb-7 ml-7 list-disc space-y-2">
+                    <li>Updates on your portfolio page in the app;</li>
+                    <li>Regular emails and newsletters to you;</li>
+                    <li>Ability to call us or email for any queries</li>
+                </ul>
             ]
         },
         {
-            name: "Do we have an option to choose to select property management ?",
+            name: "Can you explain how Fandora brings liquidity? When & where all will I be able to list my shares/tokens?",
             content: [
-                "Yes, as a co-owner, with voting rights, you have an absolute right to choose property management to assign within the co-owners or request to get the property management service from the Fandora platform."
+                "Currently, all the existing projects would have a minimum holding period - within which investors will not be able to exit.",
+                "Post the expiry of the same - Fandora would be launching its secondary marketplace - where you would be able to list your tokens. We would also be working with other partnerships and exchanges, wherein these tokens could be listed and staked, as per regulatory permissions."
             ]
-        },
-        {
-            name: "Who can sell shares on the marketplace?",
-            content: [
-                "Investors who have held their shares for 90 days or more from the date of purchase or asset closing date (whichever is later) can list their shares for sale on the marketplace."
-            ]
-        }
+        }        
     ],
-    postInvenstment2: [
-        ,
-        {
-            name: "Will all shares in my sale listing be sold together?",
-            content: [
-                "It may or may not be; it depends on the purchase transaction initiated by the buyer. It is possible that a buyer may buy partial shares from a listing. So if you have listed, say, 100 shares, it's possible that only 40 shares are sold. The balance of 60 will automatically be listed back on the marketplace for another round of purchases. Your dashboard (My Investments) page will be updated to reflect the actual number of shares sold."
-            ]
-        },
-        {
-            name: "Who determines the Selling Price/Share for listing shares on the marketplace?",
-            content: [
-                "You, as a seller, will decide your selling price/share based on your expected returns, holding period, and market growth."
-            ]
-        },
-        {
-            name: "Does Fandora charge any fee to sell shares on the marketplace?",
-            content: [
-                "We have waived our transaction fees for all sale transactions executed on the marketplace. When a transaction fee is added in the future, it will be listed on our website."
-            ]
-        },
-        {
-            name: "What happens if there are more than one sellers selling shares at the same Selling price/Share in the same property?",
-            content: [
-                "If more than one seller sells shares at the same price point in the same property, then the shares listed first will be given preference."
-            ]
-        },
-        {
-            name: "Do I need to sign any document to finalize my share sale to another person?",
-            content: [
-                "Yes, you must sign a Share Transfer form (sent via email) to complete the share transfer to the buyer."
-            ]
-        }
-    ]
+    // postInvenstment2: [
+    //     ,
+    //     {
+    //         name: "Will all shares in my sale listing be sold together?",
+    //         content: [
+    //             "It may or may not be; it depends on the purchase transaction initiated by the buyer. It is possible that a buyer may buy partial shares from a listing. So if you have listed, say, 100 shares, it's possible that only 40 shares are sold. The balance of 60 will automatically be listed back on the marketplace for another round of purchases. Your dashboard (My Investments) page will be updated to reflect the actual number of shares sold."
+    //         ]
+    //     },
+    //     {
+    //         name: "Who determines the Selling Price/Share for listing shares on the marketplace?",
+    //         content: [
+    //             "You, as a seller, will decide your selling price/share based on your expected returns, holding period, and market growth."
+    //         ]
+    //     },
+    //     {
+    //         name: "Does Fandora charge any fee to sell shares on the marketplace?",
+    //         content: [
+    //             "We have waived our transaction fees for all sale transactions executed on the marketplace. When a transaction fee is added in the future, it will be listed on our website."
+    //         ]
+    //     },
+    //     {
+    //         name: "What happens if there are more than one sellers selling shares at the same Selling price/Share in the same property?",
+    //         content: [
+    //             "If more than one seller sells shares at the same price point in the same property, then the shares listed first will be given preference."
+    //         ]
+    //     },
+    //     {
+    //         name: "Do I need to sign any document to finalize my share sale to another person?",
+    //         content: [
+    //             "Yes, you must sign a Share Transfer form (sent via email) to complete the share transfer to the buyer."
+    //         ]
+    //     }
+    // ]
 }
 
 const legalFaq = [
     {
-        name: "How are the investments structured?",
+        name: "How are investments structured?",
         content: [
-            "For each asset listed on the Fandora Platform, a Special Purpose Vehicle (SPV) is created in which funds are raised to purchase, own and manage the property. Your investment shall be towards subscription of designated limited liable ownership of an LLP that holds the property and represents your fractional investment.",
+            "Currently, the broad model that we are following, as suggested by our legal counsels, is:",
+            <ul className="mb-7 ml-7 list-disc space-y-2">
+                <li>A LLP entity, wherein all investors would be partners;</li>
+                <li>A SPV entity - which would have the above entity, the project and Fandora as key members;</li>
+                <li>Parallel issuance of tokens of nominal value - with each token representatively linked to a LLP share and registered on blockchain ledger.</li>
+            </ul>,
             "Fandora will provide asset management services to the LLP and undertake accounting, secretarial, reporting, leasing, maintenance and other operational aspects under the asset management services contract with the SPV."
         ]
     },
     {
-        name: "What is an SPV?",
+        name: "Do I need to engage my lawyers?",
         content: [
-            "A Special Purpose Vehicle is an entity incorporated/created under the law, being a Partnership firm, LLP etc., for a specific lawful purpose.",
-            "Any investment opportunity listed on the Fandora platform will be owned by an SPV being a limited liability parternship (LLP) set up for this specific purpose.",
-            "Content"
+            "While Fandora takes care of all project diligence and compliance requirements - we are open if you’d like to consult with your legal and/or financial consultants before committing."
         ]
     },
     {
-        name: "Should I engage with an attorney or lawyer?",
-        content: [
-            "Fandora undertakes the legal due diligence of the property before it is purchased by the LLP.",
-            'However, you are welcome to seek tax and legal advice from your advisors to understand if the opportunity listed is suited for you. You should you engage any legal/tax advisor, we will be happy to answer any questions that they may have. Reach out "hello@ryzer.app" for any further clarifications.'
-        ]
-    },
-    {
-        name: "What kind of documentation will I need to sign?",
+        name: "What documents do I need to sign?",
         content: [
             "To begin with, you will be required to sign an Expression of Interest to confirm your commitment and remit 5 to 10% of your investment amount through payment gateway. Later Drawdown Notice will be sent to you once the opportunity has 100% commitment from all interested investors, post which you may remit the remaining funds towards your investment. This is followed by the LLP Subscription Agreement (SSA) with the LLP. The LLP also executes the Asset Management Agreement with Fandora for which you will be executing a consent letter.",
             "At the time of resale/liquidation of your holding in the LLP, you will be required to execute securities transfer documentation which include a request letter for transfer of securities, a deed of adherence to the SSA, and securities transfer forms.",
-            "All these documents shall be executed through e-signing process complete with an audit trail and no physical copies will have to be signed. This makes your investment process completely digital, fast, transparent, and very convenient."
+            "All these documents shall be executed through e-signing process complete with an audit trail and no physical copies will have to be signed. This makes your investment process completely digital, fast, transparent, and very convenient.",
+            "The above documents may change subject to changing regulatory requirements and we would keep you updated on the processes to be followed."
         ]
     },
     {
-        name: "How does Fandora ensure that property titles are in the clear?",
+        name: "Who legally has the ownership of these projects?",
         content: [
-            "Fandora has an experienced team that performs thorough technical and legal due diligence before listing any property on our platform. We engage reputed Tier-I law firms to conduct due diligence on the property title."
+            "When you purchase tokens in a Fandora platform, you are directly buying a membership interest in the individual LLP that owns that project.",
+            "For example, if you purchase 1% of the tokens in a film, you would then be entitled to 1% of the economic interests of the asset over time, which may include income from theatrical release or sale of music rights."
         ]
-    },
-    {
-        name: "Are investors allowed to see the lease related agreements?",
-        content: [
-            "Yes. The investors can view all the asset-related documents including the Lease/Rental/Tenancy Agreement/ Deed or Leave & License Agreement uploaded on the investor’s respective dashboards."
-        ]
-    },
-    {
-        name: "Who legally has ownership of these properties?",
-        content: [
-            "When you purchase tokens in a Fandora platform property offering, you are directly buying a membership interest in the individual LLP that owns that property asset.",
-            "For example, if you purchase 1% of the tokens in a single home offering, you would then be entitled to 1% of the economic interests of the asset over time, which may include income from rent or property value appreciation."
-        ]
-    },
-    {
-        name: "How do we ensure each LLP owns the deed on its property?",
-        content: [
-            "All ownership documentation is publicly available online by going to the property asset link on polygon blockchain.",
-            "You can also find these documents in the Assets Overview section of your Fandora App dashboard."
-        ]
-    }
+    }    
 ]
 
 const securityFaq = [
     {
-        name: "Why does real estate need security tokenisation?",
+        name: "Why does Content IP need fractional ownership and tokenisation?",
         content: [
-            "We at the Fandora platform believe that all real estate benefits from tokenization for the following reasons:",
-            "1. Creates the opportunity for a marketplace to buy, sell, or trade tokens of real estate.",
-            "2. Reduces/Eliminates intermediaries.",
-            "3. Increases liquidity of traditionally illiquid assets.",
-            "4. Increases access to fractional ownership.",
-            "5. Decentralization creates trust and security.",
-            "6. Allows real estate transactions to truly become peer-to-peer.",
-            "7. Allows investors to diversify their risk."
+            "We at the Fandora platform believe that Content IP can benefit from tokenization for the following reasons:",
+            "1. Creates the opportunity for a marketplace to buy, sell, or trade fractions of Content IP Rights and revenues;",
+            "2. Frees the creator from need to short-sell his IP to limited buyers/funders - and have direct control over IP distribution and monetisation;",
+            "3. Opens up USD 300 Billion Opportunity for eligible investors;",
+            "4. Reduces/Eliminates intermediaries;",
+            "5. Increases liquidity of traditionally illiquid assets;",
+            "6. Increases access to fractional ownership;",
+            "7. Decentralization creates trust and security;",
+            "8. Allows Content IP transactions to truly become peer-to-peer;",
+            "9. Allows investors to diversify their risk."
         ]
     },
     {
-        name: "How do you keep my personal information secure?",
+        name: "How do I keep my personal information secure?",
         content: [
             "The security of our platform and privacy of all your data is our utmost priority. Fandora's platform is built keeping the best-in-class security and privacy features in mind using on-chain polygon blockchain layer.",
             "All your data is hosted on secure cloud networks and all sensitive client data is encrypted and stored with 256 bit SHA encryption.",
@@ -384,98 +360,67 @@ const securityFaq = [
         ]
     },
     {
-        name: "What happens if there are major interest rate changes or market crashes?",
-        content: [
-            "Once you invest in a Fandora property, unlike REITs, our real estate investment vehicles are private investments not tied to the stock market. This means that, for example, residential properties have no correlation to activity on the market (making them a great way to diversify your investment portfolio across different asset types)."
-        ]
-    },
-    {
-        name: "Why do I need to fill in personal information, and is it encrypted?",
-        content: [
-            "We are required by law and/or industry regulation to collect your name, address, date of birth to create your account.",
-            "All personal data is secured with SSL on our website and stored in encrypted, non-public storage on AWS."
-        ]
-    },
-    {
-        name: "What is a blockchain?",
+        name: "What is blockchain?",
         content: [
             "A blockchain is a distributed ledger that records transactions in an immutable way. Because transaction history is constantly and simultaneously verified by users all over the globe - the risk for fraud is greatly reduced.",
-            "Almost all cryptocurrencies transact on a blockchain and there are many use cases beyond cryptocurrency, including real estate transactions."
+            "It is estimated that by year 2030 - blockchain powered transactions of ‘Real World Assets’ would cross USD 16 Trillion in volume - and that shows the promise and the impact that blockchain is having on various alternative assets such as real estate, Content IP etc."
         ]
     },
     {
-        name: "What is a token?",
+        name: "What is a Token?",
         content: [
-            "Tokens are digital assets created on a blockchain. Each blockchain has a native coin, for instance, Bitcoin for the Bitcoin blockchain and Ether for the Ethereum blockchain. Assets built on existing blockchains are referred to as tokens. In Fandora's use-case, the tokens will represent physical real estate assets and this ownership will be recorded on top of the Ethereum blockchain. All transactions of these tokens will also be recorded in this immutable way."
+            "Tokens are digital assets created on a blockchain. Each blockchain has a native coin, for instance, Bitcoin for the Bitcoin blockchain and Ether for the Ethereum blockchain. Assets built on existing blockchains are referred to as tokens. In Fandora's use-case, the tokens will represent Content IP projects and this ownership will be recorded on top of the Ethereum blockchain. All transactions of these tokens will also be recorded in this immutable way."
         ]
     },
     {
-        name: "Why use a blockchain platform over a centralized solution?",
+        name: "Why use blockchain platform instead of centralised platform?",
         content: [
             "In short: better provenance, security, and accessibility. Ownership is secured on the blockchain, an immutable ledger that records all transactions. It makes our platform accessible to a wider audience and able to integrate with other platforms in DeFi. As titles and government services digitize, Fandora will be ready to integrate with them.",
             "In future: blockchain will provide the ability to collateralize your asset much more smoothly in various DeFi platforms, giving a hard asset to borrow against instead of the current more volatile standard of borrowing with cryptocurrency as collateral."
         ]
     },
     {
-        name: "Are the tokens considered securities?",
+        name: "Are tokens considered as securities?",
         content: [
-            "Yes, tokenized real estate is considered as a security. We at Fandora are determined to be fully compliant with all that designation entails from companies act and other applicable laws."
+            "In our case, the tokens are being independently issued and only carry a representative link to the LLP shares that investors own. Hence, they would NOT classify as securities - and the core security you as investors would be entitled to, would be the LLP shares that you would be obtaining."
         ]
     },
     {
         name: "How many tokens will be issued?",
         content: [
-            "Each property has a different number of tokens issued, determined by Fandora and the property’s Sponsor/seller. Each project will also have a different token mining method that will determine the terms of the investment opportunity."
+            "Each asset has a different number of tokens issued, determined by Fandora and the asset’s Sponsor/seller. Each project will also have a different token mining method that will determine the terms of the investment opportunity."
         ]
     },
     {
-        name: "What standards/blockchain will the contract and tokens use?",
+        name: "What standards/protocol are your smart contracts using?",
         content: [
             "An ERC-20 standard contract on Ethereum. It is upgradable and we will continue to add audited custom features to better serve our users."
         ]
     },
     {
-        name: "What does holding the token entitle the owner to?",
+        name: "What does owning token entitle me to?",
         content: [
-            "Token holders can receive distributions if the particular property has positive cashflow and the tax benefits involved in real estate investing. The owner of the token also benefits from any appreciation in the real estate asset.",
-            "Said in traditional terms, ownership of this token is comparable to being a Limited Partner in an designated LLP."
+            "Here’s what holding Fandora Project tokens entitles the holders to:",
+            <ul className="mb-7 ml-7 list-disc space-y-2">
+                <li>Voting rights and governance rights on the project (these would be listed under specific project details);</li>
+                <li>Special perks - such as token gated access to film’s stars;</li>
+                <li>Right to underlying Revenue/IP share (as accorded under the LLP Shares in the project entity and linked to the token).</li>
+            </ul>
         ]
     },
     {
-        name: "Can I use crypto to purchase tokens?",
+        name: "Can I use crypto to purchase these tokens?",
         content: [
-            "We currently accept INR for all purchases via the Razorpay payment gateway."
+            "Currently - the platform is offering fractional investments in the Content IP domain, and ‘tokens’ are just a representation of the same in order to record the share transaction on blockchain ledger. Hence, we cannot accept any crypto payments towards these fractional components and can only accept Indian fiat currency."
         ]
     },
     {
-        name: "Will I lose my investment if Fandora platform goes out of business?",
+        name: "Will I lose my investments if Fandora goes out of business?",
         content: [
-            "No. If Fandora went out of business, each property LLP would remain as a separate legal entity for property holding, tax, accounting, liability, and member ownership purposes. Regardless of what happens to Reapp Technologies Private Limited., the assets and the Fandora property tokens of an LLP would remain independent and intact.",
-            "The Fandora property tokens would still represent and evidence ownership of the property contained in the LLP and, as such, could be transferred in the market, as needed, so long as applicable securities transfer rules are complied with."
+            "No. If Fandora went out of business, each project LLP would remain as a separate legal entity for the same - holding, tax, accounting, liability, and member ownership purposes. Regardless of what happens to Fandora., the assets and the Fandora asset fractional shares of an LLP would remain independent and intact.",
+            "The Fandora fractional shares would still represent and evidence ownership of the asset contained in the LLP and, as such, could be transferred in the market, as needed, so long as applicable securities transfer rules are complied with."
         ]
-    },
-    {
-        name: "Does Fandora have a Clawback feature?",
-        content: [
-            "Not at this moment; we do not have a clawback feature to claw back your tokens from your Metamask wallet. Rather, we request to send back tokens to the designated LLP's Metamask address when you've sold them to someone."
-        ]
-    },
-    {
-        name: "Why is my ID verification taking so long?",
-        content: [
-            "We use a 3rd party provider called Hyperverge to perform Identity Verification.",
-            "For international investors, if you have a passport, please use it for your KYC process instead of a Driver’s License or local ID. This is because not all IDs share the same format. Some country’s Driver’s Licenses don’t have expiration dates, which will confuse the automated software.",
-            "Whereas most Passport formats are standardized even if they're from different countries. In order to comply with India's regulators , we have to reject all IDs that are not clear or in good quality where information cannot easily be verified by a human.",
-            "If your account creation was rejected multiple times please try to take higher quality photos or use your Passport instead.",
-            "If you still cannot pass ID Verification, please reach out to hello@ryzer.app and we will look into it right away."
-        ]
-    },
-    {
-        name: "What pre-listing checks are done before a primary offering goes live?",
-        content: [
-            "Every investment opportunity goes through several checks, both internal and external. Internally, the opportunity is validated by Asset Management team, and externally, we use reputed third parties – legal firms, Property Consultants, and Technical Consultants to conduct and deliver Title, Property Valuation and Technical Feasibility reports. The structure of the investment is curated depending on size and duration to make the returns more tax effective for the investors."
-        ]
-    }
+    }    
 ]
 
 const taxationFaq = [
@@ -613,31 +558,23 @@ const NRIFaq = [
 
 const assetOwnerFaq = [
     {
-        name: "Will I know the investors with whom I purchase the property?",
+        name: "Will I know the other investors who are co-investing with me?",
         content: [
-            "The blockchain technology allows 100% transparency of every transaction that happens on the platform. However, every user on the platform will have an encoded public address, which is 40–42characters long. This protects the original identity of every individual while allowing for complete transparency and compliance."
+            "The blockchain technology allows 100% transparency of every transaction that happens on the platform. However, every user on the platform will have an encoded public address, which is 40–42 characters long. This protects the original identity of every individual while allowing for complete transparency and compliance."
         ]
     },
     {
-        name: "What are the fees for asset owners?",
+        name: "What are the fees for the asset owners?",
         content: [
-            "The platform charges a fixed success fee to the asset owner for listing on the platform and a small yearly management fee to the investors on the funds invested or distributed. All the fees are transparent and informed to the user before every investment or transaction."
+            "Fandora would essentially charge an upfront listing fees (to cover up for the legal and diligence process fees) and fund raising fees. All these fees would be discussed and clarified beforehand."
         ]
     },
     {
-        name: "Who takes care of asset management and other legal requirements?",
+        name: "Who takes care of asset management and legal compliances?",
         content: [
-            "Post investment the investors can vote and nominate an asset manager of their choice. The platform shall also help with few suggestions when necessary but in the end decision lies with the investors and is completely transparent. A designated asset manager will then manage the property, distribute shares, making sure updates daily investor's updates, maintains the cap table and share classes through a dedicated asset management portal within the Fandora platform.",
-            "An asset manager who's manages a property and LLP will not have sole rights to sell, re-sell or take any major decision over a property. It's legally structured  in an agreement between investors and Asset manager."
+            "Fandora would take care of basic compliance requirements of the asset. Furthermore, it will also track the progress of each project and keep the investors updated."
         ]
-    },
-    {
-        name: "How are new projects listed on the platform?",
-        content: [
-            "Every project that is listed on the platform first completes a due diligence process and verification on the platform. Both the asset owner and the asset are vetted on the platform. Following which relevant custody of documents and contracts are executed between the asset owner and the platform. Once successful with all these processes, the asset is tokenized and listed on the platform and all the information and documents are made to the investors of the platform.",
-            "Irrespective of the due diligence done on the platform, every investment carries risk and hence, every asset owner is abide by the process of Fandora Platform's Due diligence if they wish to sell their asset in no time by cutting off additional costs."
-        ]
-    }
+    }    
 ]
 
 export { faqCards, getStartedFaq, preInvenstment, postInvenstment, legalFaq, securityFaq, taxationFaq, NRIFaq, assetOwnerFaq }
